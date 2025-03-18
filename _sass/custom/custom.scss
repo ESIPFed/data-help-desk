@@ -1,0 +1,130 @@
+// custom SCSS (or CSS) goes here
+
+.site-title {
+    flex-grow: 1;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    padding-top: $sp-3;
+    padding-bottom: $sp-3;
+    color: $body-heading-color;
+
+    @include container;
+
+    @include fs-4;
+
+    @include mq(md) {
+        padding-top: $sp-2;
+        padding-bottom: $sp-2;
+    }
+}
+
+.site-nav {
+    display: none;
+
+    &.nav-open {
+        display: block;
+    }
+
+    @include mq(md) {
+        display: block;
+        padding-top: $sp-6;
+        padding-bottom: $gutter-spacing-sm;
+        overflow-y: auto;
+        flex: 1 1 auto;
+    }
+}
+
+
+.main-content {
+
+    p {
+        font-size: 1rem;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    #toctitle {
+        font-family: "Playfair Display";
+        position: relative;
+        margin-top: 1.5em;
+        margin-bottom: 0.75em;
+
+        +table,
+        +.table-wrapper,
+        +.code-example,
+        +.highlighter-rouge,
+        +.sectionbody .listingblock {
+            margin-top: 1em;
+        }
+
+        +p:not(.label) {
+            margin-top: 0;
+        }
+    }
+
+    >h1:first-child,
+    >h2:first-child,
+    >h3:first-child,
+    >h4:first-child,
+    >h5:first-child,
+    >h6:first-child,
+    >.sect1:first-child>h2,
+    >.sect2:first-child>h3,
+    >.sect3:first-child>h4,
+    >.sect4:first-child>h5,
+    >.sect5:first-child>h6 {
+        margin-top: $sp-2;
+    }
+
+    ul,
+    ol {
+        padding-left: 1.5em;
+    }
+
+    li {
+        .highlight {
+            margin-top: $sp-1;
+        }
+    }
+
+    ol {
+        list-style-type: none;
+        counter-reset: step-counter;
+
+        >li {
+            position: relative;
+
+            &::before {
+                position: absolute;
+                top: 0.2em;
+                left: -1.6em;
+                color: $grey-dk-000;
+                content: counter(step-counter);
+                counter-increment: step-counter;
+                @include fs-3;
+
+                @include mq(sm) {
+                    top: 0.11em;
+                }
+            }
+
+            ol {
+                counter-reset: sub-counter;
+
+                >li {
+                    &::before {
+                        content: counter(sub-counter, lower-alpha);
+                        counter-increment: sub-counter;
+                    }
+                }
+            }
+        }
+    }
+}
+
+

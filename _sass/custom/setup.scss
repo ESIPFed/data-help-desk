@@ -1,0 +1,58 @@
+// custom setup code goes here
+
+// $nav-width: 16.5rem !default;
+// $nav-width-md: 15.5rem !default;
+// $content-width: 50rem !default;
+
+$nav-width: 17.5rem;
+$nav-width-md: 16.5rem;
+$content-width: 49rem;
+
+// Typography
+
+// prettier-ignore
+// $body-font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
+//     roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji" !default;
+// $mono-font-family: "SFMono-Regular", menlo, consolas, monospace !default;
+// $root-font-size: 16px !default; // DEPRECATED: previously base font-size for rems
+// $body-line-height: 1.4 !default;
+// $content-line-height: 1.6 !default;
+// $body-heading-line-height: 1.25 !default;
+
+// Typography
+
+// prettier-ignore
+$body-font-family: "Source Sans 3", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
+$mono-font-family: "SFMono-Regular", menlo, consolas, monospace;
+$root-font-size: 16px; // DEPRECATED: previously base font-size for rems
+$body-line-height: 1.5;
+$content-line-height: 1.7;
+$body-heading-line-height: 1.25;
+
+// $font-size-1: 0.5625rem !default;
+// $font-size-1-sm: 0.625rem !default;
+// $font-size-2: 0.6875rem !default; // h4 - uppercased!, h6 not uppercased, text-small
+// $font-size-3: 0.75rem !default; // h5
+// $font-size-4: 0.875rem !default;
+// $font-size-5: 1rem !default; // h3
+// $font-size-6: 1.125rem !default; // h2
+// $font-size-7: 1.5rem !default;
+// $font-size-8: 2rem !default; // h1
+// $font-size-9: 2.25rem !default;
+// $font-size-10: 2.625rem !default;
+// $font-size-10-sm: 3rem !default;
+
+
+$font-size-1: 0.65rem;
+$font-size-1-sm: 0.7rem;
+$font-size-2: 0.75rem; // h4 - uppercased!, h6 not uppercased, text-small
+$font-size-3: 0.8rem; // h5
+$font-size-4: 0.9rem;
+$font-size-5: 1.3rem; // h3
+$font-size-6: 1.6rem;
+$font-size-7: 1.8rem;
+$font-size-8: 2rem;
+$font-size-8-sm: 2.2rem;
+
+$header-height: 3.5rem;
+

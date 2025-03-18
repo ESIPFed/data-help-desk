@@ -1,14 +1,18 @@
 ---
 layout: page
-title: Content regarding data
-parent: Content for a data help desk
+title: Content to present
+parent: What to include
 nav_order: 3
 has_toc: false
 ---
 
-# Content regarding data
+# Content to present
 
-## Content for ways to manage data:
+## TODO
+
+Take links out of resources page and put them in here
+
+## To answer ways to manage data:
 
 This is a broad topic, and the sources offer several insights into the specific
 aspects that a data help desk could address.
@@ -39,7 +43,7 @@ aspects that a data help desk could address.
     microfossil data onto a single platform, improving data management and
     accessibility.
 
-## Content to answer why managing data is important:
+## To answer why managing data is important:
 
 The sources emphasize the benefits of good data management practices for
 researchers and the broader scientific community.

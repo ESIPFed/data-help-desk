@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Forums for questions
-parent: Content for a data help desk
+parent: What to include
 nav_order: 2
 has_toc: false
 ---

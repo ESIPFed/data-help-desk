@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentation ideas
-parent: Content for a data help desk
+parent: What to include
 nav_order: 4
 has_toc: false
 ---

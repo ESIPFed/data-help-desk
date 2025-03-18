@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Content for a data help desk
+title: What to include
 permalink: /docs/content/
 nav_order: 7
 has_toc: false
 ---
 
-# Content for a Data Help Desk
+# What to include for a data help desk
 
 ## Content for help desk prior to conference:
 

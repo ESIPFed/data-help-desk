@@ -50,18 +50,15 @@ Here are some of the frequently asked questions, categorized by topic:
 
 -   Where can I find a certain type of data?
 -   Where to find specific datasets?
--   Papers and repositories that include ML keyword/ tagging for discovery
--   Is there open data resource about traffic-related air pollution and cases of
-    asthma and COPD available?
--   environmental health data, open data vs personal/health data
+-   Papers and repositories that include specific keywords/ tagging for
+    discovery
 
 **Data Repositories and Storage**
 
 -   What's a good repository for a certain type of data?
 -   Where can I deposit my model (or other large) datasets?
 -   Where can I archive my data?
--   Good platforms for storing data for soil infiltration
--   Odor community monitoring - cloud storage funding?
+-   Where can I store my data?
 -   Can I just link to my data portal or do I need to put it in a repository (to
     comply with policies at AGU)?
 -   Where can I deposit lightning data (domain-discipline repository)?
@@ -89,7 +86,7 @@ Here are some of the frequently asked questions, categorized by topic:
 
 **Data Management (General)**
 
--   What makes data #FAIR? And what is FAIR anyway?
+-   What makes data FAIR? And what is FAIR anyway?
 -   Working with data among teams; encouraging best practices, defining sampling
     system before fieldwork, early adoption, IGSN
 -   How to make data accessible to educators or people not in the specific field
@@ -97,8 +94,7 @@ Here are some of the frequently asked questions, categorized by topic:
 **Data Citation and Attribution**
 
 -   How can I cite a dataset?
--   Using data from other datasets (citing), data from different instruments,
-    aeronomy, madrigal, CEDAR
+-   Using data from other datasets (citing), data from different instruments
 -   How do I cite my data?
 -   Software citation; reducing duplication?
 
@@ -107,7 +103,7 @@ Here are some of the frequently asked questions, categorized by topic:
 -   How and where can I publish my data or software?
 -   What if I don't want to share my data until I've published papers on it?
 -   Looking for a low-cost publication/journal for climate modelling paper?
-    Self-funded work
+-   Self-funded work
 
 **Software (related to data)**
 
@@ -128,6 +124,8 @@ Here are some of the frequently asked questions, categorized by topic:
 **Data Management Plans (DMPs)**
 
 -   How can I write a good data management plan (DMP)?
+-   Where can I find good instructions or a form for creating a data management
+    plan?
 
 **Compliance with Funders and Publishers**
 

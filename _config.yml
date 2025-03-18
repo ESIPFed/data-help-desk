@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ESIP Data Help Desk
+title: Host a Data Help Desk
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     Learn how to setup and run a data help desk.
@@ -53,3 +53,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Suppress warnings
+sass:
+    quiet_deps: true
+    silence_deprecations: [import]

@@ -2,7 +2,7 @@
 layout: page
 title: How to
 permalink: /docs/how_to/
-nav_order: 5
+nav_order: 6
 has_toc: false
 ---
 

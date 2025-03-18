@@ -2,7 +2,7 @@
 layout: page
 title: Content for a data help desk
 permalink: /docs/content/
-nav_order: 6
+nav_order: 7
 has_toc: false
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Why a data help desk is needed
 permalink: /why-a-data-help-desk/
-nav_order: 1
+nav_order: 3
 has_toc: false
 ---
 

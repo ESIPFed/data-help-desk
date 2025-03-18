@@ -2,7 +2,7 @@
 layout: page
 title: Planning a data help desk
 permalink: /docs/planning/
-nav_order: 4
+nav_order: 5
 has_toc: false
 ---
 

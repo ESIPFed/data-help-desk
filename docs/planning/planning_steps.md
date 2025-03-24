@@ -8,8 +8,6 @@ has_toc: false
 
 # Data help desk planning steps
 
-## Planning timeline for a working data help desk
-
 This planning for help desk should start at least 2 months out from the event.
 
 Is there a breakdown of time points for specific planning areas?

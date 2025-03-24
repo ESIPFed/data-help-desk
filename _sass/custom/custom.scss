@@ -81,6 +81,11 @@
         margin-top: $sp-2;
     }
 
+    h1 {
+        font-size: 2.4rem;
+        margin: 0.67em 0;
+    }
+
     ul,
     ol {
         padding-left: 1.5em;
@@ -92,20 +97,45 @@
         }
     }
 
-    ol {
-        list-style-type: none;
-        counter-reset: step-counter;
+    ul {
+        list-style: none;
 
         >li {
-            position: relative;
-
             &::before {
                 position: absolute;
-                top: 0.2em;
-                left: -1.6em;
-                color: $grey-dk-000;
+                font-size: 1rem;
+                margin-left: -1.4em;
+                color: $blue-200;
+                content: "•";
+            }
+        }
+    }
+
+    ol {
+        list-style: none;
+        counter-reset: step-counter;
+        padding-left: 4rem;
+
+        >li {
+            margin: 0 0 1rem 0;
+            position: relative;
+            padding-left: 0.25rem;
+            padding-top: 0.1rem;
+
+            &::before {
                 content: counter(step-counter);
                 counter-increment: step-counter;
+                color: black;
+                position: absolute;
+                --size: 1.75rem;
+                left: calc(-1 * var(--size) - 10px);
+                line-height: var(--size);
+                width: var(--size);
+                height: var(--size);
+                top: 0;
+                background: #dde7f2;
+                border-radius: 50%;
+                text-align: center;
                 @include fs-3;
 
                 @include mq(sm) {
@@ -118,13 +148,47 @@
 
                 >li {
                     &::before {
-                        content: counter(sub-counter, lower-alpha);
                         counter-increment: sub-counter;
+                        content: counter(sub-counter, lower-alpha);
                     }
                 }
             }
         }
     }
+
+    blockquote {
+        margin: 10px 0;
+        // resets user-agent stylesheets for blockquotes
+        margin-block-start: 0;
+        margin-inline-start: 1rem;
+        padding-left: 1rem;
+        border: 2px solid #e1e1e1;
+        background-color: #f2f1f1;
+        width: 90%;
+        padding: 1.1rem;
+
+        >p {
+            font-size: 1.1rem;
+            font-style: italic;
+        }
+
+    }
+
 }
+
+
+
+a:not([class]) {
+    text-decoration: underline;
+    text-decoration-color: rgba($link-color, 0.7);
+    text-underline-offset: 2px;
+
+    &:hover {
+        text-decoration-color: rgba($link-color, 1);
+        text-decoration-thickness: 0.1rem;
+    }
+}
+
+
 
 

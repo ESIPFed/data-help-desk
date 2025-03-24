@@ -8,7 +8,7 @@ has_toc: false
 
 # List of Data repositories
 
-## Earth Science repositories for data
+## Earth Science data repositories
 
 [Biological and Chemical Oceanography Data Management Office (BCO-DMO)](https://www.bco-dmo.org/)
 BCO-DMO curates a database of research-ready data spanning the full range of

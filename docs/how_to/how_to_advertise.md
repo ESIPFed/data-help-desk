@@ -10,7 +10,8 @@ has_toc: false
 
 ## Email templates to advertise the desk
 
-See [Email templates]({% link docs/resources/email_templates.md %})
+See [Email
+templates]({{ site.baseurl }}{% link docs/resources/email_templates.md %})
 
 ## Social media
 

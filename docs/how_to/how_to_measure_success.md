@@ -107,3 +107,85 @@ questions asked, especially in the initial stages, as it may take time for
 researchers to understand the help desk's purpose and the types of questions
 they can ask. Raising awareness of key concepts like FAIR data can also be
 considered a success in itself.
+
+## How is it determined if a help desk was successful? such as the Number of people interacting, question and answer quality, surveys and questioners.
+
+Determining the success of a help desk involves evaluating various metrics that
+reflect its performance in supporting users, resolving issues, and providing
+excellent customer service. Here are some key indicators to assess the success
+of a help desk:
+
+**Number of Interactions:**
+
+1. **Ticket volume**: The number of tickets submitted through the help desk
+   system.
+2. **User engagement**: The number of users who interact with the help desk,
+   including phone calls, emails, chats, and in-person visits.
+
+**Question and Answer Quality:**
+
+1. **Response time**: The average time taken to respond to user inquiries.
+2. **Resolution rate**: The percentage of tickets resolved within a certain
+   timeframe (e.g., 80% of tickets resolved within 24 hours).
+3. **First-call resolution (FCR)**: The percentage of tickets resolved on the
+   first call or interaction.
+4. **Escalation rate**: The number of tickets escalated to senior technicians or
+   management due to complexity or severity.
+
+**Surveys and Feedback:**
+
+1. **Customer satisfaction surveys**: Regular surveys sent to users to gauge
+   their satisfaction with the help desk's services, including response time,
+   resolution quality, and overall experience.
+2. **Net Promoter Score (NPS)**: A measure of user loyalty and satisfaction,
+   calculated by subtracting the percentage of detractors from the percentage of
+   promoters.
+3. **Feedback forms**: Users' feedback on specific issues or interactions,
+   providing insights into areas for improvement.
+
+**Performance Metrics:**
+
+1. **Average handle time (AHT)**: The average time spent handling a single
+   ticket or user interaction.
+2. **Ticket resolution rate**: The percentage of tickets resolved within a
+   certain timeframe (e.g., 95% of tickets resolved within 24 hours).
+3. **Abandonment rate**: The percentage of tickets abandoned by users before
+   resolution.
+4. **Repeat business rate**: The percentage of users who return for repeat
+   support or services.
+
+**Key Performance Indicators (KPIs):**
+
+1. **First response time (FRT)**: The average time taken to respond to user
+   inquiries.
+2. **Resolution rate**: The percentage of tickets resolved within a certain
+   timeframe.
+3. **Escalation rate**: The number of tickets escalated to senior technicians or
+   management due to complexity or severity.
+4. **Customer satisfaction score (CSS)**: A measure of user satisfaction,
+   calculated by aggregating feedback from surveys and other sources.
+
+**Success Metrics for Specific Use Cases:**
+
+1. **IT service desk**: Measure the percentage of issues resolved within a
+   certain timeframe, such as 90% resolution rate within 2 hours.
+2. **Customer support**: Evaluate the percentage of customer complaints resolved
+   to customers' satisfaction, such as 85% satisfaction rate with phone support.
+3. **Help desk for specific industries (e.g., healthcare)**: Use
+   industry-specific metrics, such as HIPAA compliance and data security, to
+   assess success.
+
+**Metrics for Measuring User Experience:**
+
+1. **User adoption rate**: The percentage of users who adopt the help desk's
+   services or solutions.
+2. **User satisfaction rating**: A measure of user satisfaction with the help
+   desk's performance, calculated by aggregating feedback from surveys and other
+   sources.
+3. **Net user experience score (NUES)**: A measure of overall user experience,
+   calculated by combining multiple metrics, such as response time, resolution
+   rate, and adoption rate.
+
+By tracking these metrics and KPIs, you can evaluate the success of your help
+desk and identify areas for improvement to enhance user satisfaction and support
+quality.

@@ -14,6 +14,13 @@ A data help desk is essential for supporting researchers in managing their data
 effectively, promoting best practices, and ensuring the long-term accessibility
 and usability of research data.
 
+The mission of the Data Help Desk is to advise scientists on the landscape of
+data repositories housing earth science data and to connect them to tools,
+services, and skills, and to support the earth science community’s adoption of
+open science practices and FAIR
+[Findable, Accessible, Interoperable, and Reusable](https://www.force11.org/group/fairgroup/fairprinciples)
+data principles.
+
 ## A data help desk is necessary for several reasons:
 
 1. **Complexity of research data management**: Research datasets can be complex,

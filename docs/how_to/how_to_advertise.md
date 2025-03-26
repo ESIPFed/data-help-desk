@@ -15,12 +15,10 @@ templates]({{ site.baseurl }}{% link docs/resources/email_templates.md %})
 
 ## Social media
 
-Lots of social media posts – but nowadays, where?
+Develop a social media plan with messages to send.
 
-Develop a BlueSky Plan
-
-See
-[template](https://docs.google.com/spreadsheets/d/1VQ1IYzbUm44OIVS-ndzLppz7hzqFy-WKQfc3ZCvvw0U/edit?usp=sharing).
+See [Example media
+messages]({{ site.baseurl }}{% link docs/resources/example_media_messages.md %})
 
 ## At the conference
 

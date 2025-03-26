@@ -2,7 +2,7 @@
 layout: page
 title: Resources - data help desks
 parent: Resources
-nav_order: 5
+nav_order: 6
 has_toc: false
 ---
 
@@ -30,8 +30,6 @@ megancarter@esipfed.org to get an invite. Then, find and join the
 [Virtual data help desk planning guide](https://esip.figshare.com/articles/online_resource/Virtual_Data_Help_Desk_Planning_Guide/19674579/1?file=34939893)
 
 [AGU 2023 desk](https://lists.esipfed.org/pipermail/esip-cdf/2023/000055.html)
-
-[Data help desk Wiki](https://www.idigbio.org/wiki/index.php/ESA_2019_Data_Help_Desk)
 
 ## Journal articles
 

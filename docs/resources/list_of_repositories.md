@@ -59,14 +59,6 @@ data
 NOAA-Paleo archives and distributes a wide range of paleoclimate and
 paleoceanographic data contributed by scientists around the world
 
-[National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov/)
-NCBI is a facility of the National Institutes of Health (NIH) that provides
-access to biomedical and genomic information
-
-[GenBank](https://www.ncbi.nlm.nih.gov/genbank/) GenBank is the National
-Institutes of Health (NIH) genetic sequence database and has an annotated
-collection of publicly available DNA sequences
-
 [Arctic Data Center (ADC)](https://arcticdata.io/) NSF-funded science in the
 Arctic
 
@@ -160,9 +152,6 @@ geologic observational data
 [MagIC (Magnetics Information Consortium)](https://www2.earthref.org/MagIC) open
 community digital data repository for rock and paleomagnetic data
 
-[Morphobank](https://morphobank.org/) anatomy, physiology, behavior and other
-features of species
-
 [Neotoma Paleoecology Database](https://www.neotomadb.org/) paleoecological and
 paleoenvironmental data
 
@@ -234,6 +223,19 @@ The collections hold about 7,500 deep ocean cores, more than 3,500 deep sea
 dredges, and approximately 40,000 slides of marine microfossils in the main rock
 and core collections, and about 10,000 samples of rocks and fossils in the
 teaching collection
+
+## Biology data repositories
+
+[National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov/)
+NCBI is a facility of the National Institutes of Health (NIH) that provides
+access to biomedical and genomic information
+
+[GenBank](https://www.ncbi.nlm.nih.gov/genbank/) GenBank is the National
+Institutes of Health (NIH) genetic sequence database and has an annotated
+collection of publicly available DNA sequences
+
+[Morphobank](https://morphobank.org/) anatomy, physiology, behavior and other
+features of species
 
 ## Generalist repositories
 

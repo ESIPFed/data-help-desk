@@ -98,8 +98,7 @@ reusability of scientific data.
     collection to storage, analysis, preservation, and sharing. By proactively
     addressing these aspects, researchers can prevent significant problems down
     the line, such as data loss, disorganization, or difficulties in sharing and
-    reuse. Furthermore, DMPs can help researchers consider whether they will
-    work with human subjects and need to interact with the IRB.
+    reuse.
 
 1. **Key Components and Considerations:**
     - While specific requirements may vary

@@ -6,6 +6,8 @@ nav_order: 7
 has_toc: false
 ---
 
+TODO: copy content from google doc into this web page
+
 # Create Volunteer Guidelines
 
 Support your volunteers by writing out guidelines and tips to help them prepare

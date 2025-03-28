@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Planning overview
-parent: Planning a data help desk overview
+parent: Planning a data help desk
 nav_order: 1
 has_toc: false
 ---

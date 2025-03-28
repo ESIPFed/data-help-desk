@@ -2,7 +2,7 @@
 layout: page
 title: User interaction
 parent: Planning a data help desk
-nav_order: 6
+nav_order: 7
 has_toc: false
 ---
 

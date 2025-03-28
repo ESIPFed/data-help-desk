@@ -2,7 +2,7 @@
 layout: page
 title: Recruiting data experts
 parent: Planning a data help desk
-nav_order: 4
+nav_order: 5
 has_toc: false
 ---
 

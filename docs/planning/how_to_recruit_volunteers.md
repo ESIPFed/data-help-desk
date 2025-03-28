@@ -2,7 +2,7 @@
 layout: page
 title: Recruiting volunteers
 parent: Planning a data help desk
-nav_order: 5
+nav_order: 6
 has_toc: false
 ---
 

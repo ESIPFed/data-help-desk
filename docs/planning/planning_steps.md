@@ -71,19 +71,19 @@ overall goals of the conference.
     -   Consider renting a separate room or area for the data help desk, if
         possible, to minimize distractions and create a focused environment.
 
-1. **Example script for contacting conference organizers**
-
-> "Hello [Conference Organizer's Name],
->
-> I'm reaching out to inquire about reserving space for our data help desk at
-> the upcoming AGU conference. We're planning to provide support services to
-> attendees on data management best practices, repository selection, and more.
->
-> We'd like to reserve a prime location near the poster sessions or main halls
-> to ensure high visibility and accessibility. Could you please let me know what
-> spaces are available and how we can proceed with booking?
->
-> Thank you for your time and assistance."
+    > **Example script for contacting conference organizers**
+    >
+    > "Hello [Conference Organizer's Name],
+    >
+    > I'm reaching out to inquire about reserving space for our data help desk at
+    > the upcoming AGU conference. We're planning to provide support services to
+    > attendees on data management best practices, repository selection, and more.
+    >
+    > We'd like to reserve a prime location near the poster sessions or main halls
+    > to ensure high visibility and accessibility. Could you please let me know what
+    > spaces are available and how we can proceed with booking?
+    >
+    > Thank you for your time and assistance."
 
 ## Think about the audience
 

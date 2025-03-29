@@ -8,11 +8,13 @@ has_toc: false
 
 # Focus of a Data Help Desk
 
+TODO: update this text to answer what is a data help desk
+
 The primary focus of a data help desk is to provide researchers with
-opportunities to engage with informatics experts who are familiar with their
-scientific domain. This engagement is intended to help researchers learn about
-skills and techniques that will further their research and make their data and
-software more open and FAIR (Findable, Accessible, Interoperable, and Reusable).
+opportunities to engage with experts who are familiar with their scientific
+domain. This engagement is intended to help researchers learn about skills and
+techniques that will further their research and make their data and software
+more open and FAIR (Findable, Accessible, Interoperable, and Reusable).
 
 In essence, the data help desk focuses on empowering researchers with the
 knowledge and resources needed to effectively manage their data, embrace open

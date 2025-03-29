@@ -8,8 +8,6 @@ has_toc: false
 
 # Why is a data help desk needed?
 
-## Overall
-
 A data help desk is essential for supporting researchers in managing their data
 effectively, promoting best practices, and ensuring the long-term accessibility
 and usability of research data.
@@ -21,7 +19,7 @@ open science practices and FAIR
 [Findable, Accessible, Interoperable, and Reusable](https://www.force11.org/group/fairgroup/fairprinciples)
 data principles.
 
-## A data help desk is necessary for several reasons:
+## A data help desk helps with
 
 1. **Complexity of research data management**: Research datasets can be complex,
    large, and diverse, making it challenging for researchers to manage them
@@ -39,7 +37,7 @@ data principles.
    ensuring their preservation and accessibility for future generations is
    crucial, but can be a challenge without specialized expertise.
 
-## A data help desk addresses these challenges by providing:
+## A data help desk provides
 
 1. **Expert advice and guidance**: Trained staff assist researchers with data
    management issues, helping them make informed decisions about data sharing,
@@ -57,7 +55,7 @@ data principles.
    curated, validated, and preserved, data help desks contribute to the
    long-term accessibility and usability of research data.
 
-## By addressing these challenges, a data help desk can:
+## A data help desk can
 
 1. **Increase researcher productivity**: By freeing up time for other research
    activities and reducing the burden of data management tasks.

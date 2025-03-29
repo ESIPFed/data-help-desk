@@ -8,10 +8,12 @@
     padding-top: $sp-3;
     padding-bottom: $sp-3;
     color: $body-heading-color;
+    font-weight: bold;
 
     @include container;
 
-    @include fs-4;
+    //@include fs-4;
+    @include fs-sidebar-title;
 
     @include mq(md) {
         padding-top: $sp-2;
@@ -35,8 +37,28 @@
     }
 }
 
+// .nav-list .nav-list-item .nav-list-link:hover,
+// .nav-list .nav-list-item .nav-list-link.active {
+//     background-image: linear-gradient(-90deg, #c5d2df 10%, #dde7f2 100%, rgba(239, 239, 239, 0) 10%);
+// }
+
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
+    background-image: linear-gradient(-90deg, #b2c4b5 10%, #d6e1d8 100%, rgba(239, 239, 239, 0) 10%);
+}
+
+
 
 .main-content {
+
+    line-height: 1.8rem;
+
+    b,
+    strong {
+        font-weight: bolder;
+        font-family: "Oswald";
+        font-size: 1.1rem;
+    }
 
     p {
         font-size: 1rem;
@@ -49,10 +71,12 @@
     h5,
     h6,
     #toctitle {
-        font-family: "Playfair Display";
+        // font-family: "Playfair Display";
+        font-family: "Oswald";
         position: relative;
-        margin-top: 1.5em;
+        margin-top: 1.8rem;
         margin-bottom: 0.75em;
+        color: #202020;
 
         +table,
         +.table-wrapper,
@@ -67,6 +91,21 @@
         }
     }
 
+    h1 {
+        color: #323b46;
+    }
+
+    h1::first-letter {
+        font-size: 4.5rem;
+    }
+
+    h2,
+    h3,
+    h4{
+        padding: 1.3rem;
+        background-color: #eaeaea;
+    }
+
     >h1:first-child,
     >h2:first-child,
     >h3:first-child,
@@ -79,11 +118,6 @@
     >.sect4:first-child>h5,
     >.sect5:first-child>h6 {
         margin-top: $sp-2;
-    }
-
-    h1 {
-        font-size: 2.4rem;
-        margin: 0.67em 0;
     }
 
     ul,
@@ -105,8 +139,9 @@
                 position: absolute;
                 font-size: 1rem;
                 margin-left: -1.4em;
-                color: $blue-200;
-                content: "•";
+                color: #576677;
+                content: "●";
+                line-height: inherit;
             }
         }
     }
@@ -121,15 +156,17 @@
             position: relative;
             padding-left: 0.25rem;
             padding-top: 0.1rem;
+            padding-bottom: 0.5rem;
 
             &::before {
                 content: counter(step-counter);
                 counter-increment: step-counter;
                 color: black;
                 position: absolute;
-                --size: 1.75rem;
+                --size: 2rem;
                 left: calc(-1 * var(--size) - 10px);
-                line-height: var(--size);
+                //line-height: var(--size);
+                line-height: inherit;
                 width: var(--size);
                 height: var(--size);
                 top: 0;
@@ -156,6 +193,14 @@
         }
     }
 
+    ul > li {
+        padding-bottom: 0.5rem;
+    }
+
+    ol >li >ul > li {
+        padding-bottom: 0.5rem;
+    }
+
     blockquote {
         margin: 10px 0;
         // resets user-agent stylesheets for blockquotes
@@ -165,7 +210,7 @@
         margin-bottom: 2rem;
         padding-left: 1rem;
         border: 2px solid #e1e1e1;
-        background-color: #f2f1f1;
+        background-color: #f9f9f9;
         width: 90%;
         padding: 1.1rem;
 
@@ -190,7 +235,5 @@ a:not([class]) {
         text-decoration-thickness: 0.1rem;
     }
 }
-
-
 
 

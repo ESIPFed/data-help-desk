@@ -10,16 +10,16 @@ has_toc: false
 
 ## Data help desk organizing committee
 
-**Form Organizing Committee:** 5-10 key individuals committed to success of
-event
+-   Form an organizing committee with 5-10 key individuals committed to the
+    success of the event.
 
-**Convene Organizing Committee:** to agree on general plan for the event
+-   Convene an organizing committee to agree on a general plan for the event.
+    It's essential to have a deticated core group of organizers who meet
+    regularly for planning and advertising purposes.
 
-Dedication of a core group of organizers, who meet regularly for planning and
-advertising purposes, is essential.
-
-If the meeting the Data Help Desk is associated with has a certain domain focus,
-it is best to engage a group of organizers who are experts in that area.
+-   If the meeting the Data Help Desk is associated with has a certain domain
+    focus, it is best to engage a group of organizers who are experts in that
+    area.
 
 ## Contacts with associated sponsors & conference hosts
 

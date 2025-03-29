@@ -6,7 +6,7 @@ nav_order: 1
 has_toc: false
 ---
 
-# Planning a data help desk
+# Planning Overview
 
 ## Organize early
 
@@ -15,7 +15,6 @@ has_toc: false
     -   Planning for a data help desk, especially a virtual one, should ideally
         begin at least 2 months before the event. This allows sufficient time
         for organizing, recruiting volunteers, and advertising.
-
 1.  **Form a Dedicated Organizing Committee**
     - It is essential to have a core
     group of dedicated organizers who meet regularly for planning and
@@ -23,14 +22,12 @@ has_toc: false
     individuals committed to the success of the event is recommended. If the
     meeting has a specific domain focus, engage organizers who are experts in
     that area.
-
 1.  **Establish Key Contacts**
     - Identify and work closely with key contacts at
     the meeting host organization and other contributing organizations to ensure
     prominent placement and support.
-
 1.  **Establish a Solid Communication Plan**
-    - Develop a **communication plan**
+    - Develop a communication plan
     both before and during the event. This includes having a presence on the
     main meeting website, mentioning the event in daily emails, and utilizing
     ambassadors to promote the help desk.
@@ -58,14 +55,11 @@ has_toc: false
         both, virtual events require a place for researchers to ask questions
         and a gallery of resources. For hybrid events, coordinate both virtual
         and physical presences.
-
     -   Virtual Help desk: Create a website. Consider obtaining a bit.ly link -
         e.g., bit.ly/DataHelpAGU20
-
     -   Hybrid Virtual and physical. For a hybrid event, the meeting host
         organization can provide guidance on whether a physical Data Help Desk
         component can and should be arranged.
-
     -   Physical location of desk. Getting a conference spot for desk. Finding
         the ideal placement and including meaningful signage within the physical
         venue can be almost as important as having the right experts present.
@@ -76,11 +70,10 @@ has_toc: false
         separate location outside of the bustle of the Exhibit Hall can be
         better.
 
-1.  **Data help desk as part of other events**
+1.  **Data Help Desk as Part of Other Events**
     -   For some meetings, the Data Help Desk is the only event, but you may
         choose to also host these other events if the resources exist to make
         them happen.
-
     - Data Fair can be a larger umbrella over the Data Help Desk that encompasses other events, like Town Halls and other Workshops around the general topic of FAIR and open data and software.
 
 1.  **Secure a Location (Physical and/or Virtual)**
@@ -125,7 +118,7 @@ has_toc: false
 ## User needs
 
 <!-- prettier-ignore -->
-1.  **Be approachable**
+1.  **Be Approachable**
     -   Remember that researchers may not always know what questions to ask, so
         be approachable and help them understand the scope of the data help
         desk. Share science expertise to build trust.
@@ -165,11 +158,9 @@ has_toc: false
         and other methods. Track metrics of success, such as the number of
         interactions, quality of answers, and engagement with resources.
         Post-event surveys can gather valuable insights for future improvements.
-
 1.  **Acknowledge Sponsors and Supporters**
     -   Clearly communicate who the organizing entities and further supporters
         are on signage and websites.
-
 1.  **Plan for Post-Event Engagement**
     -   Think about ways to engage with people after the conference, such as
         collecting emails to send surveys or promote relevant Slack channels.

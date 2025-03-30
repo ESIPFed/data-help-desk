@@ -20,19 +20,19 @@ Setting up a data help desk involves several strategic steps that ensure
 effective support for researchers and users seeking data management guidance.
 Here’s a breakdown of the process:
 
-1. [Prepare early](#prepare-early)
-1. [Think about the audience](#think-about-the-audience)
-1. [Define the purpose and scope](#define-the-purpose-and-scope)
-1. [Reserve event space early](#reserve-event-space-early)
+1. [Prepare Early](#prepare-early)
+1. [Define the Purpose and Scope](#define-the-purpose-and-scope)
+1. [Think About the Audience](#think-about-the-audience)
+1. [Reserve Event Space Early](#reserve-event-space-early)
 1. [Advertise](#advertise)
-1. [Recruit volunteers and experts](#recruit-volunteers-and-experts)
-1. [Creating a Collection of Resources](#creating-a-collection-of-resources)
-1. [Outlining Types of Questions](#outlining-types-of-questions)
-1. [Prepare educational materials](#prepare-educational-materials)
-1. [Infrastructure](#infrastructure)
-1. [Create a scheduling system](#create-a-scheduling-system)
-1. [Establish a tracking system](#establish-a-tracking-system)
-1. [After the help desk event](#after-the-help-desk-event)
+1. [Recruit Volunteers and Experts](#recruit-volunteers-and-experts)
+1. [Outline Types of Questions](#outline-types-of-questions)
+1. [Prepare Educational Materials](#prepare-educational-materials)
+1. [Create a Collection of Resources](#create-a-collection-of-resources)
+1. [Setup Infrastructure](#setup-infrastructure)
+1. [Create a Scheduling System](#create-a-scheduling-system)
+1. [Establish a Tracking System](#establish-a-tracking-system)
+1. [After the Help Desk Event](#after-the-help-desk-event)
 
 ## Prepare Early
 
@@ -79,6 +79,46 @@ overall goals of the conference.
     > spaces are available and how we can proceed with booking?
     >
     > Thank you for your time and assistance."
+
+## Define the Purpose and Scope
+
+It is crucial to begin by clearly identifying the objectives you wish to
+achieve. Understanding the types of inquiries you anticipate is fundamental in
+shaping the help desk’s focus and ensuring it effectively meets the needs of its
+users.
+
+A data help desk serves several key objectives, all centered around supporting
+researchers in managing and utilizing their data effectively and in alignment
+with best practices and open science principles. Understanding the types of
+inquiries often encountered is crucial in shaping the help desk’s focus and
+ensuring it meets the needs of users.
+
+<!-- prettier-ignore -->
+1. **Key Objectives**
+    -   Providing researchers with opportunities to engage with  experts
+        familiar with their scientific domain.
+    -   Equipping researchers with skills and techniques that will help further
+        their research. The goal is not just to answer questions but to empower
+        researchers to improve their data practices.
+    -   Facilitating the adoption of FAIR data principles (Findable, Accessible,
+        Interoperable, Reusable) and open science practices for data and software.
+        This addresses the growing emphasis on making research outputs more
+        accessible and reusable.
+    -   Addressing a wide range of data-related questions that researchers encounter
+        throughout the research lifecycle.
+    - Providing a central point of contact
+        to streamline the process of getting data-related support.
+    -   Helping researchers meet the increasing demands and expectations of
+        publishers and funding agencies regarding open and FAIR data and software.
+        This is a significant driver for many researchers seeking assistance.
+    -   Addressing the identified lack of formal training in research data
+        management among many researchers. The help desk can serve as an informal
+        educational resource to bridge this gap.
+    -   Guiding researchers in key data management tasks such as finding and
+        depositing data, understanding FAIR principles, and creating data management
+        plans.
+    -   Analyzing the types of questions
+        asked to inform future research data management training efforts and the staffing of information services.
 
 ## Think About the Audience
 
@@ -141,67 +181,6 @@ stages who need to comply with these evolving mandates would benefit.
     researchers, established researchers may also have questions about evolving
     data management standards, new tools and technologies (such as AI), or best
     practices for data sharing and preservation.
-
-## Define the Purpose and Scope
-
-It is crucial to begin by clearly identifying the objectives you wish to
-achieve. Understanding the types of inquiries you anticipate is fundamental in
-shaping the help desk’s focus and ensuring it effectively meets the needs of its
-users.
-
-A data help desk serves several key objectives, all centered around supporting
-researchers in managing and utilizing their data effectively and in alignment
-with best practices and open science principles. Understanding the types of
-inquiries often encountered is crucial in shaping the help desk’s focus and
-ensuring it meets the needs of users.
-
-<!-- prettier-ignore -->
-1. **Key Objectives**
-    -   Providing researchers with opportunities to engage with  experts
-        familiar with their scientific domain.
-    -   Equipping researchers with skills and techniques that will help further
-        their research. The goal is not just to answer questions but to empower
-        researchers to improve their data practices.
-    -   Facilitating the adoption of FAIR data principles (Findable, Accessible,
-        Interoperable, Reusable) and open science practices for data and software.
-        This addresses the growing emphasis on making research outputs more
-        accessible and reusable.
-    -   Addressing a wide range of data-related questions that researchers encounter
-        throughout the research lifecycle.
-    - Providing a central point of contact
-        to streamline the process of getting data-related support.
-    -   Helping researchers meet the increasing demands and expectations of
-        publishers and funding agencies regarding open and FAIR data and software.
-        This is a significant driver for many researchers seeking assistance.
-    -   Addressing the identified lack of formal training in research data
-        management among many researchers. The help desk can serve as an informal
-        educational resource to bridge this gap.
-    -   Guiding researchers in key data management tasks such as finding and
-        depositing data, understanding FAIR principles, and creating data management
-        plans.
-    -   Analyzing the types of questions
-        asked to inform future research data management training efforts and the staffing of information services.
-
-1. **Outline Questions to Address**
-    - data archiving
-    - data management
-    - data formats
-    - data sharing requirements of funding agencies
-    - FAIR data
-    - software available to work with data
-    - data visualization
-    - programming languages and tutorials
-    - citations
-    - assigning DOIs
-    - locating data
-    - metadata creation
-
-1. **Gather Resources and Content**
-    - See the
-      [resources]({{ site.baseurl }}{% link docs/resources_overview.md %}) and
-      [content]({{ site.baseurl }}{% link docs/content_overview.md %}) section
-      of this website for more topic areas, user questions, and a list of data
-      repositiories.
 
 ## Reserve Event Space Early
 
@@ -289,7 +268,7 @@ to effectively explain complex data management topics in accessible terms.
    - Clear communication with your team about their roles and responsibilities
    will create a cohesive support system.
 
-1. **Assemble a team of experts**
+1. **Assemble a Team of Experts**
     - Assemble a mix of data managers, scientists, and technical staff with diverse earth science expertise and strong communication skills.
     - Data managers: experts in data storage, sharing, and management.
     - Scientists: familiar with the research community's needs and challenges.
@@ -317,30 +296,7 @@ the resources available, and the procedures for answering complex inquiries.
     - Repository selection and metadata standards
     - Data sharing and collaboration best practices
 
-## Creating a Collection of Resources
-
-A crucial component of a successful data help desk is a well-curated collection
-of resources to address common questions and provide further learning
-opportunities. This Collection Can Include:
-
--   Recorded demos and tutorials on tools, platforms, and data management best
-    practices.
--   One-pagers and handouts providing concise information on key topics such as
-    FAIR principles, data citation, and data management planning.
--   A rotating slide deck displayed at a physical help desk with useful prompts
-    and information.
--   A gallery of recorded demos, tutorials, and one-pagers accessible online.
--   Links to external online resources, including data repositories, relevant
-    organizations, data management training materials, and articles. Consider
-    organizing these links for easy access.
--   Contact information for users to follow up with experts if their questions
-    cannot be immediately answered.
--   Consider establishing year-round support services such as a dedicated email
-    address or a Slack channel where users can ask questions.
--   Volunteer guidelines to support experts in contributing effectively.
--   Document frequently asked questions (FAQs)
-
-## Outlining Types of Questions
+## Outline Types of Questions
 
 To effectively focus your data help desk, it is essential to clearly outline the
 types of questions you aim to address. The list you provided covers many common
@@ -375,8 +331,9 @@ inquiries:
 1. **Programming Languages and Tutorials:** Requests for resources and tutorials
    for learning programming languages relevant to data science, such as Python
    or R.
-1. **Citations:** Proper methods for citing datasets and software in
-   publications, including how to trace the number of citations.
+1. **Citations:** Proper methods for citing datasets in publications, including
+   how to trace the number of citations. Policies and best practices for sharing
+   research software, including licensing and citation.
 1. **Assigning DOIs:** Guidance on how to obtain and assign Digital Object
    Identifiers (DOIs) to datasets and potentially software or computational
    notebooks.
@@ -392,20 +349,15 @@ inquiries:
    resources for making research outputs openly available.
 1. **Data Management Plans (DMPs):** Guidance on creating effective data
    management plans to meet funder and institutional requirements.
-1. **Software Sharing and Citation:** Policies and best practices for sharing
-   research software, including licensing and citation.
-1. **Reproducibility:** Strategies for ensuring research workflows are
-   reproducible.
 
 ## Prepare Educational Materials
 
 Develop educational materials tailored to common data management queries.
 
 <!-- prettier-ignore -->
-1. **Quick-reference guides:** For common data formats, metadata templates, and repository submission workflows.
 1. **Easy-to-follow tutorials:** For data management best practices
 1. **Frequently asked questions (FAQs) document:** See [questions from users]({{ site.baseurl }}{% link docs/resources/user_questions.md %})
-1.  **Create quick-reference guides:** addressing frequently used data formats,
+1.  **Quick-reference guides:** For addressing frequently used data formats,
     metadata templates, and repository submission workflows.
     - These handouts
     should be concise and easy to understand, assisting attendees in grasping
@@ -422,7 +374,6 @@ Develop educational materials tailored to common data management queries.
     > Includes sections on data formats, metadata standards, and repository submission workflows.
     >
     > Provides examples and case studies to illustrate key concepts.
-
 <!-- prettier-ignore -->
 1.  **Build a Resource Database:**
     -   See [resources
@@ -436,7 +387,27 @@ of reference for attendees looking for more information.
       DOIs, CSW).
     - FAQs document with common questions and answers on data management topics.
 
-## Infrastructure
+## Create a Collection of Resources
+
+A crucial component of a successful data help desk is a well-curated collection
+of resources to address common questions and provide further learning
+opportunities. This Collection Can Include:
+
+-   Recorded demos and tutorials on tools, platforms, and data management best
+    practices.
+-   One-pagers and handouts providing concise information on key topics such as
+    FAIR principles, data citation, and data management planning.
+-   A rotating slide deck displayed at a physical help desk with useful prompts
+    and information.
+-   A gallery of recorded demos, tutorials, and one-pagers accessible online.
+-   Links to external online resources, including data repositories, relevant
+    organizations, data management training materials, and articles. Consider
+    organizing these links for easy access.
+-   Document frequently asked questions (FAQs)
+
+-   Volunteer guidelines to support experts in contributing effectively.
+
+## Setup Infrastructure
 
 <!-- prettier-ignore -->
 1. **Choose a Platform and Set Up Infrastructure**
@@ -546,9 +517,9 @@ users effectively.
     - Maintain a repository of frequently asked questions and expert responses that
 can serve as a resource for future inquiries.
 
+
 1. **Plan a Follow-up Mechanism**
     - Create a system to handle post-conference questions and track long-term impact through user feedback. This establishes a clear plan for ongoing support and evaluation and encourages continuous improvement of data help desk services.
-
     > **Example follow-up mechanism**
     >
     > Set up an email address or online form for users to submit follow-up
@@ -559,3 +530,6 @@ can serve as a resource for future inquiries.
     >    -   Feedback type (positive/negative/neutral)
     >    -   Comment
     >    -   Resolution status
+1. **Conside Long Term Contact**
+    - Consider establishing year-round support services such as a dedicated email
+    address or a Slack channel where users can ask questions.

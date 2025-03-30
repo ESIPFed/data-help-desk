@@ -8,13 +8,13 @@ has_toc: false
 
 # User Interaction
 
-## How much time will a user interact with a help desk and how detailed should the answers be from a data help desk?
-
 The amount of time a user interacts with a help desk can vary depending on the
 complexity of their question, the type of issue they're experiencing, and the
-level of support required. However, here are some general guidelines:
+level of support required. By following these guidelines, you can tailor your
+help desk's response to meet the needs of each user and provide effective
+support for managing research data. However, here are some general guidelines:
 
-**Average interaction time:**
+## Average interaction time
 
 1. **Simple questions**: 5-15 minutes (e.g., clarifying a process or providing
    basic information)
@@ -23,7 +23,7 @@ level of support required. However, here are some general guidelines:
 3. **Complex problems**: 1-2 hours or more (e.g., implementing a new solution or
    resolving a critical issue)
 
-**Level of detail for answers:**
+## Level of detail for answers
 
 The level of detail required from a data help desk will depend on the user's
 needs and the complexity of their question. Here are some guidelines:
@@ -44,7 +44,7 @@ needs and the complexity of their question. Here are some guidelines:
    reviews, debuggings, or expert-level troubleshooting (e.g., "This is a known
    issue; I'll need to review your code to provide a fix.")
 
-**Best practices:**
+## Best practices
 
 1. **Clearly define the scope of the help desk's response**: Establish clear
    boundaries and expectations for what will be covered in the response.
@@ -55,6 +55,3 @@ needs and the complexity of their question. Here are some guidelines:
 4. **Follow up with additional information**: If necessary, provide follow-up
    information or check-in with the user to ensure their issue is fully
    resolved.
-
-By following these guidelines, you can tailor your help desk's response to meet
-the needs of each user and provide effective support for managing research data.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Planning steps
+title: Detailed planning steps
 parent: Planning a data help desk
 nav_order: 2
 has_toc: false
@@ -22,16 +22,19 @@ Here’s a breakdown of the process:
 
 1. [Prepare Early](#prepare-early)
 1. [Define the Purpose and Scope](#define-the-purpose-and-scope)
-1. [Think About the Audience](#think-about-the-audience)
+1. [Identify the Audience](#identify-the-audience)
 1. [Reserve Event Space Early](#reserve-event-space-early)
 1. [Advertise](#advertise)
 1. [Recruit Volunteers and Experts](#recruit-volunteers-and-experts)
+1. [Train Help Desk Staff](#train-help-desk-staff)
 1. [Outline Types of Questions](#outline-types-of-questions)
 1. [Prepare Educational Materials](#prepare-educational-materials)
 1. [Create a Collection of Resources](#create-a-collection-of-resources)
 1. [Set Up Infrastructure](#set-up-infrastructure)
 1. [Create a Scheduling System](#create-a-scheduling-system)
 1. [Establish a Tracking System](#establish-a-tracking-system)
+1. Interact With Users **Add Content**
+1. Give Presentations **Add Content**
 1. [After the Help Desk Event](#after-the-help-desk-event)
 
 ## Prepare Early
@@ -120,7 +123,7 @@ ensuring it meets the needs of users.
     -   Analyzing the types of questions
         asked to inform future research data management training efforts and the staffing of information services.
 
-## Think About the Audience
+## Identify the Audience
 
 Determining the target audience for a data help desk involves identifying who
 would most benefit from its services. Understanding these diverse needs and
@@ -237,8 +240,7 @@ is crucial for attracting attendees.
       users about the services offered.
     - Promote upcoming sessions, available experts, or specific topics that will
       be discussed.
-    - Incorporating signage during in-person events and clear online visuals can
-      enhance user awareness.
+    - Incorporate signage during in-person events along with clear online visuals can enhance user awareness.
 
 1. **Promote Communication Channels**
     - Use platforms such as a dedicated Slack channel or social media (e.g., a
@@ -276,6 +278,8 @@ to effectively explain complex data management topics in accessible terms.
 
 ## Train Help Desk Staff
 
+### **TODO: Add more content**
+
 This preparation will equip your team to provide confident and accurate
 assistance, ensuring a positive experience for those who approach the help desk.
 
@@ -299,8 +303,7 @@ the resources available, and the procedures for answering complex inquiries.
 ## Outline Types of Questions
 
 To effectively focus your data help desk, it is essential to clearly outline the
-types of questions you aim to address. The list you provided covers many common
-inquiries:
+types of questions you aim to address.
 
 1. **Data Archiving:** Questions about where and how to preserve data for the
    long term. This includes inquiries about suitable repositories and best
@@ -491,6 +494,14 @@ help desk initiatives.
     > - Topic discussed
     > - Resolution (yes/no) or notes
     > - Follow-up needed (yes/no)
+
+## Interact With Users
+
+### TODO: add content
+
+## Give Presentations
+
+### TODO: add content
 
 ## After the Help Desk Event
 

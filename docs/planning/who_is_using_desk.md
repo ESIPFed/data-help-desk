@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Who uses a data help desk?
+title: Users of a help desk
 parent: Planning a data help desk
 nav_order: 6
 has_toc: false
 ---
 
-# Who is Using a Data Help Desk?
+# Users of a Data Help Desk
 
 The output of a data help desk can be used by various stakeholders across
 different levels of researchers. Here's a breakdown of who might use the output:

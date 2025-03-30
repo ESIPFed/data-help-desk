@@ -64,7 +64,7 @@ resources.
     - Access to specialized software, such as data analysis or visualization
       tools, for users to work with.
 
-## People
+## Connections
 
 1. **Partnerships with institutions and organizations**
     - Collaborations with universities, research institutions, and organizations

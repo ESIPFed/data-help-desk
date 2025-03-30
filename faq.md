@@ -8,6 +8,15 @@ has_toc: false
 
 # FAQ
 
+## What is a data help desk? (TODO: Expand on this)
+
+A data help desk provides researchers with opportunities to engage with
+informatics experts familiar with their scientific domain and learn about skills
+and techniques that help further research and make data and software open and
+FAIR. It serves as a reference desk staffed with experts to answer questions and
+provide demos of tools and resources. It can be a physical, virtual, or hybrid
+service.
+
 ## Why is a data help desk needed?
 
 A data help desk is needed because researchers often have data-related questions
@@ -40,16 +49,6 @@ and implement FAIR data practices. Many attendees at past help desks have asked
 about creating data management plans and finding suitable repositories for their
 research data. The community also benefits from better integration of data
 management practices and resources at scientific meetings.
-
-## What is the definition or description of a data help desk?
-
-A data help desk provides researchers with opportunities to engage with
-informatics experts familiar with their scientific domain and learn about skills
-and techniques that help further research and make data and software open and
-FAIR. It serves as a reference desk staffed with experts to answer questions and
-provide demos of tools and resources. It can be a physical, virtual, or hybrid
-service. The Data Help Desk is often part of a larger initiative like Data FAIR,
-which encompasses other events related to open and FAIR data and software.
 
 ## What should a data help desk accomplish?
 

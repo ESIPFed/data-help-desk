@@ -123,6 +123,35 @@ the sources:
     in their careers who want to expand their network and understanding of
     community needs.
 
+> **Example volunteer advertisement**
+>
+> Volunteer to be a Data or Software Expert for the upcoming Virtual Data (and
+> software) Help Desk, to be hosted during #vEGU21 Meeting (19-30 April 2021).
+>
+> This event, which is a program of the Earth Science Information Partners
+> (ESIP), EGU, and AGU, connects researchers with informatics experts familiar
+> with their scientific domain to learn about skills and techniques that will
+> help further their research and make their data and software open and FAIR.
+> You can volunteer to take part in one or more of the following ways:
+>
+> -   Answer data (and software) questions (monitor platform and answer where
+>     you can)
+>
+> -   Share a recorded demo (share a brief recorded demo of a tool or resource,
+>     ideally <5 min)
+>
+> -   Share a one-pager about your tool or resource
+>
+> To volunteer, please complete this brief form \[link to the form\], as soon as
+> possible
+>
+> Don't miss this chance to help others with data-related questions and to demo
+> your tool or platform! Questions?
+>
+> Contact DataHelpDesk. We ask data experts to monitor the #DataHelpDesk Twitter
+> stream and reply directly to any questions they see there via their own
+> Twitter account.
+
 ## Vetting Volunteers
 
 TODO: how are volunteers vetted?

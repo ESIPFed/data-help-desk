@@ -6,7 +6,7 @@ nav_order: 6
 has_toc: false
 ---
 
-# Who is using the output of a data help desk?
+# Who is Using a Data Help Desk?
 
 The output of a data help desk can be used by various stakeholders across
 different levels of researchers. Here's a breakdown of who might use the output:

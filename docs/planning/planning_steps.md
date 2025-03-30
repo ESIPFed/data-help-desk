@@ -29,7 +29,7 @@ Here’s a breakdown of the process:
 1. [Outline Types of Questions](#outline-types-of-questions)
 1. [Prepare Educational Materials](#prepare-educational-materials)
 1. [Create a Collection of Resources](#create-a-collection-of-resources)
-1. [Setup Infrastructure](#setup-infrastructure)
+1. [Set Up Infrastructure](#set-up-infrastructure)
 1. [Create a Scheduling System](#create-a-scheduling-system)
 1. [Establish a Tracking System](#establish-a-tracking-system)
 1. [After the Help Desk Event](#after-the-help-desk-event)
@@ -407,7 +407,7 @@ opportunities. This Collection Can Include:
 
 -   Volunteer guidelines to support experts in contributing effectively.
 
-## Setup Infrastructure
+## Set Up Infrastructure
 
 <!-- prettier-ignore -->
 1. **Choose a Platform and Set Up Infrastructure**
@@ -417,7 +417,7 @@ at conferences, a virtual service, or a combination of both?
 digital platform (such as a website, social media accounts, Discord or Slack)
 where users can ask questions in real-time can increase accessibility. Using various channels and private survey forms can facilitate user engagement.
 
-1. **Setup Workstations**
+1. **Set Up Workstations**
     - Your help desk should be equipped with 2-3 workstations featuring laptops
 pre-loaded with essential software tools, such as Python, R, and Ocean Data View
 (ODV). Access to major oceanographic data repositories like BCO-DMO, NCEI, and

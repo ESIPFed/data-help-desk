@@ -6,7 +6,7 @@ nav_order: 5
 has_toc: false
 ---
 
-# How to recruit data experts
+# How to Recruit Data Experts
 
 No Data Help Desk can be successful without the dedication of a number of data
 (and software) experts who can address researcher questions, refer researchers

@@ -26,9 +26,9 @@ Here’s a breakdown of the process:
 1. [Reserve Event Space Early](#reserve-event-space-early)
 1. [Advertise](#advertise)
 1. [Recruit Volunteers and Experts](#recruit-volunteers-and-experts)
-1. [Train Help Desk Staff](#train-help-desk-staff)
 1. [Outline Types of Questions](#outline-types-of-questions)
 1. [Prepare Educational Materials](#prepare-educational-materials)
+1. [Train Help Desk Staff](#train-help-desk-staff)
 1. [Create a Collection of Resources](#create-a-collection-of-resources)
 1. [Set Up Infrastructure](#set-up-infrastructure)
 1. [Create a Scheduling System](#create-a-scheduling-system)
@@ -276,30 +276,6 @@ to effectively explain complex data management topics in accessible terms.
     - Scientists: familiar with the research community's needs and challenges.
     - Technical staff: skilled in IT and software development to support technical aspects of data help desk services.
 
-## Train Help Desk Staff
-
-### **TODO: Add more content**
-
-This preparation will equip your team to provide confident and accurate
-assistance, ensuring a positive experience for those who approach the help desk.
-
-You might also consider conducting a preliminary training session to ensure that
-all team members are aligned on the key issues attendees are likely to face,
-such as data sharing, data analysis tools, and repository selections.
-
-<!-- prettier-ignore -->
-1. **Brief staff prior to the conference**
-    - This briefing should cover common issues that attendees may face, a review of
-the resources available, and the procedures for answering complex inquiries.
-    - This ensures that staff are well-prepared to provide excellent support services.
-    - Discusses potential challenges and areas for improvement.
-
-1. **Example training agenda**
-    - Introduction to data help desk services
-    - Common data management issues and solutions
-    - Repository selection and metadata standards
-    - Data sharing and collaboration best practices
-
 ## Outline Types of Questions
 
 To effectively focus your data help desk, it is essential to clearly outline the
@@ -389,6 +365,30 @@ of reference for attendees looking for more information.
     - Links to oceanographic data management standards and best practices (e.g.,
       DOIs, CSW).
     - FAQs document with common questions and answers on data management topics.
+
+## Train Help Desk Staff
+
+### **TODO: Add more content**
+
+This preparation will equip your team to provide confident and accurate
+assistance, ensuring a positive experience for those who approach the help desk.
+
+You might also consider conducting a preliminary training session to ensure that
+all team members are aligned on the key issues attendees are likely to face,
+such as data sharing, data analysis tools, and repository selections.
+
+<!-- prettier-ignore -->
+1. **Brief staff prior to the conference**
+    - This briefing should cover common issues that attendees may face, a review of
+the resources available, and the procedures for answering complex inquiries.
+    - This ensures that staff are well-prepared to provide excellent support services.
+    - Discusses potential challenges and areas for improvement.
+
+1. **Example training agenda**
+    - Introduction to data help desk services
+    - Common data management issues and solutions
+    - Repository selection and metadata standards
+    - Data sharing and collaboration best practices
 
 ## Create a Collection of Resources
 

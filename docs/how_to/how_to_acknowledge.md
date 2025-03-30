@@ -6,7 +6,7 @@ nav_order: 3
 has_toc: false
 ---
 
-# How to give acknowledgement to sponsors & volunteers
+# How to Give Acknowledgement to Sponsors & Volunteers
 
 We have often called the data help desk a “program of X, Y, and Z” and further
 supported by many other individuals and organizations. X, Y, and Z have

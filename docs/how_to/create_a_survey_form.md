@@ -25,17 +25,19 @@ Consider forms to submit questions in a more anonymous way (or at least not as
 publicly as Twitter). This also works well if they do not have Twitter. The
 questions on the form are:
 
-### An example survey
-
-○ Please share your question related to any aspect of Earth science data (e.g.,
-finding, sharing, analyzing, publishing, and citing data). Please be as specific
-as possible.
-
-○ Name (optional)
-
-○ Email (required)
-
-○ Career Stage (optional)
+> **An example survey**
+>
+> Please share your question related to any aspect of Earth science data (e.g.,
+> finding, sharing, analyzing, publishing, and citing data). Please be as
+> specific as possible.
+>
+> ○ Name (optional)
+>
+> ○ Email (required)
+>
+> ○ Career Stage (optional)
+>
+> ○ Data Question
 
 ## More questions to put on a survey form
 

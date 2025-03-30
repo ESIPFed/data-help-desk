@@ -6,7 +6,7 @@ nav_order: 1
 has_toc: false
 ---
 
-# How to advertise the data help desk
+# How to Advertise the Data Help Desk
 
 ## Email templates to advertise the desk
 
@@ -19,6 +19,28 @@ Develop a social media plan with messages to send.
 
 See [Example media
 messages]({{ site.baseurl }}{% link docs/resources/example_media_messages.md %})
+
+## Media plan
+
+Generating a robust plan, including a schedule of tweets to advertise that the
+event is happening, along with example questions, and featured resources is key.
+The use of scheduling software like Tweetdeck or Buffer can be extremely
+helpful. Having key hashtags that are used in each Tweet is important.
+
+At a minimum, these have so far been #DataHelpDesk and the hashtag for the
+associated conference (e.g., #AGU21). At some point, it may be better to have a
+main Twitter account associated with the event, so that hashtags cannot be
+confused with or commandeered to promote other activities and resources. This
+account would need to be a shared resource amongst all Data Help Desk
+organizers.
+
+Having a twitter plan that includes numerous tweets each day drawing attention
+both to the broader event and to specific topics & resources can help with this.
+Tweets (and retweets) coming from numerous people and organizations using
+#DataHelpDesk can be very effective and help show that the Data Help Desk is a
+truly collaborative effort. Having a contact at the meeting host organization
+(AGU, EGU, etc.) who is willing to retweet anything you send out can also help
+reach more people.
 
 ## At the conference
 
@@ -64,24 +86,24 @@ creates another place that data expert volunteers have to monitor.
 
 ## Here are good steps to take to advertise that you are hosting a data help desk:
 
--   **Name and Affiliation:** Clearly state the name of the help desk, for
-    example, "**Open Science & Data Help Desk**". Also, mention the organizing
-    bodies, such as "**a program of AGU, ESIP, and their partners**". If it's
-    associated with a specific event, like "**during AGU24**" or "**at EGU25**",
-    make this prominent. Emphasize if it's a "**Virtual Data Help Desk**".
+-   Name and Affiliation: Clearly state the name of the help desk, for example,
+    "Open Science & Data Help Desk". Also, mention the organizing bodies, such
+    as "a program of AGU, ESIP, and their partners". If it's associated with a
+    specific event, like "during AGU24" or "at EGU25", make this prominent.
+    Emphasize if it's a "Virtual Data Help Desk".
 
--   **When and Where:** Specify the dates and times of the help desk. For
-    in-person events, mention the exact location, such as "**Visit our booth at
-    the Open Science Pavilion in the Exhibit Hall A**" or "**Exhibit Hall Booth
-    #1423 within the Open Science Pavilion**" for AGU, or "**[Exhibit Booth
-    #X208]{.mark}"** for EGU. For virtual events, provide the online platform or
-    link where users can ask questions, such as "**Ask questions online here:
-    https://esipfed.org/datahelp**". For hybrid events, clearly state both the
+-   When and Where: Specify the dates and times of the help desk. For in-person
+    events, mention the exact location, such as "Visit our booth at the Open
+    Science Pavilion in the Exhibit Hall A" or "Exhibit Hall Booth #1423 within
+    the Open Science Pavilion" for AGU, or "[Exhibit Booth #X208]{.mark}" for
+    EGU. For virtual events, provide the online platform or link where users can
+    ask questions, such as "Ask questions online here:
+    https://esipfed.org/datahelp". For hybrid events, clearly state both the
     physical and virtual components.
 
--   **What Users Can Get Help With:** Clearly articulate the types of questions
-    and assistance users can expect. Use phrases like "**Bring your questions
-    for our experts!**". Provide specific examples of topics, such as:
+-   What Users Can Get Help With: Clearly articulate the types of questions and
+    assistance users can expect. Use phrases like "Bring your questions for our
+    experts!". Provide specific examples of topics, such as:
 
     -   How and where to publish data or software.
     -   Where to find specific types of data.
@@ -90,62 +112,62 @@ creates another place that data expert volunteers have to monitor.
     -   Complying with funder and publisher requirements for data and software.
     -   General data management, information management, metadata, data
         repositories, programming, data publication, data visualization, and
-        data analysis. Highlight that attendees can "**Engage with Informatics
-        Experts**" and "**Learn Skills and Techniques**" to "**Make your Data
-        Open and FAIR**".
+        data analysis. Highlight that attendees can "Engage with Informatics
+        Experts" and "Learn Skills and Techniques" to "Make your Data Open and
+        FAIR".
 
--   **Presentations/Demos:** If there will be scheduled demos or tutorials,
-    advertise these in advance. Mention that attendees can "**see demonstrations
-    of relevant tools and platforms**". If a schedule of experts and demos is
+-   Presentations/Demos: If there will be scheduled demos or tutorials,
+    advertise these in advance. Mention that attendees can "see demonstrations
+    of relevant tools and platforms". If a schedule of experts and demos is
     available, post it online for easy access. Encourage volunteers giving demos
-    to have "**visually intriguing**" slides to attract attention.
+    to have "visually intriguing" slides to attract attention.
 
--   **Topic Areas and Expertise of Volunteers:** If possible, highlight the
+-   Topic Areas and Expertise of Volunteers: If possible, highlight the
     diversity of expertise available at the help desk. You could mention general
     topic areas that volunteers can provide advice on. For in-person events,
-    volunteers can even say "**Ask me about [fill in your data expertise]**".
+    volunteers can even say "Ask me about [fill in your data expertise]".
 
--   **Multiple Phases of Communication:** Implement a communication plan before
-    and during the event.
+-   Multiple Phases of Communication: Implement a communication plan before and
+    during the event.
 
-    -   **Well in Advance (2+ months):** Start planning and advertising early.
-    -   **Leading up to the Event:**
-        -   **Presence on Meeting Website:** Ensure the help desk is prominently
+    -   Well in Advance (2+ months): Start planning and advertising early.
+    -   Leading up to the Event:
+        -   Presence on Meeting Website: Ensure the help desk is prominently
             featured on the main meeting website with clear deadlines.
-        -   **Email Announcements:** Utilize email lists and newsletters to
-            share information about the help desk and encourage attendance.
-            Consider asking the meeting host to include information in daily
-            emails to participants.
-        -   **Social Media:** Develop a social media plan, including suggested
-            posts and relevant hashtags (e.g., #DataHelpDesk, #AGU24, #EGU25).
+        -   Email Announcements: Utilize email lists and newsletters to share
+            information about the help desk and encourage attendance. Consider
+            asking the meeting host to include information in daily emails to
+            participants.
+        -   Social Media: Develop a social media plan, including suggested posts
+            and relevant hashtags (e.g., #DataHelpDesk, #AGU24, #EGU25).
             Encourage volunteers to share on social media. Consider using
             scheduling software for posts.
-        -   **Ambassadors:** Enlist section chairs and scientific session
-            presenters to advocate for the help desk.
-        -   **Short Recordings:** Encourage short video recordings from
-            volunteers sharing their excitement and expertise to be shared on
-            social media before the event.
-    -   **During the Event:**
-        -   **Clear Signage:** For physical locations, use clear and attractive
+        -   Ambassadors: Enlist section chairs and scientific session presenters
+            to advocate for the help desk.
+        -   Short Recordings: Encourage short video recordings from volunteers
+            sharing their excitement and expertise to be shared on social media
+            before the event.
+    -   During the Event:
+        -   Clear Signage: For physical locations, use clear and attractive
             signage to draw attention.
-        -   **Social Media Updates:** Continue active posting on social media to
+        -   Social Media Updates: Continue active posting on social media to
             remind attendees about the help desk and highlight ongoing
             activities.
-        -   **Announcements:** Explore opportunities to have the help desk
-            mentioned during scientific sessions.
+        -   Announcements: Explore opportunities to have the help desk mentioned
+            during scientific sessions.
 
--   **Targeted Outreach:** Consider reaching out to specific groups, such as
-    early career professionals and students, as they tend to be active users of
-    the Data Help Desk. You might tailor content to their interests and
-    concerns. Consider contacting program managers at funding agencies to
-    encourage their PIs and students to visit.
+-   Targeted Outreach: Consider reaching out to specific groups, such as early
+    career professionals and students, as they tend to be active users of the
+    Data Help Desk. You might tailor content to their interests and concerns.
+    Consider contacting program managers at funding agencies to encourage their
+    PIs and students to visit.
 
--   **Asynchronous Content:** Promote the availability of asynchronous content
-    like recorded demos and tutorials that can be accessed at any time,
-    especially for those who are busy during the meeting.
+-   Asynchronous Content: Promote the availability of asynchronous content like
+    recorded demos and tutorials that can be accessed at any time, especially
+    for those who are busy during the meeting.
 
--   **Collaboration:** Highlight the collaborative nature of the Data Help Desk
-    by mentioning participating organizations.
+-   Collaboration: Highlight the collaborative nature of the Data Help Desk by
+    mentioning participating organizations.
 
 By implementing these steps, you can effectively advertise your data help desk
 and ensure that attendees are aware of the resources and expertise available to

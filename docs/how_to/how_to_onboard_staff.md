@@ -6,10 +6,10 @@ nav_order: 7
 has_toc: false
 ---
 
-# What information is needed to onboard staff of a help desk
+# How to Onboard Staff for a Data Help Desk
 
-To onboard staff of a help desk effectively, you'll need to provide them with
-various types of information and training. Here's a comprehensive list:
+To onboard staff for a help desk effectively, you'll need to provide them with
+various types of information and training.
 
 ## Basic Information
 
@@ -81,7 +81,3 @@ various types of information and training. Here's a comprehensive list:
    management, IT support, and external partners.
 3. **Help desk community**: Access to an online community or forum where staff
    can connect with each other, share experiences, and seek support.
-
-By providing this comprehensive onboarding program, you'll set your help desk
-staff up for success and ensure they're well-equipped to provide excellent
-support to users.

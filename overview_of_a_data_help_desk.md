@@ -11,6 +11,12 @@ has_toc: false
 A data help desk is a valuable service to help researchers make their data FAIR
 (Findable, Accessible, Interoperable, and Reusable).
 
+# TODO: expand on this
+
+The document shows these help desks have been successfully implemented at major
+scientific meetings like AGU, EGU, and ESA, suggesting they're an effective
+model for promoting good data practices in the scientific community.
+
 Here are the essential components and considerations for setting up a science
 data help desk:
 
@@ -46,17 +52,3 @@ data help desk:
 1. Data repository recommendations
 2. Data discovery assistance
 3. Information about participating organizations
-
-# TODO: expand on this
-
-I notice you're interested in helping the science community submit FAIR data.
-Would you like me to elaborate on any specific aspect, such as the workshop
-planning for teaching FAIR principles or the expertise needed for the reference
-desk staff?
-
-The document shows these help desks have been successfully implemented at major
-scientific meetings like AGU, EGU, and ESA, suggesting they're an effective
-model for promoting good data practices in the scientific community.
-
-Execute event by implementing Twitter plan, monitoring and referring questions,
-and encouraging volunteers.

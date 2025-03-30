@@ -103,13 +103,13 @@ Users want answers to a wide range of data-related questions, including:
 -   What data exactly needs to be archived, especially with large volumes.
 -   What does Open Science mean in practice.
 
-## Is the data help desk setup a summary of other descriptions or links to current online docs?
+## What resources to have available?
 
-Yes, the data help desk setup can incorporate links to online resources and
-build upon existing documentation. It can point to relevant online documentation
-and resources to provide more in-depth information beyond what can be covered at
-the desk itself. For example, the virtual Data Help Desk often includes a
-gallery of contributed demos, tutorials, and one-pagers.
+The data help desk setup can incorporate links to online resources and build
+upon existing documentation. It can point to relevant online documentation and
+resources to provide more in-depth information beyond what can be covered at the
+desk itself. For example, the virtual Data Help Desk often includes a gallery of
+contributed demos, tutorials, and one-pagers.
 
 ## What materials are needed to set up a help desk?
 

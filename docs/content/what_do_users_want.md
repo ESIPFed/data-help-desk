@@ -44,13 +44,8 @@ desk, including:
     - What are the data sharing policies for the organization/ repository?
     - Are there any specific requirements for data ownership or usage rights?
     - How does the data help desk handle intellectual property issues?
-1. **System and interface-related questions**:
-    - How do I access the data help desk portal or interface?
-    - What are the user interface guidelines or best practices?
-    - Can you provide training or tutorials on using the system?
 1. **General questions about services and support**:
-    - What are your business hours for support?
-    - Can I request a consultation or meeting to discuss my data management
+    - Can I request a consultation or meeting time to discuss my data management
       needs?
     - Are there any upcoming events or training sessions related to data
       management?

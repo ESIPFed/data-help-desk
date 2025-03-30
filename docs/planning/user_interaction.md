@@ -1,18 +1,18 @@
 ---
 layout: page
-title: User interaction
+title: User interactions
 parent: Planning a data help desk
 nav_order: 7
 has_toc: false
 ---
 
-# User Interaction
+# User Interactions
 
 The amount of time a user interacts with a help desk can vary depending on the
 complexity of their question, the type of issue they're experiencing, and the
 level of support required. By following these guidelines, you can tailor your
 help desk's response to meet the needs of each user and provide effective
-support for managing research data. However, here are some general guidelines:
+support for managing research data. Here are some general guidelines:
 
 ## Average interaction time
 

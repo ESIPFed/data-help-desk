@@ -16,12 +16,6 @@ effective to feature for each event (e.g., marine resources are most important
 to feature for Ocean Sciences Meeting, while other events may have a broader
 scope).
 
-**Are resources current or out of date?**
-
-Organizers must also communicate with contributors to determine whether a
-resource should continue to be featured in subsequent events or if it has become
-out-of-date.
-
 **How to store and make gallery of resources available outside of meeting?**
 
 Because the gallery is a long-lasting output of a Data Help Desk, which may

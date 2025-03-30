@@ -6,7 +6,7 @@ nav_order: 3
 has_toc: false
 ---
 
-# Why is a data help desk needed?
+# Why a Data Help Desk is Needed
 
 A data help desk is essential for supporting researchers in managing their data
 effectively, promoting best practices, and ensuring the long-term accessibility

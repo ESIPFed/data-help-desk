@@ -6,7 +6,7 @@ nav_order: 5
 has_toc: false
 ---
 
-# Data & software resources
+# Data & Software Resources
 
 ## Software/model-oriented resources
 
@@ -54,9 +54,17 @@ Figshare: topic of Data management and data science
 
 [FAIR: Findable, Accessible, Interoperable, and Reusable](https://www.force11.org/group/fairgroup/fairprinciples)
 
-### Data Citation Guidelinews
+### Data & Software Citation
 
 [Data Citation Guidelines for Earth Science Data, Version 2](https://esip.figshare.com/articles/online_resource/Data_Citation_Guidelines_for_Earth_Science_Data_Version_2/8441816/1?file=15738041)
+
+[5 Tips to Citing Your Research Software and Improving Discovery](https://doi.org/10.5281/zenodo.4706180):
+This resource from @theAGU @libcce & @ShelleyStall provides 5 Tips to Citing
+Your Research Software and Improving Discovery.
+
+[Connect your research to your data, software, & institution](https://doi.org/10.5281/zenodo.4706118):
+This Digital Presence Checklist from @theAGU @ShelleyStall @libcce helps you
+connect your research to your data, software, & institution.
 
 ### Documentation & MetaData
 
@@ -253,277 +261,269 @@ science datasets and the applications that use them.
 
 [Talk regarding data & software guidance](https://youtu.be/bo4_mShJfyM?si=BRI5Kn4Gbv4FF1Cx)
 
-### Videos from Data Help Desks
+### Videos from Previous Data Help Desks
 
 [Megan Carter at 2020 ESIP Summer Meeting](https://youtu.be/B7Nn_cO1dkQ?t=1780):
 Recording of Megan Carter giving the above presentation at the 2020 ESIP Summer
 Meeting Session on Connecting Informatics to Science Communities
 
 [NASA Giovanni system](https://www.youtube.com/watch?v=IcNYwA5X2i4): This short
-video demonstrates that the **@NASA Giovanni system can now provide averages
-over several years using daily data variables and short time intervals**. It
-highlights examining spatial and temporal variability of recurring Earth system
-phenomena with the Giovanni Recurring Averages option for daily data variables.
-This video is related to the #DataHelpDesk at #AGU23.
+video demonstrates that the @NASA Giovanni system can now provide averages over
+several years using daily data variables and short time intervals. It highlights
+examining spatial and temporal variability of recurring Earth system phenomena
+with the Giovanni Recurring Averages option for daily data variables. This video
+is related to the #DataHelpDesk at #AGU23.
 
-[YouTube channel for @IRIS_EPO](https://www.youtube.com/c/IRISEarthquakeScience):
-This is the **YouTube channel for @IRIS_EPO**, which advances discovery,
-research, and education in seismology through a fantastic suite of videos. This
-is associated with #DataHelpDesk #AGU23.
+[YouTube channel for IRIS_EPO](https://www.youtube.com/c/IRISEarthquakeScience):
+This is the YouTube channel for @IRIS_EPO, which advances discovery, research,
+and education in seismology through a fantastic suite of videos. This is
+associated with #DataHelpDesk #AGU23.
 
-[Demo introducing #QGreenland](https://youtu.be/JWrGDxNb5aw): This demo
-introduces **#QGreenland**, a free and open-source data package for #QGIS, as an
+[Demo introducing QGreenland](https://youtu.be/JWrGDxNb5aw): This demo
+introduces #QGreenland, a free and open-source data package for #QGIS, as an
 all-in-one mapping and data analysis tool for #Greenland. This was promoted at
 #DataHelpDesk #AGU23.
 
 [Video demonstrating Geoweaver](https://youtu.be/H1VsuZuMSTQ): This video
-demonstrates **Geoweaver**, an open-source #ML / #AI workflow solution that
-helps with tracking research code and remembering history. A one-pager is also
-paired with this demo. This was featured at #DataHelpDesk #AGU23.
+demonstrates Geoweaver, an open-source #ML / #AI workflow solution that helps
+with tracking research code and remembering history. A one-pager is also paired
+with this demo. This was featured at #DataHelpDesk #AGU23.
 
 [AGU webinar with @libcce @ShelleyStall](https://www.youtube.com/watch?v=bo4_mShJfyM):
-This **@theAGU webinar with @libcce @ShelleyStall** provides a checklist, tools,
-and practices that make sharing data and software at the time of publication
-easier, addressing what should be cited in a paper.
+This @theAGU webinar with @libcce @ShelleyStall provides a checklist, tools, and
+practices that make sharing data and software at the time of publication easier,
+addressing what should be cited in a paper.
 
 [The principles of tidy data](https://vimeo.com/444347854): This video from
-#DataHelpDesk expert **@sjeanetteclark @ArcticDataCtr @DataONEorg** teaches the
-principles of **tidy data**, how to recognize untidy data, and why having tidy
-data can set you up for success.
+#DataHelpDesk expert @sjeanetteclark @ArcticDataCtr @DataONEorg teaches the
+principles of tidy data, how to recognize untidy data, and why having tidy data
+can set you up for success.
 
 [how ontologies help you understand the tons of great data available](https://vimeo.com/444687409):
 In this video from #DataHelpDesk expert @sjeanetteclark, you can learn how
-**ontologies help you understand the tons of great data available**. This is
-from @ArcticDataCtr @DataONEorg.
+ontologies help you understand the tons of great data available. This is from
+@ArcticDataCtr @DataONEorg.
 
-[Getting Started with NASA Worldview](https://www.youtube.com/watch?v=nW8JZJ-5g_0&feature=youtu.be)
+[Getting Started with NASA Worldview](https://www.youtube.com/watch?v=nW8JZJ-5g_0&feature=youtu.be):
+This demonstration will introduce you to the NASA Earth Observing System Data
+and Information System (EOSDIS) Worldview imagery mapping and visualization
+application.
 
-[How to use the #NASAWorldview imagery mapping & visualization app](https://youtu.be/nW8JZJ-5g_0):
-This tutorial shows how to use the **#NASAWorldview imagery mapping &
-visualization app** to explore global Earth science data imagery, with many
-layers available within 3 hours of observation. It also explains how to download
-the underlying data. This was highlighted as having #NASA experts at the #AGU23
+[How to use the NASAWorldview imagery mapping & visualization app](https://youtu.be/nW8JZJ-5g_0):
+This tutorial shows how to use the #NASAWorldview imagery mapping &
+visualization app to explore global Earth science data imagery, with many layers
+available within 3 hours of observation. It also explains how to download the
+underlying data. This was highlighted as having #NASA experts at the #AGU23
 #DataHelpDesk.
 
 [New Earth science data resources available at earthdata.nasa.gov](https://www.youtube.com/watch?v=4iXYGc9R9LA&feature=youtu.be):
-This video introduces **new Earth science data resources available at
-earthdata.nasa.gov** to help users find, access, use, and visualize NASA Earth
+This video introduces new Earth science data resources available at
+earthdata.nasa.gov to help users find, access, use, and visualize NASA Earth
 science data. It is useful for those just getting started, novice users, or
 expert data users. This was shared at #AGU23 #DataHelpDesk and #GSA2021
 #DataHelpDesk.
 
-[What About Model Data?](https://youtu.be/JYTdO3p5jFM): This video, titled
-"**What About Model Data?**", addresses challenges in knowing what data to keep
-from a simulation, relevant for the many #simulation #modeling talks. This was
-shared at #DataHelpDesk #AGU23.
+[What About Model Data?](https://youtu.be/JYTdO3p5jFM): This video, titled "What
+About Model Data?", addresses challenges in knowing what data to keep from a
+simulation, relevant for the many #simulation #modeling talks. This was shared
+at #DataHelpDesk #AGU23.
 
 [A roadmap to help grad students identify data management practices they should be considering](https://youtu.be/5NOc7P2Xe-I):
-This short video presents **a roadmap to help grad students identify data
-management practices they should be considering**.
+This short video presents a roadmap to help grad students identify data
+management practices they should be considering.
 
 [https://youtu.be/bftzPnFdtHk](https://youtu.be/bftzPnFdtHk) /
 [https://doi.org/10.5281/zenodo.4706146](https://doi.org/10.5281/zenodo.4706146):
-This helpful video from @theAGU @ShelleyStall & @libcce discusses your **Digital
-Presence – Increasing Your Impact with Citations and Collaborations**. The
-slides are also available at the provided Zenodo link.
-
-[5 Tips to Citing Your Research Software and Improving Discovery](https://doi.org/10.5281/zenodo.4706180):
-This resource from @theAGU @libcce & @ShelleyStall provides **5 Tips to Citing
-Your Research Software and Improving Discovery**.
-
-[Connect your research to your data, software, & institution](https://doi.org/10.5281/zenodo.4706118):
-This **Digital Presence Checklist from @theAGU @ShelleyStall @libcce** helps you
-connect your research to your data, software, & institution.
+This helpful video from @theAGU @ShelleyStall & @libcce discusses your Digital
+Presence – Increasing Your Impact with Citations and Collaborations. The slides
+are also available at the provided Zenodo link.
 
 [Plan, curate, and connect your software](https://doi.org/10.5281/zenodo.4706163):
-This checklist helps you to **plan, curate, and connect your software**. It is
-from @theAGU @ShelleyStall @libcce.
+This checklist helps you to plan, curate, and connect your software. It is from
+@theAGU @ShelleyStall @libcce.
 
-[Intro video for @ESSDIVE](https://youtu.be/1xmmF-8VbeI): This is an **intro
-video for @ESSDIVE**, a data repository for US Dept. of Energy Earth and
-environmental science data.
+[Intro video for @ESSDIVE](https://youtu.be/1xmmF-8VbeI): This is an intro video
+for @ESSDIVE, a data repository for US Dept. of Energy Earth and environmental
+science data.
 
 [How to use the ESS-DIVE repository search feature to locate datasets](https://youtu.be/TRU8aKYufIA):
-This video demonstrates **how to use the ESS-DIVE repository search feature to
-locate datasets** for your next #datascience project.
+This video demonstrates how to use the ESS-DIVE repository search feature to
+locate datasets for your next #datascience project.
 
 [@ESSDIVE recommended reporting format](https://ess-dive.gitbook.io/sample-id-and-metadata/):
-This GitBook page outlines the **@ESSDIVE recommended reporting format for
+This GitBook page outlines the @ESSDIVE recommended reporting format for
 multidisciplinary sample identifiers and associated metadata in ecosystem
-sciences**. It is not explicitly described as a video, but could contain
-embedded videos.
+sciences. It is not explicitly described as a video, but could contain embedded
+videos.
 
 [The NEON Data Portal](https://www.youtube.com/watch?v=gaA_duzWnvk): This video
-introduces **the NEON Data Portal and provides an introduction to working with
-NEON data in R**.
+introduces the NEON Data Portal and provides an introduction to working with
+NEON data in R.
 
 [Figshare for Institutions](https://doi.org/10.6084/m9.figshare.12770762.v1):
-This video highlights that **Figshare for Institutions is a next-generation,
-all-in-one, hosted #repository** that can help with #FAIRdata and #OpenScience.
-It is designed for both administrators and end users.
+This video highlights that Figshare for Institutions is a next-generation,
+all-in-one, hosted #repository that can help with #FAIRdata and #OpenScience. It
+is designed for both administrators and end users.
 
-[NEON Data Portal](https://youtu.be/Yl6JMWZ4F08): This video offers a **guided
-tour of the NEON Data Portal and an introduction to working with NEON data in
-R**.
+[NEON Data Portal](https://youtu.be/Yl6JMWZ4F08): This video offers a guided
+tour of the NEON Data Portal and an introduction to working with NEON data in R.
 
 [introduces @DataDiscStudio](https://youtu.be/FcHJtecNuMk): This video
-introduces **@DataDiscStudio**, a resource that helps researchers find the data
-they need from over 1.6 million datasets from 40+ geoscience data repositories
-and community contributions.
+introduces @DataDiscStudio, a resource that helps researchers find the data they
+need from over 1.6 million datasets from 40+ geoscience data repositories and
+community contributions.
 
 [Basic introduction to ERDDAP](https://www.youtube.com/watch?v=H541G1XXZrU&t=4):
-This is a **basic introduction to ERDDAP**.
+This is a basic introduction to ERDDAP.
 
 [NOAA Open Data and Jupyter Notebooks](https://youtu.be/MF-WH01Qw0g): This video
-from **@NOAA** shows how to **build your own weather app using NOAA Open Data
-and Jupyter Notebooks**.
+from @NOAA shows how to build your own weather app using NOAA Open Data and
+Jupyter Notebooks.
 
 [A brief overview of ezEML](https://www.youtube.com/watch?v=lhtq7iSQIyM): This
-video provides a **brief overview of ezEML**, a form-based, do-it-yourself
-online application for creating metadata in the Ecological Metadata Language
-(EML). It is aimed at scientists who want to prepare their dataset for
-submission to a data repository but are not proficient in EML editing. A more
-in-depth tutorial is available.
+video provides a brief overview of ezEML, a form-based, do-it-yourself online
+application for creating metadata in the Ecological Metadata Language (EML). It
+is aimed at scientists who want to prepare their dataset for submission to a
+data repository but are not proficient in EML editing. A more in-depth tutorial
+is available.
 
-[ERDDAP is a data server](https://youtu.be/RPIM5nFlNNY): This **#DataHelpDesk
-spotlight** highlights that **ERDDAP is a data server** that provides a simple,
+[ERDDAP is a data server](https://youtu.be/RPIM5nFlNNY): This #DataHelpDesk
+spotlight highlights that ERDDAP is a data server that provides a simple,
 consistent way to download subsets of gridded & tabular scientific datasets in
 common file formats and make graphs & maps.
 
 [Video from NEON](https://youtu.be/c0yOh2mTFZI): This is another video from
-**NEON**.
+NEON.
 
 [Introduces @OpenAltimetry](https://youtu.be/ZanKXh1oQYc): This video introduces
-**@OpenAltimetry**, an exploration and visualization tool for data from #NASA
+@OpenAltimetry, an exploration and visualization tool for data from #NASA
 #ICESat and #ICESat2 data.
 
 [10 Simple Rules for Creating a Data Management Plan](https://vimeo.com/488086472):
-This video, addressing a common #DataHelpDesk question, presents **10 Simple
-Rules for Creating a Data Management Plan**, from @nceas Amber Budden and
-@UNMLibraries Bill Michener.
+This video, addressing a common #DataHelpDesk question, presents 10 Simple Rules
+for Creating a Data Management Plan, from @nceas Amber Budden and @UNMLibraries
+Bill Michener.
 
 [Data citation best practices](https://vimeo.com/488086612): This video
-discusses **data citation best practices** and how the @makedatacount project is
+discusses data citation best practices and how the @makedatacount project is
 supporting data citations for increased credit and attribution.
 
 [@DataONEorg supports easy access and discovery of data](https://vimeo.com/488086406):
-This **#DataHelpDesk Spotlight** shows how **@DataONEorg supports easy access
-and discovery of data** across a network of Earth & environmental science data
+This #DataHelpDesk Spotlight shows how @DataONEorg supports easy access and
+discovery of data across a network of Earth & environmental science data
 repositories.
 
 [Full overview of Data Management Planning](https://vimeo.com/488091854): This
-video provides a **full overview of Data Management Planning**, including
-guidance for creating a DMP and a demo of the DMPTool.
+video provides a full overview of Data Management Planning, including guidance
+for creating a DMP and a demo of the DMPTool.
 
 [Environmental Data Initiative repository and curation services](https://youtu.be/7GlJ8nJcVYM):
-This **#DataHelpDesk Repository Spotlight** offers a brief overview of the
-repository and curation services offered by the **Environmental Data Initiative
-@EDIgotdata**.
+This #DataHelpDesk Repository Spotlight offers a brief overview of the
+repository and curation services offered by the Environmental Data Initiative
+@EDIgotdata.
 
-[Ag Data Commons](https://youtu.be/R-NUb9fRE6w): This **#DataHelpDesk
-spotlight** is on the **Ag Data Commons**, a research data catalog and
-repository available to help the agricultural research community share and
-discover research data funded by the USDA.
+[Ag Data Commons](https://youtu.be/R-NUb9fRE6w): This #DataHelpDesk spotlight is
+on the Ag Data Commons, a research data catalog and repository available to help
+the agricultural research community share and discover research data funded by
+the USDA.
 
 [https://ftp.osuosl.org/pub/fosdem/2021/D.geospatial/osgeolive.mp4](https://ftp.osuosl.org/pub/fosdem/2021/D.geospatial/osgeolive.mp4):
-This link points to a video showcasing a **powerful open-source geospatial
-toolkit**.
+This link points to a video showcasing a powerful open-source geospatial
+toolkit.
 
 [Playlist of videos from Argovis](https://www.youtube.com/playlist?list=PLJQE6R74BkyVV3PeTRdGh-W5llAY4XJ8v):
-This is a **playlist of videos from Argovis**.
+This is a playlist of videos from Argovis.
 
 [A new way to visualize Argo's biogeochemical data](https://youtu.be/jl-H2pFkoaE):
-This Argovis video presents **a new way to visualize Argo's biogeochemical
-data**.
+This Argovis video presents a new way to visualize Argo's biogeochemical data.
 
 [Introduces Science gateways](https://youtu.be/kv7YDf7dFJ4): This video
-introduces **Science gateways**, which allow science & engineering communities
-to access shared resources. **@sciencegateways** serves the science gateway
-community by sharing experiences and providing services.
+introduces Science gateways, which allow science & engineering communities to
+access shared resources. @sciencegateways serves the science gateway community
+by sharing experiences and providing services.
 
-[@StraboSpot](https://youtu.be/llVEUYNrBfk): This **#DataHelpDesk spotlight**
-showcases **@StraboSpot**, a geologic data system that allows researchers to
+[@StraboSpot](https://youtu.be/llVEUYNrBfk): This #DataHelpDesk spotlight
+showcases @StraboSpot, a geologic data system that allows researchers to
 digitally collect, store, and share both field and laboratory data based on how
 geologists actually work.
 
 [JupyterHub and Hydroshare](https://youtu.be/YZ6KQhB_zrE): This video highlights
-another great **@CUAHSI resource**: cloud-based data tools for research,
-collaboration, and workflow documentation in the aquatic sciences: **JupyterHub
-and Hydroshare**.
+another great @CUAHSI resource: cloud-based data tools for research,
+collaboration, and workflow documentation in the aquatic sciences: JupyterHub
+and Hydroshare.
 
-[@CUAHSI HydroShare](https://youtu.be/x7bwVN8chfo): This **#DataHelpDesk
-spotlight** is on **@CUAHSI HydroShare**: a repository for sharing,
-collaborating around, and formally publishing scientific data.
+[@CUAHSI HydroShare](https://youtu.be/x7bwVN8chfo): This #DataHelpDesk spotlight
+is on @CUAHSI HydroShare: a repository for sharing, collaborating around, and
+formally publishing scientific data.
 
 [IRIS has a YouTube channel](https://youtu.be/kFwdjfiK4gk): This indicates that
-**IRIS has a YouTube channel with lots of instruction on seismology and related
-geosciences**.
+IRIS has a YouTube channel with lots of instruction on seismology and related
+geosciences.
 
 [https://www.dataone.org/webinars/tidy-ing-your-data-simple-steps-reproducible-research](https://www.dataone.org/webinars/tidy-ing-your-data-simple-steps-reproducible-research)
 / [https://vimeo.com/378621271](https://vimeo.com/378621271): This video,
-"**Tidy-ing Your Data: Simple Steps for Reproducible Research**", is from
-#DataHelpDesk expert **@sjeanetteclark @ArcticDataCtr @DataONEorg**.
+"Tidy-ing Your Data: Simple Steps for Reproducible Research", is from
+#DataHelpDesk expert @sjeanetteclark @ArcticDataCtr @DataONEorg.
 
 [NASA's GES DISC](https://www.youtube.com/watch?v=4eEWWJtzq9c): This video
-introduces **NASA's Goddard Earth Sciences Data and Information Services Center
-(GES DISC)**.
+introduces NASA's Goddard Earth Sciences Data and Information Services Center
+(GES DISC).
 
 [https://www.youtube.com/watch?v=2RkrvISQQsA](https://www.youtube.com/watch?v=2RkrvISQQsA)
 /
 [https://youtu.be/2RkrvISQQsA?si=gu4hCFRLKZjQYuum](https://youtu.be/2RkrvISQQsA?si=gu4hCFRLKZjQYuum):
-This is a **GES DISC L34RS Demonstration Video**.
+This is a GES DISC L34RS Demonstration Video.
 
 [NASA GES DISC Level 2](https://www.youtube.com/watch?v=HOYMMfKbURM): This video
-is a **NASA GES DISC Level 2 Subsetting & Data Validation Demo**.
+is a NASA GES DISC Level 2 Subsetting & Data Validation Demo.
 
 [NASA GES DISC Giovanni](https://www.youtube.com/watch?v=JoCjBML0RHA): This is a
-**NASA GES DISC Giovanni 20th Anniversary Demo Video**.
+NASA GES DISC Giovanni 20th Anniversary Demo Video.
 
 [EOSDIS resources](https://www.youtube.com/watch?v=if9DLdR7fYM&feature=youtu.be):
-This video tours **new Earth Observing System Data and Information System
-(EOSDIS) Earth science data resources available at earthdata.nasa.gov** to help
-users find, access, use, and visualize NASA Earth science data. It is for users
-of all levels.
+This video tours new Earth Observing System Data and Information System (EOSDIS)
+Earth science data resources available at earthdata.nasa.gov to help users find,
+access, use, and visualize NASA Earth science data. It is for users of all
+levels.
 
 [Animal Telemetry Network Data Portal](https://www.youtube.com/watch?v=jQPBp1scF5g&feature=youtu.be):
-This video introduces the **Animal Telemetry Network Data Portal**.
+This video introduces the Animal Telemetry Network Data Portal.
 
 [Journal Practices for Data (and Software): Module 1](https://youtu.be/mZylG5aIj50):
-This is **Module 1: Introduction** of "**The Paper and The Data: Authors,
-Reviewers, and Editors Webinar on Updated Journal Practices for Data (and
-Software)**" from AGU/ESIP. It covers challenges with accessing data, the AGU
-Data Position Statement, recommendations from the NAS, updated journal
-guidelines, and benefits for sharing data/software.
+This is Module 1: Introduction of "The Paper and The Data: Authors, Reviewers,
+and Editors Webinar on Updated Journal Practices for Data (and Software)" from
+AGU/ESIP. It covers challenges with accessing data, the AGU Data Position
+Statement, recommendations from the NAS, updated journal guidelines, and
+benefits for sharing data/software.
 
 [Journal Practices for Data (and Software): Module 2](https://youtu.be/HmXnWgyc-30):
-This is **Module 2: Data** of the same webinar, discussing what data to share,
-what repository to use, availability statements, citation, and examples.
+This is Module 2: Data of the same webinar, discussing what data to share, what
+repository to use, availability statements, citation, and examples.
 
 [Journal Practices for Data (and Software): Module 3](https://youtu.be/oBm48qxCcS4):
-This is **Module 3: Software**, covering what software to share, availability
+This is Module 3: Software, covering what software to share, availability
 statements, citation, GitHub considerations, and examples.
 
 [Journal Practices for Data (and Software): Module 4](https://youtu.be/hPqd9SfEMpM):
-This is **Module 4: Peer Review**, including recommendations from AGU and
-examples.
+This is Module 4: Peer Review, including recommendations from AGU and examples.
 
 [Journal Practices for Data (and Software): Module 5](https://youtu.be/lIRrC3CjeFM):
-This is **Module 5: Persistent Identifiers (PIDs)**, discussing ORCID, DOI, and
-the PID Graph.
+This is Module 5: Persistent Identifiers (PIDs), discussing ORCID, DOI, and the
+PID Graph.
 
 [How to find training resources on research data skills](https://youtu.be/7op7hstWucs):
-This video offers **quick tips & suggested tools from data support specialist
-Nancy Hoebelheinrich to find training resources on research data skills**
-targeted to wherever you are on your research path.
+This video offers quick tips & suggested tools from data support specialist
+Nancy Hoebelheinrich to find training resources on research data skills targeted
+to wherever you are on your research path.
 
-[Introduces Rockd](https://youtu.be/hCsQ9BdbIp0): This video introduces
-**Rockd**, a mobile app that draws on community data resources to help you
-explore, capture, and share your geological surroundings.
+[Introduces Rockd](https://youtu.be/hCsQ9BdbIp0): This video introduces Rockd, a
+mobile app that draws on community data resources to help you explore, capture,
+and share your geological surroundings.
 
 [How to explore and visualize @oceanobserv data](https://youtu.be/LY1JZaWAXpc):
-This #DataHelpDesk expert Stace Beaulieu demos **how to explore and visualize
+This #DataHelpDesk expert Stace Beaulieu demos how to explore and visualize
 @oceanobserv data including Quality Assurance of Real-Time Oceanographic Data
-(QARTOD) flags**.
+(QARTOD) flags.
 
 ## GitHub
 

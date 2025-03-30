@@ -6,7 +6,7 @@ nav_order: 2
 has_toc: false
 ---
 
-# Questions from users
+# Questions From Users
 
 The Data Help Desk has highlighted several areas where researchers frequently
 seek assistance. These needs underscore the importance of ongoing efforts to

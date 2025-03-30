@@ -6,7 +6,7 @@ nav_order: 4
 has_toc: false
 ---
 
-# Example media messages for a data help desk
+# Example Media Messages for a Data Help Desk
 
 ## Update to reflect your meeting organizers, website, and hashtags
 

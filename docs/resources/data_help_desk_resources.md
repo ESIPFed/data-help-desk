@@ -6,7 +6,7 @@ nav_order: 6
 has_toc: false
 ---
 
-# Resources: data help desks
+# Resources: Data Help Desks
 
 ## ESIP data help desk Slack channel
 

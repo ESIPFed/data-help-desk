@@ -6,6 +6,6 @@ nav_order: 5
 has_toc: false
 ---
 
-# Planning a data help desk
+# Planning a Data Help Desk
 
 List links to child pages

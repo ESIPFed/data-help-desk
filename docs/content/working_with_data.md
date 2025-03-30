@@ -6,78 +6,22 @@ nav_order: 3
 has_toc: false
 ---
 
-# Equip users with knowledge about
+# Equip Users With Knowledge About Working With Data
 
-## Working with data
+Effective data management involves planning how data will be collected, labeled,
+stored, analyzed, and shared. Without proper data management, researchers risk
+losing data, struggling to find specific files, and hindering the
+reproducibility of their work. Understanding the principles of data management
+can help researchers promote these practices among their colleagues and
+supervisors, fostering a culture of good data stewardship.
 
-Effective general data management involves planning how data will be collected,
-labeled, stored, analyzed, and shared. Without proper data management,
-researchers risk losing data, struggling to find specific files, and hindering
-the reproducibility of their work. Understanding the principles of data
-management can help researchers promote these practices among their colleagues
-and supervisors, fostering a culture of good data stewardship.
-
-1. Creating Data Management Plans (DMPs)
-1. Best practices for data archiving and preservation
-1. Working with data among teams
-1. Encouraging best practices
-1. Data organization
-1. How to Cite Datasets, Code, and Software
-1. Understanding and Implementing FAIR Principles
-
-## Explaining why can help with understanding
-
-<!-- prettier-ignore -->
-1. **Creating Data Management Plans (DMPs)**
-    - Data Management Plans (DMPs) are important for saving time and ensuring future usability of data.. Many funding agencies now require
-      DMPs as part of the proposal submission process. A well-thought-out DMP
-      guides researchers in deciding what data they need and how they will
-      collect, store, and analyze it, which can prevent significant problems
-      down the line. By outlining how data will be shared, DMPs can
-      increase the potential for other scientists to use and cite the data,
-      leading to greater impact and attribution. [See more](#dmp)
-1.  **Best practices for data archiving and preservation**
-    -   Data help desks can delve into best
-        practices for preparing data for long-term archiving and preservation.
-        This can include topics like data formats, metadata creation, and
-        documentation to ensure data remains usable over time. Describe how including the selection of appropriate data formats, the meticulous creation of comprehensive metadata, and thorough documentation. Choosing non-proprietary and widely accepted data formats is essential for long-term accessibility, preventing reliance on specific software or systems that may become obsolete. Metadata, often described as "data about data," plays a vital role in the findability, evaluation, and understanding of data, both now and in the future. Thorough documentation of the data, encompassing collection methods, processing steps, and relevant contextual information, is crucial for enabling future researchers to interpret and reuse the data effectively. [See more](#best-practices)
-1. **Working with data among teams**
-    - Effective collaboration on data among research teams is vital for
-      ensuring consistency, efficiency, and the overall quality of research
-      projects. Establishing clear protocols for data collection, labeling,
-      and sharing from the outset can prevent misunderstandings and streamline
-      workflows. Encouraging best practices within a team helps to maintain data
-      integrity and facilitates the integration and analysis of data from
-      various sources or team members. Sharing knowledge and agreeing on
-      standards, such as defining sampling systems before fieldwork, leads to
-      more robust and comparable datasets. [See more](#working-with-data)
-1. **Encouraging best practices**
-    - Promoting and adopting best practices in data management is fundamental
-      to improving the quality, reproducibility, and impact of scientific
-      research. These practices encompass various aspects of the data
-      lifecycle, including planning, collection, quality control, organization,
-      documentation (metadata), and sharing. By encouraging researchers to
-      follow established guidelines, the scientific community can ensure that
-      data is reliable, understandable, and available for verification and
-      reuse. This also supports the principles of open science and FAIR data,
-      making research more transparent and collaborative. [See more](#encouraging)
-1. **Data organization**
-    - Proper data organization is crucial for making data easily findable,
-      understandable, and usable, both for the original researchers and for
-      others in the future. This includes developing consistent file naming
-      conventions, creating logical directory structures, and structuring data
-      in formats suitable for analysis. Well-organized data saves time and
-      effort when researchers need to locate specific information or prepare
-      data for analysis and publication. Clear organization also supports the
-      reproducibility of research by making the data structure transparent to
-      others who may want to understand or reuse the data. [See more](#data-organization)
-1. **How to Cite Datasets, Code, and Software**
-    -   Guidance on properly citing research outputs encompasses datasets, code, and software, with data help desks offering practical advice on citation standards and tools. Citations create clear links to underlying data and software, enabling others to access and potentially reproduce the research. When data and software receive proper citations with persistent identifiers like DOIs, they become more discoverable, potentially increasing their usage and impact. Researchers can learn to obtain DOIs for their outputs through repositories such as Zenodo or institutional platforms. Services like GitHub integrated with Zenodo facilitate DOI assignment and licensing of software, making these valuable research contributions more visible and recognized in the scholarly ecosystem. [See more](#cite)
-1.  **Understanding and Implementing FAIR Principles**
-    -   Given the increasing emphasis on making data Findable, Accessible,
-        Interoperable, and Reusable (FAIR), a data help desk can explain these
-        principles and provide practical steps for researchers to make their
-        data more FAIR. [See more](#fair)
+1. [Creating Data Management Plans (DMPs)](#dmp)
+1. [Best practices for data archiving and preservation](#best-practices)
+1. [Working with data among teams](#working-with-data)
+1. [Encouraging best practices](#encouraging)
+1. [Data organization](#data-organization)
+1. [How to Cite Datasets, Code, and Software](#cite)
+1. [Understanding and Implementing FAIR Principles](#fair)
 
 ## Creating Data Management Plans (DMPs) {#dmp}
 

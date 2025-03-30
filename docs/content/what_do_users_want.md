@@ -6,7 +6,7 @@ nav_order: 1
 has_toc: false
 ---
 
-# What do users want from a data help desk
+# What do Users Want From a Data Help Desk
 
 Students, postdocs, early career researchers, and established scientists can all
 benefit from using the output of a data help desk to manage their research

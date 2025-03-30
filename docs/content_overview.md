@@ -6,7 +6,7 @@ nav_order: 7
 has_toc: false
 ---
 
-# Content for a data help desk
+# Content for a Data Help Desk
 
 ## Content for help desk prior to conference:
 

@@ -194,13 +194,9 @@ essential for several reasons. Primarily, it allows organizers to secure a
 desirable location within the conference venue, such as in the Exhibit Hall
 where there is often high traffic and visibility among attendees. Reserve dedicated space early to secure a prime location for your data help desk
 is crucial for attracting attendees.
-
-<!-- prettier-ignore -->
 1. **Location**
     - Finding the ideal placement and having clear and attractive signage are
       important considerations for attracting researchers to the desk.
-
-<!-- prettier-ignore -->
 1. **Knowing the location well in advance** - This allows for its inclusion in
    promotional materials on the meeting website, in emails to attendees, and on
    social media using relevant hashtags like #DataHelpDesk and the conference
@@ -222,7 +218,6 @@ is crucial for attracting attendees.
    signs should use concise language and visual elements to capture attention.
    - Consider including QR codes linking to digital resources or additional
    information for quick access on mobile devices.
-
     > **Example banner design**
     >
     > [Image of a banner with the following text]
@@ -231,8 +226,6 @@ is crucial for attracting attendees.
     >
     > Get expert advice on data management best practices, repository selection, and
     > more. Ask us about our free consultations!
-
-<!-- prettier-ignore -->
 1. **Promote the Help Desk**
     - Effectively communicate the existence and purpose of the help desk to your
       target audience.
@@ -241,7 +234,6 @@ is crucial for attracting attendees.
     - Promote upcoming sessions, available experts, or specific topics that will
       be discussed.
     - Incorporate signage during in-person events along with clear online visuals can enhance user awareness.
-
 1. **Promote Communication Channels**
     - Use platforms such as a dedicated Slack channel or social media (e.g., a
       hashtag like #DataHelpDesk) to facilitate real-time questions and answers.

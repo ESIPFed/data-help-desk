@@ -43,71 +43,64 @@ reusability of scientific data.
     addressing these aspects, researchers can prevent significant problems down
     the line, such as data loss, disorganization, or difficulties in sharing and
     reuse.
-
 1. **Key Components and Considerations:**
     - While specific requirements may vary
     by funder or institution, effective DMPs generally address several key
     elements:
-
-    -   **Data Collection:** The DMP should outline what data will be collected,
-        the methods used, and the expected volume.
-    -   **Data Formats and Standards:** Consideration should be given to the
-        formats in which data will be stored to ensure long-term accessibility.
-        Choosing non-proprietary and widely accepted formats is recommended.
-    -   **Metadata:** The plan should detail how metadata will be created and
-        managed. High-quality metadata is essential for the findability,
-        understanding, and reuse of data. Researchers should consider adhering
-        to community metadata standards.
-    -   **Storage and Backup:** The DMP needs to specify where and how data will
-        be stored securely and backed up throughout the project.
-    -   **Data Sharing and Access:** The plan should outline how and when data
-        will be made accessible to the broader research community, considering
-        funder and publisher requirements. This includes deciding whether data
-        will be made open or shareable and identifying appropriate repositories
-        for data deposit. The DMP should also address any potential restrictions
-        on data sharing, such as embargo periods.
-    -   **Data Preservation:** The DMP should consider long-term preservation
-        strategies to ensure data remains available and usable beyond the
-        project's lifespan.
-    -   **Roles and Responsibilities:** The plan may outline who is responsible
-        for different data management tasks.
-
+        -   **Data Collection:** The DMP should outline what data will be collected,
+            the methods used, and the expected volume.
+        -   **Data Formats and Standards:** Consideration should be given to the
+            formats in which data will be stored to ensure long-term accessibility.
+            Choosing non-proprietary and widely accepted formats is recommended.
+        -   **Metadata:** The plan should detail how metadata will be created and
+            managed. High-quality metadata is essential for the findability,
+            understanding, and reuse of data. Researchers should consider adhering
+            to community metadata standards.
+        -   **Storage and Backup:** The DMP needs to specify where and how data will
+            be stored securely and backed up throughout the project.
+        -   **Data Sharing and Access:** The plan should outline how and when data
+            will be made accessible to the broader research community, considering
+            funder and publisher requirements. This includes deciding whether data
+            will be made open or shareable and identifying appropriate repositories
+            for data deposit. The DMP should also address any potential restrictions
+            on data sharing, such as embargo periods.
+        -   **Data Preservation:** The DMP should consider long-term preservation
+            strategies to ensure data remains available and usable beyond the
+            project's lifespan.
+        -   **Roles and Responsibilities:** The plan may outline who is responsible
+            for different data management tasks.
 1. **Benefits Beyond Compliance:**
     - While often required by funders, creating a
     thoughtful DMP offers numerous benefits for researchers:
-
-    -   **Saves Time:** Proactive planning can prevent data-related issues that
-        could consume significant time later in the research process.
-    -   **Ensures Future Usability:** Well-managed and documented data is more
-        likely to be usable by the researcher and others in the future.
-    -   **Increases Impact and Attribution:** By outlining how data will be
-        shared, DMPs increase the potential for other scientists to use and cite
-        the data, leading to greater impact and recognition for the researcher's
-        work.
-    -   **Facilitates Collaboration:** A clear DMP can facilitate data sharing
-        and collaboration among research team members.
-
+        -   **Saves Time:** Proactive planning can prevent data-related issues that
+            could consume significant time later in the research process.
+        -   **Ensures Future Usability:** Well-managed and documented data is more
+            likely to be usable by the researcher and others in the future.
+        -   **Increases Impact and Attribution:** By outlining how data will be
+            shared, DMPs increase the potential for other scientists to use and cite
+            the data, leading to greater impact and recognition for the researcher's
+            work.
+        -   **Facilitates Collaboration:** A clear DMP can facilitate data sharing
+            and collaboration among research team members.
 1. **Resources and Tools:**
     - Several resources are available to assist
     researchers in creating DMPs:
-
-    -   **DMPTool and DMPonline:** These are common tools that provide templates
-        and guidance for writing data management plans.
-    -   **Data Help Desks:** Experts at Data Help Desks can provide guidance and
-        answer questions about creating DMPs. They can offer advice on what to
-        include, point to relevant examples, and help researchers understand
-        funder-specific requirements.
-    -   **Institutional Libraries and Data Management Services:** Many
-        universities and research organizations offer local support for data
-        management planning. For example, EOL's Data Management and Services
-        (DMS) works with PIs to develop DMPs.
-    -   **Example Templates:** Researchers can find example DMP templates to get
-        started. Many agencies like NSF, NIH, DOE, and ERC provide example DMPs
-        or templates specific to their requirements. Platforms like
-        [DMPTool (U.S.)](https://dmptool.org/) and
-        [DMPonline (UK)](https://dmponline.dcc.ac.uk/) have public templates and
-        a list of funder requirements.
-
+        -   **DMPTool and DMPonline:** These are common tools that provide templates
+            and guidance for writing data management plans.
+        -   **Data Help Desks:** Experts at Data Help Desks can provide guidance and
+            answer questions about creating DMPs. They can offer advice on what to
+            include, point to relevant examples, and help researchers understand
+            funder-specific requirements.
+        -   **Institutional Libraries and Data Management Services:** Many
+            universities and research organizations offer local support for data
+            management planning. For example, EOL's Data Management and Services
+            (DMS) works with PIs to develop DMPs.
+        -   **Example Templates:** Researchers can find example DMP templates to get
+            started. Many agencies like NSF, NIH, DOE, and ERC provide example DMPs
+            or templates specific to their requirements. Platforms like
+            [DMPTool (U.S.)](https://dmptool.org/) and
+            [DMPonline (UK)](https://dmponline.dcc.ac.uk/) have public templates and
+            a list of funder requirements.
 1. **Timing:**
     - Ideally, planning for data management should begin early in
     the research process, even at the proposal writing stage. This allows
@@ -188,23 +181,20 @@ consistency, efficiency, and the overall quality of the research outcomes.
    naming conventions for files and variables and a logical directory
    structure can significantly improve data organization and make it easier
    for everyone to locate and use the data.
-
 1. **Encouraging Best Practices for Data Management**
     - Promoting and adopting
    sound data management practices within the team ensures data
    integrity and facilitates the integration and analysis of data from various
    sources or team members. This can include:
-
-    - **Data Quality Control:** Implementing shared strategies for checking data
-      accuracy and completeness as it is collected and entered.
-    - **Metadata Creation:** Establishing guidelines for creating consistent
-      and comprehensive metadata to document the data.
-    - **Data Backup:** Ensuring that all team members follow agreed-upon
-      procedures for regularly backing up data to prevent loss.
-    - **Version Control:** For data and especially for code used in data
-      analysis, utilizing version control systems helps track changes and allows
-      for collaboration without overwriting each other's work.
-
+        - **Data Quality Control:** Implementing shared strategies for checking data
+        accuracy and completeness as it is collected and entered.
+        - **Metadata Creation:** Establishing guidelines for creating consistent
+        and comprehensive metadata to document the data.
+        - **Data Backup:** Ensuring that all team members follow agreed-upon
+        procedures for regularly backing up data to prevent loss.
+        - **Version Control:** For data and especially for code used in data
+        analysis, utilizing version control systems helps track changes and allows
+        for collaboration without overwriting each other's work.
 1. **Sharing Knowledge and Expertise**
     - Effective teamwork involves open
    communication and the sharing of knowledge related to data. When team
@@ -215,20 +205,18 @@ consistency, efficiency, and the overall quality of the research outcomes.
    researchers, which is relevant within a research team as well. This can
    involve explaining the rationale behind specific data management practices
    and helping team members understand why they are important.
-
 1. **Agreeing on Standards**
     - Establishing common standards is essential for
    creating robust and comparable datasets. This includes:
-    - **Defining Sampling Systems Before Fieldwork:** As explicitly mentioned,
-      agreeing on how data will be sampled or collected in advance ensures that
-      the resulting data can be effectively combined and compared.
-    - **Data Formats:** Deciding on preferred data formats for sharing and
-      archiving within the team promotes interoperability and avoids
-      compatibility issues.
-    - **Common Vocabularies and Ontologies:** Where applicable, agreeing on the
-      use of shared vocabularies or ontologies can improve data integration and
-      understanding across different parts of the project.
-
+        - **Defining Sampling Systems Before Fieldwork:** As explicitly mentioned,
+        agreeing on how data will be sampled or collected in advance ensures that
+        the resulting data can be effectively combined and compared.
+        - **Data Formats:** Deciding on preferred data formats for sharing and
+        archiving within the team promotes interoperability and avoids
+        compatibility issues.
+        - **Common Vocabularies and Ontologies:** Where applicable, agreeing on the
+        use of shared vocabularies or ontologies can improve data integration and
+        understanding across different parts of the project.
 1. **Need for data cleaning, reshaping, and merging**
     - This often arises
 when working with data from multiple team members or sources. Establishing clear
@@ -268,7 +256,6 @@ collaborative research environments.
     learning materials for research data management. Furthermore, integrating
     data management practices into all ecological research activities is
     recommended.
-
 1. **Highlighting the "Why":**
     - It's not enough to simply tell researchers _how_
     to manage data; explaining _why_ it matters is crucial for promoting genuine
@@ -279,28 +266,25 @@ collaborative research environments.
     reuse, and proper attribution through data citation. Emphasizing how good
     data management can further their research and make their data and
     software more open and FAIR is a core goal of Data Help Desks.
-
 1. **Providing Practical Guidance and Tools:**
     - Researchers need practical
     tools, workflows, and guidance to implement best practices effectively.
     This includes offering support on topics such as:
-
-    -   **Data formatting:** Choosing appropriate, non-proprietary formats for
-        long-term preservation [previously discussed].
-    -   **Metadata creation:** Developing comprehensive and standardized
-        metadata to ensure data findability and understanding. Resources like SESAR can aid in this process for
-        specific data types.
-    -   **Data organization:** Implementing logical file naming conventions and
-        directory structures.
-    -   **Data quality control:** Establishing strategies for ensuring data
-        accuracy and completeness.
-    -   **Data archiving and repository selection:** Guiding researchers on
-        identifying and using appropriate FAIR-aligned data repositories for
-        their data. This includes understanding funder and publisher
-        requirements.
-    -   **Data citation:** Educating researchers on how to properly cite data
-        and software to ensure proper credit and enhance discoverability.
-
+        -   **Data formatting:** Choosing appropriate, non-proprietary formats for
+            long-term preservation [previously discussed].
+        -   **Metadata creation:** Developing comprehensive and standardized
+            metadata to ensure data findability and understanding. Resources like SESAR can aid in this process for
+            specific data types.
+        -   **Data organization:** Implementing logical file naming conventions and
+            directory structures.
+        -   **Data quality control:** Establishing strategies for ensuring data
+            accuracy and completeness.
+        -   **Data archiving and repository selection:** Guiding researchers on
+            identifying and using appropriate FAIR-aligned data repositories for
+            their data. This includes understanding funder and publisher
+            requirements.
+        -   **Data citation:** Educating researchers on how to properly cite data
+            and software to ensure proper credit and enhance discoverability.
 1. **Addressing Challenges and Concerns:**
     - Acknowledging and addressing the
     challenges researchers face in adopting best practices is important. For
@@ -309,7 +293,6 @@ collaborative research environments.
     concerns about sharing data before publication. Providing clear and helpful
     guidance on these specific issues can build trust and encourage better data
     management.
-
 1. **Leveraging Community Expertise:**
     - Engaging informatics experts familiar
     with specific scientific domains is a key element of Data Help Desks. These
@@ -334,7 +317,6 @@ enhancing reproducibility, and maximizing the impact of research.
     name, date, data type, version, or processing stage. The sources highlight
     the temptation to append excessive information to filenames, advising
     instead to come up with a convention and stick to it.
-
 1. **Logical Directory Structures:**
     - Creating a clear and logical hierarchy
     of folders (directory structure) to store data is equally important. A
@@ -342,7 +324,6 @@ enhancing reproducibility, and maximizing the impact of research.
     researchers from spending excessive time just looking for their data before
     analysis can even begin. This structure should reflect the different stages
     of the research project, data types, or other relevant groupings.
-
 1. **Structuring Data for Storage and Analysis:**
     - Organizing the data within
     files in a way that is suitable for analysis is another key aspect. This
@@ -351,7 +332,6 @@ enhancing reproducibility, and maximizing the impact of research.
     themselves. "Tidy data" principles, where each variable forms a column, each
     observation forms a row, and each type of observational unit forms a table,
     can greatly enhance usability.
-
 1. **Importance for Findability and Usability:**
     - The primary goal of data
     organization is to make data easily findable and usable in the future.
@@ -359,21 +339,18 @@ enhancing reproducibility, and maximizing the impact of research.
     information they need, whether they are returning to the data months or
     years later, or if others are trying to use the data for verification or new
     research.
-
 1. **Support for Reproducibility:**
     - Clear data organization directly supports
     the reproducibility of research. When the structure of the data is
     transparent, others can more easily understand how the data was collected,
     processed, and analyzed, making it possible to attempt to replicate the
     findings.
-
 1. **A Recognized Need:**
     - Data organization has been identified as a
     significant research data management need by scientists at conferences like
     AGU. It was also highlighted as a topic for future training that researchers
     expressed interest in. This underscores the ongoing challenges and the
     importance researchers place on improving their data organization skills.
-
 1. **Connection to Broader Data Management Practices:**
     - Proper data
     organization is an integral part of encouraging best practices in data
@@ -466,14 +443,12 @@ data more FAIR.
     principles is important. This includes conveying that FAIR data supports
     open science and leads to more transparent and collaborative
     research.
-
 1. **Addressing Common Questions about FAIR:**
     - Researchers frequently ask
     "What is FAIR?" and "What makes data and software #FAIR? And what is FAIR
     anyway?". The data help desk provides a space for them to ask these
     fundamental questions and receive clear explanations from informatics
     experts.
-
 1. **Providing Practical Steps for Implementing FAIR:**
     - Beyond explaining the
     concepts, a data help desk offers practical guidance on how researchers
@@ -488,7 +463,6 @@ data more FAIR.
     -   Offering advice on creating comprehensive metadata records to
         enhance data discovery, which is a key aspect of making data Findable.
     -   Sharing information on data standards that promote interoperability.
-
 1. **Highlighting the Benefits of FAIR Data Practices:**
     - The data help desk can
     emphasize the advantages of adhering to FAIR principles, such as meeting
@@ -496,7 +470,6 @@ data more FAIR.
     They can also explain how FAIR data increases the potential for data
     reuse, enhances the impact of research through increased citations, and
     promotes collaboration.
-
 1. **Providing Resources and Tools:**
     - Data help desks often curate and share
     resources like one-pagers, tutorials, and links to relevant
@@ -504,7 +477,6 @@ data more FAIR.
     FAIR principles. For example, they might point researchers to the ESIP
     Data Management Training Clearinghouse for learning materials or to
     specific resources explaining FAIR.
-
 1. **Addressing Challenges in Understanding and Implementation:**
     - The data help
     desk acknowledges that researchers may find it challenging to understand and

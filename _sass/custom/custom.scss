@@ -203,11 +203,17 @@
         padding-left: 0;
     }
 
-    ol > li > ul > li:only-child {
+    ul > li:only-child {
         &::before {
             content: none;
         }
     }
+
+    // ol > li > ul > li:only-child {
+    //     &::before {
+    //         content: none;
+    //     }
+    // }
 
     a {
         color: #0c296c;

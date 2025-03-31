@@ -16,6 +16,7 @@ can help researchers promote these practices among their colleagues and
 supervisors, fostering a culture of good data stewardship.
 
 1. [Creating Data Management Plans (DMPs)](#dmp)
+1. [Including metadata](#metadata)
 1. [Best practices for data archiving and preservation](#best-practices)
 1. [Working with data among teams](#working-with-data)
 1. [Encouraging best practices](#encouraging)
@@ -106,6 +107,29 @@ reusability of scientific data.
     the research process, even at the proposal writing stage. This allows
     researchers to think through their data needs and management strategies
     proactively.
+
+## Including Metadata {#metadata}
+
+Effective metadata allows for a comprehensive understanding, utilization, and
+sharing of data both in the present and for future use. It also aids in ensuring
+that other researchers can discover, access, apply, repurpose, and properly cite
+the data over time. Additionally, it supports the long-term preservation and
+archiving of data. The key categories of documentation to capture data include:
+
+-   **Samples Metadata**: Details about the samples themselves.
+-   **Technical Metadata**: Information generated automatically by research
+    instruments and the associated software.
+-   **Experimental Metadata**: Data concerning the experimental setup, including
+    time points, protocols, and equipment used during data generation.
+-   **Analytical Metadata**: Information related to the data analysis process,
+    such as the software name and version, quality control parameters, and
+    specifications of output file types.
+-   **Dataset Level Metadata**: Descriptive data about the research project's
+    objectives, contributing investigators, related publications, and funding
+    sources.
+
+See this site to learn more
+[Metadata Best Practices and Data Publishing](https://learning.nceas.ucsb.edu/2023-01-arctic/metadata-best-practices-and-data-publishing.html).
 
 ## Best practices for data archiving and preservation {#best-practices}
 

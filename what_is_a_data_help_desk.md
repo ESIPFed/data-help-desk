@@ -16,6 +16,17 @@ domain. This engagement is intended to help researchers learn about skills and
 techniques that will further their research and make their data and software
 more open and FAIR (Findable, Accessible, Interoperable, and Reusable).
 
+The Data Help Desk specifically connects domain scientists and data experts to
+share knowledge, tools, and workflows. Data Help Desks are held at various Earth
+science conferences, including the American Geophysical Union (AGU), the
+European Geophysical Union (EGU), American Meteorological Society (AMS), and
+Geological Society of America (GSA). Often housed in the Exhibit Hall, the Data
+Help Desk is led by volunteer data experts who share their time and wisdom with
+students, domain scientists new to data management, and anyone interested in
+learning more about leading practices in open science. Many volunteers
+contribute demos, one-pagers, and recordings to help make Earth science data
+more findable, accessible, interoperable, and reusable (FAIR).
+
 In essence, the data help desk focuses on empowering researchers with the
 knowledge and resources needed to effectively manage their data, embrace open
 science principles, and make their research more accessible and impactful.

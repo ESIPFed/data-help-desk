@@ -14,6 +14,28 @@ and reminders, and actively seeking and utilizing volunteer feedback, hosts can
 create a supportive environment that enhances the effectiveness and satisfaction
 of their data help desk volunteers.
 
+Ensuring that volunteers find participation to be a good and productive use of
+their time is an important undertaking because it increases the likelihood that
+they will be willing to participate again in the future. Constantly striving to
+collect and share metrics that show the event is having an impact can help with
+this. It can be helpful to survey volunteers post-event to get their thoughts on
+what worked well and what could be improved.
+
+Because not all volunteers may be comfortable using Twitter or want to have to
+constantly monitor a Twitter feed, it is ideal to set up a separate mechanism
+for them to identify and address researcher inquiries. A Slack channel has been
+used in the past that enables discussion amongst the experts, as well as
+triaging of researcher questions. The form for contributing questions has even
+been automatically set up to post questions in the Slack Channel.
+
+A moderator can then take experts’ responses and share them with the inquirer
+and also post the thread back to Twitter, so that others can benefit from the
+exchange. The moderator can also take questions asked on Twitter and post them
+to the Slack channel.
+
+Experts can then either respond directly on Twitter or share their answers in
+Slack for the moderator to then push back out to Twitter.
+
 <!-- prettier-ignore -->
 1. **Provide Example User Questions to Prepare For**
    - Hosts can provide volunteers with lists of common questions from past help

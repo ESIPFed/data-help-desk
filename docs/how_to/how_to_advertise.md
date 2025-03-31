@@ -72,17 +72,22 @@ Caution should be exercised, however, when considering this option because it
 creates a private space that only meeting attendees can access and it also
 creates another place that data expert volunteers have to monitor.
 
-## Email templates to advertise the desk
+## Resources for creating advertising
 
-See [Email
+<!-- prettier-ignore -->
+1. **Email templates**
+    - See example email templates [Email
 templates]({{ site.baseurl }}{% link docs/resources/email_templates.md %})
-
-## Social media
-
-Develop a social media plan with messages to send.
-
-See [Example media
+1. **Social media plan**
+    - See example media messages [Example media
 messages]({{ site.baseurl }}{% link docs/resources/example_media_messages.md %})
+1. **Postcards**
+    - See an example postcard [Open Science Help Desk Postcards -
+AGU24]({{ site.baseurl }}/assets/docs/Open_Science_Help_Desk_Postcards-AGU24.pdf)
+1. **Blog Post**
+    - See an example blog post [Open Science & Data Help Desk at EGU24
+Advertisement]({{ site.baseurl }}/assets/docs/Open Science & Data Help Desk at
+EGU24 Advertisement.pdf)
 
 ## Steps to take to advertise you are hosting a data help desk
 
@@ -167,3 +172,44 @@ messages]({{ site.baseurl }}{% link docs/resources/example_media_messages.md %})
 1. **Collaboration**
     - Highlight the collaborative nature of the Data Help Desk by
     mentioning participating organizations.
+
+## Example advertisement for a data help desk at a conference
+
+Do you have data and software-related questions? Are you looking to make your
+data and/or software open and FAIR? Are you interested in tools and resources
+for working with your data or for finding data to reuse? The Open Science & Data
+Help Desk is here for you!
+
+The Open Science & Data Help Desk, a program of the European Geosciences Union
+(EGU), the Earth Science Information Partners (ESIP) and the American
+Geophysical Union (AGU), along with their respective partners, provides
+researchers with opportunities to engage with informatics experts in their
+domains. Through the Help Desk, researchers can learn about skills and
+techniques that help further their research and make their data and software
+more open and FAIR. The Open Science & Data Help Desk is staffed with experts
+from the Earth science informatics community to answer data-related questions
+and to demo useful resources.
+
+**When:** 27 April–2 May during #EGU25
+
+**Where:** In-person and online.
+
+We are located in Hall X2 at booth #X208. Or you can submit a question through
+our online form here. Learn more: https://bit.ly/ESIPDataHelpDesk.
+
+YOU can:
+
+**Ask Data Questions:** Share your questions any time during the event at Hall
+X2, Booth #X208 or submit your question via the form HERE. **Our team of Earth
+science data professionals has decades of experience in informatics and in many
+scientific domains and specializes in topics like finding, sharing, analyzing,
+publishing, and citing data.**
+
+The Data Help Desk has been held in the past at the American Geophysical Union
+Fall Meeting, the Ecological Society of America Annual Meeting, the Geological
+Society of America, the Ocean Sciences Meeting, and the European Geosciences
+Union General Assembly. This event represents another exciting opportunity for
+anyone to jump in and ask questions, regardless of geographic location. Join us
+to improve your skills and practices!
+
+Questions? Contact datahelpdesk@esipfed.org.

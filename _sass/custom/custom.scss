@@ -159,7 +159,7 @@
             &::before {
                 content: counter(step-counter);
                 counter-increment: step-counter;
-                color: black;
+                color: #576677;
                 position: absolute;
                 --size: 2rem;
                 left: calc(-1 * var(--size) - 10px);
@@ -195,12 +195,21 @@
         padding-bottom: 0.5rem;
     }
 
-    ol >li >ul > li {
+    ol > li > ul > li {
         padding-bottom: 0.5rem;
     }
 
+    ul:has(li:only-child) {
+        padding-left: 0;
+    }
+
+    ol > li > ul > li:only-child {
+        &::before {
+            content: none;
+        }
+    }
+
     a {
-        //color: #196a39;
         color: #0c296c;
         font-weight: 700;
     }
@@ -236,6 +245,10 @@
         >p {
             font-size: 1.1rem;
             font-style: italic;
+        }
+
+        ul:has(li:only-child) {
+            padding-left: 1.5em;
         }
 
     }

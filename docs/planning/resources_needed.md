@@ -55,7 +55,7 @@ resources.
     - Training for volunteers to develop their skills and confidence in
       providing support to users.
 
-## Materials
+## Educational Materials
 
 1. **Data management guides and manuals**
     - Copies of comprehensive guides on data management, curation, and

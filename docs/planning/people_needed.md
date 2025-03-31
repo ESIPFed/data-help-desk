@@ -44,7 +44,7 @@ organizations even) that they would like to see featured.
 otherwise), the meeting host organization, and other contributing organizations
 what their respective roles will be.
 
-## People to advertise the data desk
+## People to advertise the data help desk
 
 <!-- prettier-ignore -->
 1. **Create a communication plan**

@@ -47,7 +47,7 @@ Here’s a breakdown of the process:
    space. Reserving early also provides ample time to plan for logistical needs
    such as tables, monitors for demos, and the overall layout of the booth,
    ensuring that the physical space can effectively support the help desk's
-   activities.
+   activities. It can takes months to organize and plan.
 
 1.  **Form a Dedicated Organizing Committee**
     -   It is essential to have a core group of dedicated organizers who meet

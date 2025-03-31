@@ -35,7 +35,6 @@ adequate support, and acknowledge their valuable contributions.
 
     - Ask in the ESIP Slack channel for expert volunteers in subjects that are topics for the data help desk.
     - [Current List of ESIP Data Stewardship Committee Members](https://wiki.esipfed.org/Current_List_of_ESIP_Data_Stewardship_Committee_Members)
-
 1. **Direct and Targeted Outreach**
     -   Organizers can decide on key topics and specific resources they want
         featured and then hand-pick a set of experts in those areas. This is
@@ -47,7 +46,6 @@ adequate support, and acknowledge their valuable contributions.
         relevant networks.
     -   Contact individuals known for their contributions to specific projects or
         resources that align with the help desk's goals.
-
 1. **Broad Calls for Volunteers**
     -   Share a volunteer form (e.g., Google Form) through relevant mailing lists to
         solicit experts. Clearly specify the need for individuals with data and

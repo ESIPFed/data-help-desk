@@ -24,6 +24,8 @@ has_toc: false
 
 [https://www.esipfed.org/resources/](https://www.esipfed.org/resources/)
 
+[ESIP Wiki](https://wiki.esipfed.org/Main_Page)
+
 ### Managing data
 
 [Easy Resources for Managing Your Ocean Data](https://www.deepoceanobserving.org/pages/tips-for-managing-your-ocean-data)
@@ -35,6 +37,10 @@ Figshare: topic of Data management and data science
 [Data Management Best Practices](https://www.axiomdatascience.com/best-practices/DataManagementBestPractices.html)
 
 [Data Management Short Course for Scientists](https://commons.esipfed.org/datamanagementshortcourse)
+
+[Ten Simple Rules for Creating a Good Data Management Plan](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525)
+
+[Fundamentals in Data Management for Qualitative and Quantitative Arctic Research](https://learning.nceas.ucsb.edu/2023-01-arctic/index.html#open-science)
 
 [ESIP Data Management Training](https://commons.esipfed.org/collaboration-area/data-management-training)
 
@@ -78,9 +84,9 @@ https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Documen
 
 [Data documentation: what to include](https://dism.duke.edu/files/2020/05/Tipsheet-archiving_and_sharing_data.pdf)
 
-About metadata
+About metadata https://www.ncei.noaa.gov/resources/metadata#Intro
 
-https://www.ncei.noaa.gov/resources/metadata#Intro
+[Metadata Best Practices and Data Publishing](https://learning.nceas.ucsb.edu/2023-01-arctic/metadata-best-practices-and-data-publishing.html)
 
 ### Data Sharing & Reuse
 
@@ -143,8 +149,6 @@ government Browse Case studies & examples >
 They list a variety of resources
 
 [References to literature](https://wiki.esipfed.org/References_to_literature,_sent_by_01/10/13_meeting_session_participants)
-
-[Science data life cycle model](https://wiki.esipfed.org/Science_data_life_cycle_model)
 
 [Reference to OMB memo on access to research results](https://wiki.esipfed.org/Reference_to_OMB_memo_on_access_to_research_results)
 

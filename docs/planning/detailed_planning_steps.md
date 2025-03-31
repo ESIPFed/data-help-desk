@@ -327,7 +327,7 @@ Develop educational materials tailored to common data management queries.
 
 <!-- prettier-ignore -->
 1. **Easy-to-follow tutorials:** For data management best practices
-1. **Frequently asked questions (FAQs) document:** See [questions from users]({{ site.baseurl }}{% link docs/resources/questions_from_users.md %})
+1. **Frequently asked questions (FAQs) document:** FAQs document with common questions and answers on data management topics. See [questions from users]({{ site.baseurl }}{% link docs/resources/questions_from_users.md %})
 1.  **Quick-reference guides:** For addressing frequently used data formats,
     metadata templates, and repository submission workflows.
     - These handouts
@@ -356,7 +356,6 @@ of reference for attendees looking for more information.
     - List of data repositories
     - Links to oceanographic data management standards and best practices (e.g.,
       DOIs, CSW).
-    - FAQs document with common questions and answers on data management topics.
 
 ## Train Help Desk Staff
 

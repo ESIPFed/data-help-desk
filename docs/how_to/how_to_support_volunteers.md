@@ -15,7 +15,7 @@ create a supportive environment that enhances the effectiveness and satisfaction
 of their data help desk volunteers.
 
 <!-- prettier-ignore -->
-1. **Providing Example User Questions to Prepare For**
+1. **Provide Example User Questions to Prepare For**
    - Hosts can provide volunteers with lists of common questions from past help
       desks. Examples of frequently asked questions include where to find or
       deposit data, how to create data management plans (DMPs), what FAIR
@@ -29,7 +29,7 @@ of their data help desk volunteers.
       such as data repositories and storage, rising interest in FAIR data, and
       challenges with large volumes of data. Sharing these insights can help
       volunteers anticipate common areas of inquiry.
-1. **Providing Categories of Questions**
+1. **Provide Categories of Questions**
    - The sources mention the creation of a data question typology based on
       questions asked at Data Help Desks, which can help in understanding the
       categories of inquiries.
@@ -43,7 +43,7 @@ of their data help desk volunteers.
       could provide help with, listing examples like General Data Management,
       Information Management, Metadata, Data Repositories, and Data Management
       Plans. This list can serve as a set of categories for volunteers to consider.
-1. **Providing Schedules and Reminders for Staffing the Desk**
+1. **Provide Schedules and Reminders for Staffing the Desk**
    - Hosts should create a schedule for the Data Help Desk.
    - It's important to have a solid communication plan both prior to and during
       the event. This includes communicating the schedule to volunteers.
@@ -56,7 +56,7 @@ of their data help desk volunteers.
       encourage volunteers during the meeting week once the schedule is released.
    - Volunteers for AGU24 were informed of their time slots and encouraged to
       consider the booth a home base throughout the week.
-1. **Providing Surveys for Feedback on How to Support Volunteers in the Future**
+1. **Provide Surveys for Feedback on How to Support Volunteers in the Future**
    - It is recommended to survey volunteers post-event to get their thoughts on
       what worked well and what could be improved.
    - A post-event survey can gather volunteer feedback on how the events could be

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: How to give acknowledgement
+title: Give acknowledgement
 parent: How to
 nav_order: 3
 has_toc: false
 ---
 
-# How to Give Acknowledgement to Sponsors & Volunteers
+# Give Acknowledgement to Sponsors & Volunteers
 
 We have often called the data help desk a “program of X, Y, and Z” and further
 supported by many other individuals and organizations. X, Y, and Z have

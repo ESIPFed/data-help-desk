@@ -10,67 +10,59 @@ has_toc: false
 
 ## Media plan
 
-Generating a robust plan, including a schedule of tweets to advertise that the
-event is happening, along with example questions, and featured resources is key.
-The use of scheduling software like Tweetdeck or Buffer can be extremely
-helpful. Having key hashtags that are used in each Tweet is important.
-
-At a minimum, these have so far been #DataHelpDesk and the hashtag for the
-associated conference (e.g., #AGU21). At some point, it may be better to have a
-main Twitter account associated with the event, so that hashtags cannot be
-confused with or commandeered to promote other activities and resources. This
-account would need to be a shared resource amongst all Data Help Desk
-organizers.
-
-Having a twitter plan that includes numerous tweets each day drawing attention
-both to the broader event and to specific topics & resources can help with this.
-Tweets (and retweets) coming from numerous people and organizations using
-#DataHelpDesk can be very effective and help show that the Data Help Desk is a
-truly collaborative effort. Having a contact at the meeting host organization
-(AGU, EGU, etc.) who is willing to retweet anything you send out can also help
-reach more people.
+-   Generating a robust plan, including a schedule of tweets to advertise that
+    the event is happening, along with example questions, and featured resources
+    is key. The use of scheduling software like Tweetdeck or Buffer can be
+    extremely helpful. Having key hashtags that are used in each Tweet is
+    important.
+-   At a minimum, these have so far been #DataHelpDesk and the hashtag for the
+    associated conference (e.g., #AGU21). At some point, it may be better to
+    have a main Twitter account associated with the event, so that hashtags
+    cannot be confused with or commandeered to promote other activities and
+    resources. This account would need to be a shared resource amongst all Data
+    Help Desk organizers.
+-   Having a twitter plan that includes numerous tweets each day drawing
+    attention both to the broader event and to specific topics & resources can
+    help with this.
+-   Tweets (and retweets) coming from numerous people and organizations using
+    #DataHelpDesk can be very effective and help show that the Data Help Desk is
+    a truly collaborative effort. Having a contact at the meeting host
+    organization (AGU, EGU, etc.) who is willing to retweet anything you send
+    out can also help reach more people.
 
 ## At the conference
 
-Advertising not just on the meeting website, but in a prominent place.
-
-Ambassadors – section chairs, scientific session presenters, etc., who actively
-talk to others about the event during the meeting in as many places as possible
-by tweeting, by sharing email advertisements, by mentioning the event in their
-posters and oral presentations, town halls, and more.
+-   Advertising not just on the meeting website, but in a prominent place.
+-   Ambassadors – section chairs, scientific session presenters, etc., who
+    actively talk to others about the event during the meeting in as many places
+    as possible by tweeting, by sharing email advertisements, by mentioning the
+    event in their posters and oral presentations, town halls, and more.
 
 ## With organizations
 
-Establish key contacts to work with advertising data help desk presence
-
-Beyond what each organization will contribute, it is important to establish key
-contacts at those organizations to work with.
-
-With some meeting host organizations, the Virtual Data Help Desk is more closely
-associated with a specific section or the Career Central component, whereas with
-others it is not.
-
-If society Y is hosting a meeting, it is important to establish who at society Y
-can help with ensuring that the Data Help Desk receives prominent placement in
-any digital materials, including the main meeting website.
-
-You might also arrange with the host to have a blog post published about the
-event and/or ask that they include information about the Help Desk in any daily
-email reminders sent to meeting attendees.
-
-Another key role is someone at the meeting host organization who can help with
-social media coverage of your event, actively re-tweeting as you put out info.
-
-If the entire meeting is happening virtually, you may consider discussing with
-the meeting host organization whether the Virtual Data Help Desk can and should
-have a presence in the virtual platform for the meeting - this can be, for
-example, a virtual exhibit booth.
-
-This can do a lot to increase the visibility of the event.
-
-Caution should be exercised, however, when considering this option because it
-creates a private space that only meeting attendees can access and it also
-creates another place that data expert volunteers have to monitor.
+-   Establish key contacts to work with advertising data help desk presence
+-   Beyond what each organization will contribute, it is important to establish
+    key contacts at those organizations to work with.
+-   With some meeting host organizations, the Virtual Data Help Desk is more
+    closely associated with a specific section or the Career Central component,
+    whereas with others it is not.
+-   If society Y is hosting a meeting, it is important to establish who at
+    society Y can help with ensuring that the Data Help Desk receives prominent
+    placement in any digital materials, including the main meeting website.
+-   You might also arrange with the host to have a blog post published about the
+    event and/or ask that they include information about the Help Desk in any
+    daily email reminders sent to meeting attendees.
+-   Another key role is someone at the meeting host organization who can help
+    with social media coverage of your event, actively re-tweeting as you put
+    out info.
+-   If the entire meeting is happening virtually, you may consider discussing
+    with the meeting host organization whether the Virtual Data Help Desk can
+    and should have a presence in the virtual platform for the meeting - this
+    can be, for example, a virtual exhibit booth. This can do a lot to increase
+    the visibility of the event.
+-   Caution should be exercised, however, when considering this option because
+    it creates a private space that only meeting attendees can access and it
+    also creates another place that data expert volunteers have to monitor.
 
 ## Resources for creating advertising
 
@@ -175,41 +167,41 @@ EGU24 Advertisement.pdf)
 
 ## Example advertisement for a data help desk at a conference
 
-Do you have data and software-related questions? Are you looking to make your
-data and/or software open and FAIR? Are you interested in tools and resources
-for working with your data or for finding data to reuse? The Open Science & Data
-Help Desk is here for you!
-
-The Open Science & Data Help Desk, a program of the European Geosciences Union
-(EGU), the Earth Science Information Partners (ESIP) and the American
-Geophysical Union (AGU), along with their respective partners, provides
-researchers with opportunities to engage with informatics experts in their
-domains. Through the Help Desk, researchers can learn about skills and
-techniques that help further their research and make their data and software
-more open and FAIR. The Open Science & Data Help Desk is staffed with experts
-from the Earth science informatics community to answer data-related questions
-and to demo useful resources.
-
-**When:** 27 April–2 May during #EGU25
-
-**Where:** In-person and online.
-
-We are located in Hall X2 at booth #X208. Or you can submit a question through
-our online form here. Learn more: https://bit.ly/ESIPDataHelpDesk.
-
-YOU can:
-
-**Ask Data Questions:** Share your questions any time during the event at Hall
-X2, Booth #X208 or submit your question via the form HERE. **Our team of Earth
-science data professionals has decades of experience in informatics and in many
-scientific domains and specializes in topics like finding, sharing, analyzing,
-publishing, and citing data.**
-
-The Data Help Desk has been held in the past at the American Geophysical Union
-Fall Meeting, the Ecological Society of America Annual Meeting, the Geological
-Society of America, the Ocean Sciences Meeting, and the European Geosciences
-Union General Assembly. This event represents another exciting opportunity for
-anyone to jump in and ask questions, regardless of geographic location. Join us
-to improve your skills and practices!
-
-Questions? Contact datahelpdesk@esipfed.org.
+> Do you have data and software-related questions? Are you looking to make your
+> data and/or software open and FAIR? Are you interested in tools and resources
+> for working with your data or for finding data to reuse? The Open Science &
+> Data Help Desk is here for you!
+>
+> The Open Science & Data Help Desk, a program of the European Geosciences Union
+> (EGU), the Earth Science Information Partners (ESIP) and the American
+> Geophysical Union (AGU), along with their respective partners, provides
+> researchers with opportunities to engage with informatics experts in their
+> domains. Through the Help Desk, researchers can learn about skills and
+> techniques that help further their research and make their data and software
+> more open and FAIR. The Open Science & Data Help Desk is staffed with experts
+> from the Earth science informatics community to answer data-related questions
+> and to demo useful resources.
+>
+> **When:** 27 April–2 May during #EGU25
+>
+> **Where:** In-person and online.
+>
+> We are located in Hall X2 at booth #X208. Or you can submit a question through
+> our online form here. Learn more: https://bit.ly/ESIPDataHelpDesk.
+>
+> YOU can:
+>
+> **Ask Data Questions:** Share your questions any time during the event at Hall
+> X2, Booth #X208 or submit your question via the form HERE. Our team of Earth
+> science data professionals has decades of experience in informatics and in
+> many scientific domains and specializes in topics like finding, sharing,
+> analyzing, publishing, and citing data.
+>
+> The Data Help Desk has been held in the past at the American Geophysical Union
+> Fall Meeting, the Ecological Society of America Annual Meeting, the Geological
+> Society of America, the Ocean Sciences Meeting, and the European Geosciences
+> Union General Assembly. This event represents another exciting opportunity for
+> anyone to jump in and ask questions, regardless of geographic location. Join
+> us to improve your skills and practices!
+>
+> **Questions?** Contact datahelpdesk@esipfed.org.

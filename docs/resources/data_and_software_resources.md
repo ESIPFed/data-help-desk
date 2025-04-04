@@ -8,6 +8,37 @@ has_toc: false
 
 # Data & Software Resources
 
+## Table of Contents
+
+[Software/model-oriented resources](#softwaremodel-oriented-resources)
+
+[Websites](#websites)
+
+-   [ESIP Resources](#esip-earth-science-data-resources)
+-   [Managing data](#managing-data)
+-   [FAIR Data](#fair-data)
+-   [Data & Software Citation](#data--software-citation)
+-   [Documentation & MetaData](#documentation--metadata)
+-   [Data Sharing & Reuse](#data-sharing--reuse)
+-   [Find Research Datasets](#find-research-datasets)
+-   [Data Management](#data-management)
+-   [Project open data](#project-open-data)
+-   [Council of Data Facilities (CDF)](#council-of-data-facilities-cdf)
+-   [COPDESS](#copdess)
+-   [DOE (Department of Energy) resources](#doe-department-of-energy-resources)
+-   [NASA (National Aeronautics and Space Administration) resources](#nasa-national-aeronautics-and-space-administration-resources)
+-   [NOAA (National Oceanic and Atmospheric Administration) resources](#noaa-national-oceanic-and-atmospheric-administration-resources)
+-   [Smithsonian Institution resources](#smithsonian-institution-resources)
+-   [USGS (United States Geological Survey) resources](#usgs-united-states-geological-survey-resources)
+-   [Education-oriented resources](#education-oriented-resources)
+
+[Videos](#videos)
+
+-   [Data and Software Guidance](#data-and-software-guidance)
+-   [Videos from Previous Data Help Desks](#videos-from-previous-data-help-desks)
+
+[GitHub Repositories](#github-repositories)
+
 ## Software/model-oriented resources
 
 [CIG (Computational Infrastructure for Geodynamics)](https://geodynamics.org/)
@@ -20,11 +51,45 @@ has_toc: false
 
 ## Websites
 
-### Earth science data resources
+### ESIP Resources
 
-[https://www.esipfed.org/resources/](https://www.esipfed.org/resources/)
+[ESIP Earth Science Resources](https://www.esipfed.org/resources/)
 
 [ESIP Wiki](https://wiki.esipfed.org/Main_Page)
+
+[ESIP Data Study Working Group](https://wiki.esipfed.org/Data_Study_Working_Group)
+
+[References to literature](https://wiki.esipfed.org/References_to_literature,_sent_by_01/10/13_meeting_session_participants)
+
+[Reference to OMB memo on access to research results](https://wiki.esipfed.org/Reference_to_OMB_memo_on_access_to_research_results)
+
+[Cluster mission statement discussion, drafts](https://wiki.esipfed.org/Cluster_mission_statement)
+
+[ESIP summer 2013 panel discussion](https://wiki.esipfed.org/Summer_2013_panel_discussion)
+
+February 2013 OSTP Memo for the Heads of Executive Departments and Agencies:
+[Increasing Access to the Results of Federally Funded Scientific Research](http://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
+
+[May 9, 2013 Executive Order, "Making Open and Machine Readable the New Default for Government Information"](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+
+[May 9, 2013 Memo for the Heads of Executive Departments and Agencies, "Open Data Policy-Managing Information as an Asset"](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
+
+[July 2013 OSTP/OMB Memo for the Heads of Executive Departments and Agencies, "Science and Technology Priorities for the FY 2015 Budget"](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-16.pdf)
+
+[Project Open Data, a "collection of code, tools, and case studies – to help agencies adopt the Open Data Policy and unlock the potential of government data"](http://project-open-data.github.io/)
+
+[Project Open Data Implementation Guide](http://project-open-data.github.io/implementation-guide/")
+
+[NSF's "Vision and Strategy for Software for Science, Engineering, and Education: Cyberinfrastructure Framework for the 21st Century"](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf12113-)
+
+[ESIP collaboration Areas](https://www.esipfed.org/collaboration-areas/): Has
+links to multiple committees that list relevant resources.
+
+[ESIP Discovery Cluster](https://wiki.esipfed.org/Discovery_Cluster)
+
+[Discovery Cluster: Linking Datasets to the Applications that Use Them](https://www.esipfed.org/linking-datasets-to-applications/)
+
+[ESIP Marine Data Cluster](https://wiki.esipfed.org/MarineData)
 
 ### Managing data
 
@@ -142,40 +207,6 @@ projects undertaken by data managers and data practitioners across the federal
 government Browse Case studies & examples >
 [https://resources.data.gov/categories/case-studies-examples/](https://resources.data.gov/categories/case-studies-examples/)
 
-### ESIP Data Study Working Group
-
-[https://wiki.esipfed.org/Data_Study_Working_Group](https://wiki.esipfed.org/Data_Study_Working_Group)
-
-They list a variety of resources
-
-[References to literature](https://wiki.esipfed.org/References_to_literature,_sent_by_01/10/13_meeting_session_participants)
-
-[Reference to OMB memo on access to research results](https://wiki.esipfed.org/Reference_to_OMB_memo_on_access_to_research_results)
-
-[Cluster mission statement discussion, drafts](https://wiki.esipfed.org/Cluster_mission_statement)
-
-[ESIP summer 2013 panel discussion](https://wiki.esipfed.org/Summer_2013_panel_discussion)
-
-February 2013 OSTP Memo for the Heads of Executive Departments and Agencies:
-[Increasing Access to the Results of Federally Funded Scientific Research](http://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
-
-[May 9, 2013 Executive Order, "Making Open and Machine Readable the New Default for Government Information"](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
-
-[May 9, 2013 Memo for the Heads of Executive Departments and Agencies, "Open Data Policy-Managing Information as an Asset"](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
-
-[July 2013 OSTP/OMB Memo for the Heads of Executive Departments and Agencies, "Science and Technology Priorities for the FY 2015 Budget"](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-16.pdf)
-
-[Project Open Data, a "collection of code, tools, and case studies – to help agencies adopt the Open Data Policy and unlock the potential of government data"](http://project-open-data.github.io/)
-
-[Project Open Data Implementation Guide](http://project-open-data.github.io/implementation-guide/")
-
-[NSF's "Vision and Strategy for Software for Science, Engineering, and Education: Cyberinfrastructure Framework for the 21st Century"](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf12113-)
-
-### ESIP collaboration Areas
-
-[https://www.esipfed.org/collaboration-areas/](https://www.esipfed.org/collaboration-areas/):
-Has links to multiple committees that list relevant resources.
-
 ### Council of Data Facilities (CDF)
 
 CDF is a federation of existing and emerging geoscience data facilities that
@@ -200,20 +231,6 @@ Esip Coalition for Publishing Data in the Earth and Space Sciences (COPDESS)
 [COPDESS: list of data fairs](https://copdess.org/data-fairs/)
 
 [COPDESS 2020 Data Fair](https://copdess.org/data-fairs/2020-data-fair-at-ocean-sciences-meeting/)
-
-### ESIP Discovery Cluster
-
-The ESIP Discovery Cluster, led by Chris Lynnes (NASA), is building a Usage
-Based Discovery toolto help researchers discover relationships between earth
-science datasets and the applications that use them.
-
-[ESIP Discovery Cluster](https://wiki.esipfed.org/Discovery_Cluster)
-
-[Discovery Cluster: Linking Datasets to the Applications that Use Them](https://www.esipfed.org/linking-datasets-to-applications/)
-
-### ESIP Marine Data Cluster
-
-[ESIP Marine Data Cluster](https://wiki.esipfed.org/MarineData)
 
 ### DOE (Department of Energy) resources
 
@@ -529,7 +546,7 @@ This #DataHelpDesk expert Stace Beaulieu demos how to explore and visualize
 @oceanobserv data including Quality Assurance of Real-Time Oceanographic Data
 (QARTOD) flags.
 
-## GitHub
+## GitHub Repositories
 
 Earth Science GitHub Repos (many software projects relating to earth science)
 

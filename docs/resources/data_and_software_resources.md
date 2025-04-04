@@ -61,20 +61,9 @@ has_toc: false
 
 [References to literature](https://wiki.esipfed.org/References_to_literature,_sent_by_01/10/13_meeting_session_participants)
 
-[Reference to OMB memo on access to research results](https://wiki.esipfed.org/Reference_to_OMB_memo_on_access_to_research_results)
-
 [Cluster mission statement discussion, drafts](https://wiki.esipfed.org/Cluster_mission_statement)
 
 [ESIP summer 2013 panel discussion](https://wiki.esipfed.org/Summer_2013_panel_discussion)
-
-February 2013 OSTP Memo for the Heads of Executive Departments and Agencies:
-[Increasing Access to the Results of Federally Funded Scientific Research](http://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
-
-[May 9, 2013 Executive Order, "Making Open and Machine Readable the New Default for Government Information"](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
-
-[May 9, 2013 Memo for the Heads of Executive Departments and Agencies, "Open Data Policy-Managing Information as an Asset"](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
-
-[July 2013 OSTP/OMB Memo for the Heads of Executive Departments and Agencies, "Science and Technology Priorities for the FY 2015 Budget"](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-16.pdf)
 
 [Project Open Data, a "collection of code, tools, and case studies – to help agencies adopt the Open Data Policy and unlock the potential of government data"](http://project-open-data.github.io/)
 

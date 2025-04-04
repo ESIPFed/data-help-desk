@@ -8,6 +8,22 @@ has_toc: false
 
 # List of Data repositories
 
+## TODO: Clean up this list of Links that came from these resources
+
+## Table of Contents
+
+[Earth Science data repositories](#earth-science-data-repositories)
+
+[Repositories for samples & collections](#repositories-for-samples--collections)
+
+[Biology data repositories](#biology-data-repositories)
+
+[Generalist repositories](#generalist-repositories)
+
+[Global registry of data repositories](#global-registry-of-data-repositories)
+
+[Tools to find data](#tools-to-find-data)
+
 ## Earth Science data repositories
 
 [Biological and Chemical Oceanography Data Management Office (BCO-DMO)](https://www.bco-dmo.org/)
@@ -264,7 +280,7 @@ data-driven discovery. Our extensible platforms provide data storage,
 bioinformatics tools, data visualization, interactive analyses, cloud services,
 APIs, and more.
 
-# Links came from these resources
+## TODO: Clean up this list of Links that came from these resources
 
 ## Division of Ocean Sciences (OCE) Data and Sample Repositories
 

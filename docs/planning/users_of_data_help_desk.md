@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Users of a help desk
+title: Users of a data help desk
 parent: Planning a data help desk
 nav_order: 6
 has_toc: false

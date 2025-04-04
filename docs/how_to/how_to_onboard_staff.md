@@ -47,15 +47,6 @@ various types of information and training.
 3. **Interpersonal skills**: Emphasis on building rapport with users,
    understanding their needs, and providing empathetic support.
 
-## Safety and Security Protocols
-
-1. **Confidentiality agreements**: Understanding of the importance of
-   confidentiality and data protection.
-2. **Cybersecurity best practices**: Familiarization with cybersecurity best
-   practices for protecting sensitive information.
-3. **Emergency procedures**: Knowledge of emergency procedures, including
-   evacuation protocols, fire safety, and first aid.
-
 ## Training and Development
 
 1. **Onboarding training program**: A comprehensive training program that covers

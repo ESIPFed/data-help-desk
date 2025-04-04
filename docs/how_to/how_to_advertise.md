@@ -10,59 +10,59 @@ has_toc: false
 
 ## Media plan
 
--   Generating a robust plan, including a schedule of tweets to advertise that
-    the event is happening, along with example questions, and featured resources
-    is key. The use of scheduling software like Tweetdeck or Buffer can be
-    extremely helpful. Having key hashtags that are used in each Tweet is
-    important.
--   At a minimum, these have so far been #DataHelpDesk and the hashtag for the
-    associated conference (e.g., #AGU21). At some point, it may be better to
-    have a main Twitter account associated with the event, so that hashtags
-    cannot be confused with or commandeered to promote other activities and
-    resources. This account would need to be a shared resource amongst all Data
-    Help Desk organizers.
--   Having a twitter plan that includes numerous tweets each day drawing
-    attention both to the broader event and to specific topics & resources can
-    help with this.
--   Tweets (and retweets) coming from numerous people and organizations using
-    #DataHelpDesk can be very effective and help show that the Data Help Desk is
-    a truly collaborative effort. Having a contact at the meeting host
-    organization (AGU, EGU, etc.) who is willing to retweet anything you send
-    out can also help reach more people.
+1. Generating a robust plan, including a schedule of tweets to advertise that
+   the event is happening, along with example questions, and featured resources
+   is key. The use of scheduling software like Tweetdeck or Buffer can be
+   extremely helpful. Having key hashtags that are used in each Tweet is
+   important.
+1. At a minimum, these have so far been #DataHelpDesk and the hashtag for the
+   associated conference (e.g., #AGU21). At some point, it may be better to have
+   a main Twitter account associated with the event, so that hashtags cannot be
+   confused with or commandeered to promote other activities and resources. This
+   account would need to be a shared resource amongst all Data Help Desk
+   organizers.
+1. Having a twitter plan that includes numerous tweets each day drawing
+   attention both to the broader event and to specific topics & resources can
+   help with this.
+1. Tweets (and retweets) coming from numerous people and organizations using
+   #DataHelpDesk can be very effective and help show that the Data Help Desk is
+   a truly collaborative effort. Having a contact at the meeting host
+   organization (AGU, EGU, etc.) who is willing to retweet anything you send out
+   can also help reach more people.
 
 ## At the conference
 
--   Advertising not just on the meeting website, but in a prominent place.
--   Ambassadors – section chairs, scientific session presenters, etc., who
-    actively talk to others about the event during the meeting in as many places
-    as possible by tweeting, by sharing email advertisements, by mentioning the
-    event in their posters and oral presentations, town halls, and more.
+1. Advertising not just on the meeting website, but in a prominent place.
+1. Ambassadors – section chairs, scientific session presenters, etc., who
+   actively talk to others about the event during the meeting in as many places
+   as possible by tweeting, by sharing email advertisements, by mentioning the
+   event in their posters and oral presentations, town halls, and more.
 
 ## With organizations
 
--   Establish key contacts to work with advertising data help desk presence
--   Beyond what each organization will contribute, it is important to establish
-    key contacts at those organizations to work with.
--   With some meeting host organizations, the Virtual Data Help Desk is more
-    closely associated with a specific section or the Career Central component,
-    whereas with others it is not.
--   If society Y is hosting a meeting, it is important to establish who at
-    society Y can help with ensuring that the Data Help Desk receives prominent
-    placement in any digital materials, including the main meeting website.
--   You might also arrange with the host to have a blog post published about the
-    event and/or ask that they include information about the Help Desk in any
-    daily email reminders sent to meeting attendees.
--   Another key role is someone at the meeting host organization who can help
-    with social media coverage of your event, actively re-tweeting as you put
-    out info.
--   If the entire meeting is happening virtually, you may consider discussing
-    with the meeting host organization whether the Virtual Data Help Desk can
-    and should have a presence in the virtual platform for the meeting - this
-    can be, for example, a virtual exhibit booth. This can do a lot to increase
-    the visibility of the event.
--   Caution should be exercised, however, when considering this option because
-    it creates a private space that only meeting attendees can access and it
-    also creates another place that data expert volunteers have to monitor.
+1. Establish key contacts to work with advertising data help desk presence
+1. Beyond what each organization will contribute, it is important to establish
+   key contacts at those organizations to work with.
+1. With some meeting host organizations, the Virtual Data Help Desk is more
+   closely associated with a specific section or the Career Central component,
+   whereas with others it is not.
+1. If society Y is hosting a meeting, it is important to establish who at
+   society Y can help with ensuring that the Data Help Desk receives prominent
+   placement in any digital materials, including the main meeting website.
+1. You might also arrange with the host to have a blog post published about the
+   event and/or ask that they include information about the Help Desk in any
+   daily email reminders sent to meeting attendees.
+1. Another key role is someone at the meeting host organization who can help
+   with social media coverage of your event, actively re-tweeting as you put out
+   info.
+1. If the entire meeting is happening virtually, you may consider discussing
+   with the meeting host organization whether the Virtual Data Help Desk can and
+   should have a presence in the virtual platform for the meeting - this can be,
+   for example, a virtual exhibit booth. This can do a lot to increase the
+   visibility of the event.
+1. Caution should be exercised, however, when considering this option because it
+   creates a private space that only meeting attendees can access and it also
+   creates another place that data expert volunteers have to monitor.
 
 ## Resources for creating advertising
 

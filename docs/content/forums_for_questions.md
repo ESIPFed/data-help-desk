@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Forums for questions
-parent: Content for a data help desk
-nav_order: 2
+parent: How to
+nav_order: 12
 has_toc: false
 ---
 
-# Designing Forums for Researchers to Ask Questions
+# Create Forums to Ask Questions
 
 When designing forums for researchers to ask questions at a Data Help Desk,
 several key factors need careful consideration, as highlighted by the sources.

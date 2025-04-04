@@ -6,7 +6,7 @@ nav_order: 2
 has_toc: false
 ---
 
-# Detailed Planning Steps
+# Detailed Planning Steps of a Data Help Desk
 
 By following these steps, you can set up a successful data help desk that not
 only addresses immediate data management concerns but also contributes to a
@@ -33,7 +33,7 @@ Here’s a breakdown of the process:
 1. [Set Up Infrastructure](#set-up-infrastructure)
 1. [Create a Scheduling System](#create-a-scheduling-system)
 1. [Establish a Tracking System](#establish-a-tracking-system)
-1. [Plan for User Interaction](#plan-for-user-interaction)
+1. [Plan User Interaction](#plan-user-interaction)
 1. [Set Up Presentations](#set-up-presentations)
 1. [After the Help Desk Event](#after-the-help-desk-event)
 
@@ -498,7 +498,7 @@ help desk initiatives.
     > - Resolution (yes/no) or notes
     > - Follow-up needed (yes/no)
 
-## Plan for User Interaction
+## Plan User Interaction
 
 Several planning steps should be made to optimize user interaction, focusing on
 communication time, style, and answering questions.

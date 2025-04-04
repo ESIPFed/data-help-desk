@@ -65,35 +65,6 @@ streamline the process and ensure consistency.
 -   Sound annoyed or frustrated.
 -   Apologize excessively (instead, focus on empathizing with their situation).
 
-## Skills Needed
-
-Help desk roles are vital for providing user support, troubleshooting problems,
-and ensuring the optimal use of a help desk's services. A successful help desk
-volunteer needs a blend of data expertise, interpersonal abilities, and
-problem-solving skills to handle user issues efficiently and professionally.
-Skills in both soft and hard areas are necessary to address various challenges,
-assist users effectively, and work collaboratively with colleagues.
-
-### Top 10 Skills for a Help Desk Volunteer:
-
-1. **Data Knowledge**: Familiarity with common questions regarding data
-   management, data archiving, and finding data.
-2. **Problem-Solving**: Ability to analyze issues, think critically, and make
-   quick decisions to resolve user problems.
-3. **Patience**: Essential for handling frustrated users and explaining
-   solutions clearly and calmly.
-4. **Active Listening**: Ensures understanding of the user's issue by focusing
-   on their words and asking clarifying questions.
-5. **Empathy**: Demonstrates understanding and consideration for the user's
-   frustrations and situation.
-6. **Communication Skills**: Clear and concise verbal and written communication
-   is crucial for guiding users through solutions.
-7. **Teamwork**: Collaborating with colleagues to resolve data questions.
-8. **Time Management**: Managing multiple users and prioritizing tasks
-   efficiently to provide timely resolutions.
-9. **Stress Management**: Staying calm and focused under pressure, particularly
-   when handling multiple requests.
-
 ## Communication references
 
 -   [Guidelines for Behavioral Performance of Reference and Information Service Providers](https://www.ala.org/rusa/resources/guidelines/guidelinesbehavioral)

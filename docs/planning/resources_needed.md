@@ -134,9 +134,6 @@ resources.
        - Demonstrating online tools and resources to users, whether in-person or through screen sharing in virtual settings.
        - Accessing and updating the data help desk website or virtual platform presence.
 
-Let's further expand on the web site and online resources vital for a data help
-desk:
-
 ## Website and Online Resources
 
 A dedicated website serves as a central online presence for the data help desk.
@@ -184,9 +181,6 @@ complementing direct question answering.
    - It's important to keep the resources up-to-date and communicate with contributors about their relevance.
    - Thinking about new ways of conveying content, such as short videos, wikis, or GitHub repositories with documentation, can cater to the preferences of users who are often open to new approaches.
 
-Let's further expand on the training and development resources essential for a
-data help desk:
-
 ## Training and Development
 
 By investing in comprehensive training and development programs, data help desks
@@ -215,8 +209,6 @@ their data effectively and adopting FAIR principles.
    - Highlighting the various ways volunteers can participate, such as answering questions, sharing demos, or creating one-pagers, can help them choose roles that align with their expertise and comfort levels.
    - Emphasize the support available to volunteers, assuring them it's okay not to know every answer and that they will have the support of experienced professionals.
    - Post-event surveys can gather feedback from volunteers on what worked well and what could be improved in future training and events.
-
-Let's further expand on the educational materials vital for a data help desk:
 
 ## Educational Materials
 
@@ -253,9 +245,6 @@ their data more effectively and adhere to open and FAIR data principles.
    - Addressing questions about software citation and providing resources like "5 Tips to Citing Your Research Software and Improving Discovery" is important.
    - For questions about specific software issues, such as getting grid lines behind data in Matplotlib, while the help desk might not provide direct troubleshooting, it can point users towards relevant communities or documentation.
    - The help desk can also address questions about the kind of software needed to share with a paper and provide guidance on sharing software externally.
-
-Let's further expand on the crucial aspect of people connections for a
-successful data help desk:
 
 ## People Connections
 
@@ -310,9 +299,6 @@ their data management needs.
    - Offering opportunities for emerging and early career researchers to volunteer not only supports the help desk but also helps these individuals gain valuable experience, build connections, and contribute to the open science community.
    - Consider expanding virtual post-conference support (via Slack or webinars) to enable ongoing assistance and build a continuous engagement beyond the event itself.
    - The ESIP Slack workspace itself serves as a broader community forum for networking and collaboration among Earth science data professionals.
-
-Let's further expand on the critical resources of volunteers and experts for a
-data help desk:
 
 ## Volunteer Staff and Experts
 

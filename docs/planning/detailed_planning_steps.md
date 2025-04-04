@@ -6,7 +6,7 @@ nav_order: 2
 has_toc: false
 ---
 
-# Detailed Planning Steps of a Data Help Desk
+# Detailed Planning Steps for a Data Help Desk
 
 By following these steps, you can set up a successful data help desk that not
 only addresses immediate data management concerns but also contributes to a

@@ -6,7 +6,7 @@ nav_order: 5
 has_toc: false
 ---
 
-# How to Recruit Data Experts
+# Recruiting Data Experts for a Data Help Desk
 
 No Data Help Desk can be successful without the dedication of a number of data
 (and software) experts who can address researcher questions, refer researchers
@@ -26,15 +26,8 @@ adequate support, and acknowledge their valuable contributions.
 
 <!-- prettier-ignore -->
 1. **Finding Data Experts**
-    - Contact the ESIP Data Stewardship Committee
-        - The ESIP Data Stewardship Committee develops and fosters practices and standards
-    that ensure continued and reliable information content, quality, access to, and
-    usability of Earth system science data for as long as they are deemed to be of
-    value.
-        - https://wiki.esipfed.org/Preservation_and_Stewardship
-
     - Ask in the ESIP Slack channel for expert volunteers in subjects that are topics for the data help desk.
-    - [Current List of ESIP Data Stewardship Committee Members](https://wiki.esipfed.org/Current_List_of_ESIP_Data_Stewardship_Committee_Members)
+    - [ESIP slack channel invite](https://esip-all.slack.com/join/shared_invite/zt-2k167dnsl-l49BDbzgd0vRdP1_PpIUcg#/shared-invite/email)
 1. **Direct and Targeted Outreach**
     -   Organizers can decide on key topics and specific resources they want
         featured and then hand-pick a set of experts in those areas. This is
@@ -82,7 +75,7 @@ adequate support, and acknowledge their valuable contributions.
         Slack channel) for experts to discuss questions, share insights, and refer
         inquiries to those with more specialized knowledge.
     -   Emphasize that experts should share their science expertise as well as their
-        informatics knowledge to build trust with researchers.
+        data management knowledge to build trust with researchers.
 1. **Recognizing and Appreciating Expert Contributions**
     -   Acknowledge the contributions of volunteer experts on signage and websites,
         potentially by listing them as supporters.

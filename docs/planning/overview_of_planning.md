@@ -111,11 +111,6 @@ has_toc: false
 ## User needs
 
 <!-- prettier-ignore -->
-1.  **Be Approachable**
-    -   Remember that researchers may not always know what questions to ask, so
-        be approachable and help them understand the scope of the data help
-        desk. Share science expertise to build trust.
-
 1.  **Prepare for Common Questions**
     -   Be aware of common questions asked at data help desks, such as where to
         deposit or find data, how to write data management plans, and what FAIR
@@ -136,12 +131,15 @@ has_toc: false
     platforms, social media, or dedicated Q&A sections. Have a Question Referrer
     who monitors these platforms and directs questions to appropriate experts.
     For unanswered questions, record them for follow-up.
-
 1.  **Consider Offering Workshops or Demos**
     - Include demonstrations of relevant
     tools and platforms and consider offering workshops on key topics like data
     citation and data management plans. Recorded resources can be valuable if
     live attendance is low for virtual meetings.
+1.  **Be Approachable**
+    -   Remember that researchers may not always know what questions to ask, so
+        be approachable and help them understand the scope of the data help
+        desk. Share science expertise to build trust.
 
 ## After
 

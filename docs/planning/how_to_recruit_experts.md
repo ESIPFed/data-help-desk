@@ -57,7 +57,7 @@ adequate support, and acknowledge their valuable contributions.
         emails sent to meeting participants.
     -   Encourage section chairs and scientific session presenters to advocate for
         participation as experts.
-1. **Ask for experts in topics to share knowledge**
+1. **Ask for Experts in Topics to Share Knowledge**
     - Identify key topics and specific resources that organizers want featured
       and then hand-pick a set of volunteers, especially for smaller events.
       Working closely with experts prior to the event can be time-consuming but

@@ -33,8 +33,8 @@ Here’s a breakdown of the process:
 1. [Set Up Infrastructure](#set-up-infrastructure)
 1. [Create a Scheduling System](#create-a-scheduling-system)
 1. [Establish a Tracking System](#establish-a-tracking-system)
-1. Interact With Users **Add Content**
-1. Give Presentations **Add Content**
+1. [Plan for User Interaction](#plan-for-user-interaction)
+1. [Set Up Presentations](#set-up-presentations)
 1. [After the Help Desk Event](#after-the-help-desk-event)
 
 ## Prepare Early
@@ -231,22 +231,28 @@ is crucial for attracting attendees.
       target audience.
     - Utilize social media, email, and academic networks to inform potential
       users about the services offered.
+    - A communication plan should be developed to advertise the Data Help Desk on the meeting website.
     - Promote upcoming sessions, available experts, or specific topics that will
       be discussed.
     - Incorporate signage during in-person events along with clear online visuals can enhance user awareness.
+    - Ambassadors, such as section chairs and scientific session presenters, can also promote the event.
 1. **Promote Communication Channels**
-    - Use platforms such as a dedicated Slack channel or social media (e.g., a
-      hashtag like #DataHelpDesk) to facilitate real-time questions and answers.
-      This approach was successfully employed at various data help desks,
+    - Plan for multiple communication channels to accommodate different user preferences.
+    - This can include a public channel like BlueSky using a specific hashtag and a more private option like a survey form to facilitate real-time questions and answers. This approach was successfully employed at various data help desks,
       allowing for quick responses and resource sharing.
+    - A dedicated Slack channel for experts (such as #datahelpdesk-experts within the ESIP Slack workspace) can facilitate backchannel conversations and allow experts less comfortable with public platforms to contribute.
+    - Use platforms such as a dedicated Slack channel or social media (e.g., a
+      hashtag like #DataHelpDesk)
 
 ## Recruit Volunteers and Experts
 
 The strength of your data help desk heavily relies on the expertise of your
 team. Aim for a diverse group comprised of data managers, scientists with
 practical experience, and technical support staff proficient in oceanographic
-data. Each team member should possess strong communication skills, enabling them
-to effectively explain complex data management topics in accessible terms.
+data. Diversity in volunteers, both in organizations and topics represented, is
+valuable as user questions can vary widely. Each team member should possess
+strong communication skills, enabling them to effectively explain complex data
+management topics in accessible terms.
 
 <!-- prettier-ignore -->
 1. **Assemble Help Desk Staffing Volunteers**
@@ -263,10 +269,10 @@ to effectively explain complex data management topics in accessible terms.
    will create a cohesive support system.
 
 1. **Assemble a Team of Experts**
-    - Assemble a mix of data managers, scientists, and technical staff with diverse earth science expertise and strong communication skills.
-    - Data managers: experts in data storage, sharing, and management.
-    - Scientists: familiar with the research community's needs and challenges.
-    - Technical staff: skilled in IT and software development to support technical aspects of data help desk services.
+    - Assemble a mix of data managers, scientists, and technical staff with diverse earth science expertise and strong communication skills. The Data Help Desk should be staffed with experts familiar with various scientific domains who can answer data-related questions and demo useful resources.
+        - Data managers: experts in data storage, sharing, and management.
+        - Scientists: familiar with the research community's needs and challenges.
+        - Technical staff: skilled in IT and software development to support technical aspects of data help desk services.
 
 ## Outline Types of Questions
 
@@ -385,7 +391,11 @@ the resources available, and the procedures for answering complex inquiries.
 
 A crucial component of a successful data help desk is a well-curated collection
 of resources to address common questions and provide further learning
-opportunities. This Collection Can Include:
+opportunities. Prepare a list of resources for various subject areas. Create a
+gallery of recorded demos, tutorials, and one-pagers that can be accessed
+asynchronously, especially beneficial as researchers are often busy during
+meetings. Basic handouts on data topics should be available, as many researchers
+lack formal training in these areas. This Collection Can Include:
 
 -   Recorded demos and tutorials on tools, platforms, and data management best
     practices.
@@ -448,6 +458,7 @@ efficiently.
 1. **Use an Online Booking Tool**
     - For 30-minute consultation slots, allowing both walk-ins and pre-scheduled
       meetings.
+    - Consider platforms such as WhatsApp to keep in contact with volunteers and remind them of their volunteering schedule and re-organize the schedule between volunteers if their are scheduling conflicts.
 
     > **Example online booking tool**
     >
@@ -457,7 +468,7 @@ efficiently.
     >     times, and description.
 
 1. **Communicate the Schedule Clearly:** through the help desk's promotional
-   materials and signage.
+   materials and signage. A schedule of experts and demos can be posted online for easy access.
 1. **Keep an Eye on Peak Times:** to ensure adequate staffing and resources are available.
 
 ## Establish a Tracking System
@@ -475,6 +486,7 @@ help desk initiatives.
     - To track consultation details, including date, time, topic discussed, and
       resolution.
     - To enable the evaluation of the effectiveness of the data help desk services.
+    - To track the types of questions asked to inform future training and resource development.
 
     > **Example tracking system**
     >
@@ -486,13 +498,68 @@ help desk initiatives.
     > - Resolution (yes/no) or notes
     > - Follow-up needed (yes/no)
 
-## Interact With Users
+## Plan for User Interaction
 
-### TODO: add content
+Several planning steps should be made to optimize user interaction, focusing on
+communication time, style, and answering questions.
 
-## Give Presentations
+<!-- prettier-ignore -->
+1. **Interaction Time**
+    - The amount of time a user interacts with a help desk can vary depending on the
+complexity of their question, the type of issue they're experiencing, and the
+level of support required.
+    - Account for time to answer questions by listening and asking clarifying questions to pinpoint the best answer and refer the user to resources.
+1. **Communication Style**
+    - Volunteers should be trained to be approachable, show interest in questions, listen actively, and clarify the user's true question.
+    - Explaining the purpose of the desk can help establish trust and start conversations.
+    - Volunteers should also receive information on how to be approachable and handle follow-up.
+    - Experts should avoid talking down to researchers and instead explain their understanding of the importance of sound data practices.
+1. **Answering Questions**
+    - Answers should ideally be brief, especially for platforms like Twitter, often providing a lead rather than a complete answer. Follow-up may be necessary for more complex questions.
+    - Consider creating a starter set of question topics, specific questions, and answers to inform help desk volunteers.
+1. **Future Interaction**
+    - Establish a process for recording questions that cannot be immediately answered. Collect contact information (e.g., email addresses) to facilitate follow-up after the event.
+    - After the event, plan for follow-up on unanswered questions, potentially through email or a year-round service like chat or a database of experts.
+    - Collecting user emails can facilitate post-conference communication, such as sharing surveys and Slack channel invitations.
+1. **Hand Out Resources**
+    - Have one-pagers and postcards available for users to take with information on how to find answers to questions in the future such as pointing out a help desk slack channel, email or website with resources.
 
-### TODO: add content
+## Set Up Presentations
+
+Expert presentations on ideas and tools at a data help desk serve as a crucial
+component by providing practical knowledge, showcasing useful resources,
+addressing key data management challenges, and offering flexible access to
+learning materials, ultimately helping researchers improve their data skills and
+make their research more open and FAIR. These presentations, which can take
+various forms such as demos, talks, tutorials, short videos, and workshops,
+provide researchers with valuable opportunities to learn and enhance their
+data-related skills and practices.
+
+<!-- prettier-ignore -->
+1. **Showcase Practical Tools and Resources**
+    - Researchers can explain their work with helpful tools and resources.
+    - Demos can be of data management tools and platforms and tutorials that highlight resources for managing data and enhancing research.
+    - Specific examples include scheduled demos on topics like accessing and contributing to open data management education materials, introductions to the data life cycle and FAIR principles, creating data management plans, data cleaning using R, and accessing data using APIs.
+1. **Teach Key Data-Related Issues**
+    - Such as data citation, creating data management plans, and
+finding suitable data repositories.
+    - By attending these presentations or viewing
+recordings, researchers can gain a better understanding of these concepts and
+how to implement them in their own workflows.
+    - The inclusion of topics like FAIR
+principles directly addresses the needs of researchers who are increasingly
+required by publishers and funders to make their data and software open and
+FAIR.
+1. **Future Impact and Access**
+    - Consider recording presentations since researchers are often
+busiest during scientific meetings and having access to recordings of demos,
+tutorials, and one-pagers allows them to learn at their own pace and revisit
+information as needed.
+1. **Expose New Tools and Ideas**
+    - Expert presentations can create a "buzz" and expose researchers to
+resources they may not have realized they were looking for, even if they
+didn't initially have specific questions.
+    - By highlighting various tools and techniques, experts can spark interest and encourage researchers to explore new ways of managing and working with their data.
 
 ## After the Help Desk Event
 

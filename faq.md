@@ -8,6 +8,8 @@ has_toc: false
 
 # FAQ
 
+## TODO (read these over and rephrase questions and answers)
+
 ## What is a data help desk? (TODO: Expand on this)
 
 A data help desk provides researchers with opportunities to engage with
@@ -59,15 +61,13 @@ management plans, how to cite data and software, and what FAIR and open
 principles mean. Ultimately, it should improve and expand the current quality of
 assistance related to research data management.
 
-## What questions do providers want answered?
+## What questions can volunteers expect?
 
-While the sources don't explicitly list questions providers _want_ answered
-before participating, they suggest that providers (volunteers/experts) need
-clear guidelines and tips to help them prepare and contribute. They might want
-to understand the expected scope of questions, the level of commitment required,
-and the available resources they can use to answer questions. Information on the
-goals and objectives of the data help desk and how their contribution will be
-valuable is also important.
+Volunteers need clear guidelines and tips to help them prepare and contribute.
+They might want to understand the expected scope of questions, the level of
+commitment required, and the available resources they can use to answer
+questions. Information on the goals and objectives of the data help desk and how
+their contribution will be valuable is also important.
 
 ## What questions do users want answered?
 
@@ -125,11 +125,10 @@ physical or virtual:
 
 ## What is the cost of a help desk?
 
-The sources do not provide specific cost details. However, cost considerations
-include personnel (whether paid or volunteer), website hosting, and materials
-such as signage and handouts. For virtual events, costs might involve website
-development and maintenance, as well as potential software for managing
-questions and communication.
+Cost considerations include personnel (whether paid or volunteer), website
+hosting, and materials such as signage and handouts. For virtual events, costs
+might involve website development and maintenance, as well as potential software
+for managing questions and communication.
 
 ## How long will the help desk be active?
 
@@ -188,14 +187,7 @@ The owner/project lead likely needs:
 -   Information on how to give acknowledgement to involved organizations and
     individuals.
 
-## Do they need info on applying for grants on setting up a help desk?
-
-The sources do not explicitly provide information on applying for grants to set
-up a help desk. However, this could be a relevant question for potential
-organizers, as funding might be needed for personnel or resources, especially
-for ongoing or large-scale initiatives.
-
-## How do they determine a help desk was successful?
+## How is the success of a help data desk determined?
 
 The success of a data help desk can be determined by several factors:
 

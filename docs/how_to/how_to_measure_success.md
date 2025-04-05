@@ -6,7 +6,7 @@ nav_order: 6
 has_toc: false
 ---
 
-# How to Measure Success
+# How to Measure Success of a Data Help Desk
 
 With in-person events, the number of interactions with researchers can be a key
 metric to understand the reach of the event, along with the qualitative metrics
@@ -53,11 +53,11 @@ volunteers can be telling, as can a post-event survey shared with them. Tracking
 engagement related to their contributed resources can also demonstrate value to
 the volunteers.
 
-## Measuring
+## Measuring Success
 
 The success of a data help desk can be measured through a variety of
-quantitative and qualitative methods, as indicated in the sources. Here are some
-key ways to determine if a data help desk has been successful:
+quantitative and qualitative methods. Here are some key ways to determine if a
+data help desk has been successful:
 
 <!-- prettier-ignore -->
 1. **Number of interactions**

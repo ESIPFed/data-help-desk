@@ -47,23 +47,23 @@ streamline the process and ensure consistency.
 
 ## Do's and Don'ts of Help Desk Communication
 
-### ALWAYS:
+-   **ALWAYS**
+    -   Ask relevant questions.
+    -   Be polite, yet concise and to the point.
+    -   Be skilled at interpreting user language to identify the actual problem.
+    -   Maintain professionalism at all times.
+    -   Show empathy towards the user.
+    -   Offer assistance, even if it’s outside your area.
+    -   Assure the user of your support, even if there is limited you can do.
+    -   Stay (or at least sound) positive.
 
--   Ask relevant questions.
--   Be polite, yet concise and to the point.
--   Be skilled at interpreting user language to identify the actual problem.
--   Maintain professionalism at all times.
--   Show empathy towards the user.
--   Offer assistance, even if it’s outside your area.
--   Assure the user of your support, even if there is limited you can do.
--   Stay (or at least sound) positive.
-
-### DON’T:
-
--   Make the user feel stupid, unwelcome, or incompetent.
--   Use overly technical or "geeky" language.
--   Sound annoyed or frustrated.
--   Apologize excessively (instead, focus on empathizing with their situation).
+<!-- prettier-ignore -->
+-   **DON’T**
+    -   Make the user feel stupid, unwelcome, or incompetent.
+    -   Use overly technical or "geeky" language.
+    -   Sound annoyed or frustrated.
+    -   Apologize excessively (instead, focus on empathizing with their
+        situation).
 
 ## Communication references
 

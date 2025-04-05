@@ -37,16 +37,12 @@ of their data help desk volunteers.
 
 ## Provide Categories of Questions
 
-1. The sources mention the creation of a data question typology based on
-   questions asked at Data Help Desks, which can help in understanding the
-   categories of inquiries.
-1. User Question Categories are explicitly mentioned as a resource.
 1. Analysis of questions from past events has shown common topics such as
    Organizations, Data Management, Sharing data, Data storage, Data analysis,
-   Finding data, Accessing data, and Software. Providing these categories can
-   help volunteers organize their knowledge and prepare for different types of
-   questions.
-1. The volunteer form for AGU 2021 asked about general data topics volunteers
+   Finding data, Accessing data, and Software.
+1. Providing these categories can help volunteers organize their knowledge and
+   prepare for different types of questions.
+1. Past survey forms from volunteers indicate general data topics volunteers
    could provide help with, listing examples like General Data Management,
    Information Management, Metadata, Data Repositories, and Data Management
    Plans. This list can serve as a set of categories for volunteers to consider.

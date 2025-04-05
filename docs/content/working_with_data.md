@@ -268,7 +268,7 @@ collaborative research environments.
 1. **Education and Training:**
     - A fundamental aspect of encouraging best
     practices is providing researchers with adequate training and educational
-    resources in research data management. The sources indicate that many
+    resources in research data management. Many
     researchers have little to no formal training in this area, highlighting
     a significant need for accessible learning opportunities. Data Help Desks
     themselves serve as a valuable avenue for disseminating knowledge and
@@ -338,8 +338,7 @@ enhancing reproducibility, and maximizing the impact of research.
     consistent system for naming files is crucial. This makes it easier to
     locate specific data files and understand their content without having to
     open them. A good naming convention might include elements like the project
-    name, date, data type, version, or processing stage. The sources highlight
-    the temptation to append excessive information to filenames, advising
+    name, date, data type, version, or processing stage. There is the temptation to append excessive information to filenames, but it's advised
     instead to come up with a convention and stick to it.
 1. **Logical Directory Structures:**
     - Creating a clear and logical hierarchy

@@ -121,7 +121,7 @@ resources.
 <!-- prettier-ignore -->
 1. **Computers and software**
    - Laptops or desktops are indeed necessary for data help desk staff, both for in-person and virtual operations. For in-person desks, they allow staff to access online resources, demonstrate tools, and potentially record questions or feedback. For virtual desks, they are the primary interface for monitoring communication channels, answering questions, and managing online resources.
-   - The sources highlight that the data help desk aims to help researchers learn skills and techniques for better research and making data and software open and FAIR. To do this effectively, staff and volunteers should be familiar with a range of software relevant to data management and analysis. While the sources don't provide an exhaustive list, they mention general data topics like Programming, Data Visualization, Data Analysis, and specific user questions indicate needs related to software like Python, Matplotlib.
+   - The data help desk aims to help researchers learn skills and techniques for better research and making data and software open and FAIR. To do this effectively, staff and volunteers should be familiar with a range of software relevant to data management and analysis. General data topics like Programming, Data Visualization, Data Analysis, and specific user questions are needs related to software like Python, Matplotlib.
    - Staff might use software for creating and sharing resources, such as one-pagers, demos, and tutorials. This could include presentation software, video recording/editing tools, and document creation software.
    - For virtual engagement, staff might utilize social media management tools like Tweetdeck or Buffer for scheduling and managing posts.
    - The use of a Slack channel (#datahelpdesk-experts) is recommended for backchannel conversation amongst experts and for those less comfortable with public platforms like X (formerly Twitter) to provide input. This suggests the need for staff to have access to and be familiar with such communication platforms.
@@ -172,7 +172,7 @@ complementing direct question answering.
    - Recorded demos and tutorials: Short video recordings highlighting tools and resources for managing data and enhancing research, often hosted on platforms like YouTube. A playlist of open science and data help desk YouTube videos is an example.
    - One-pagers: Concise documents providing information on specific topics, often shared via repositories like the ESIP Figshare Repository.
    - Links to external training resources: The ESIP-hosted Data Management Training Clearinghouse is a valuable resource to help users find training materials. Links to other organizations like DataONE, The Carpentries, and CUAHSI's training materials can also be provided.
-   - Guided tutorials and interactive exercises: While not explicitly detailed in the sources, these could be valuable additions to help users actively learn data management skills.
+   - Guided tutorials and interactive exercises: These can be valuable additions to help users actively learn data management skills.
    - The content should address topics of interest to users, including ways to manage data and why it's important.
    - Resources should cater to various knowledge levels, recognizing that many researchers have little or no formal training in research data management. Providing basic handouts on data management is recommended.
    - The gallery of resources should be designed and presented effectively to ensure users can easily find relevant materials. Tailoring resources to specific event themes or audiences is beneficial.
@@ -224,7 +224,7 @@ their data more effectively and adhere to open and FAIR data principles.
    - The "Graduate School Data Road Map" exemplifies a guide that helps graduate students identify data management practices relevant to different milestones in their academic careers, pointing them to videos, tutorials, and other resources.
    - Resources like "10 Simple Rules for Creating a Data Management Plan" or materials on creating a Data Management Plan would fall under this category.
    - Information Management, Metadata, Data Repositories, and Data Management Plans are examples of general data topics that guides could address.
-   - Links to external guides and resources should be readily available, such as the ESIP Data Management Training Clearinghouse, which helps users find learning resources. Other valuable links include resources from DataONE, The Carpentries, CUAHSI, and the Earth Cube FAIR resources.
+   - Links to external guides and resources should be readily available, such as the ESIP Data Management Training Clearinghouse, which helps users find learning resources. Other valuable links include resources from DataONE, The Carpentries, CUAHSI, and the EarthCube FAIR resources.
    - Resource guides for data and sample sharing and links to articles providing an overview of data management are also valuable.
 
 1. **Software and tools**

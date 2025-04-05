@@ -45,7 +45,7 @@ needs and the complexity of their question. Here are some guidelines:
    reviews, debuggings, or expert-level troubleshooting (e.g., "This is a known
    issue; I'll need to review your code to provide a fix.")
 
-## Communication style
+## Communication with users
 
 <!-- prettier-ignore -->
 1. **Clear and Concise Explanation**

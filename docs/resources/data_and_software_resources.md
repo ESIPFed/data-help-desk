@@ -108,7 +108,7 @@ Figshare: topic of Data management and data science
 
 ### FAIR Data
 
-[Earth Cube FAIR resources](https://www.earthcube.org/fair-training-materials)
+[EarthCube FAIR resources](https://www.earthcube.org/fair-training-materials)
 
 [figshare on FAIR](https://figshare.com/search?q=Fair)
 

@@ -6,7 +6,7 @@ nav_order: 5
 has_toc: false
 ---
 
-# One-pager Ideas for a Data Help Desk
+# One-Pager Ideas for a Data Help Desk
 
 A data help desk is looking to point to any one-pagers that might help
 researchers with finding, managing, visualizing, analyzing, publishing, or

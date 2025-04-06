@@ -8,7 +8,7 @@ has_toc: false
 
 # Presentation Ideas for a Data Help Desk
 
-## Data desk presentation topics for experts
+## Data Desk Presentation Topics for Experts
 
 -   **General Data Management:** Users are often looking for a basic
     understanding of what data management entails and seek guidance on

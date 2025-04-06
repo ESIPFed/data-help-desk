@@ -16,11 +16,11 @@ can help researchers promote these practices among their colleagues and
 supervisors, fostering a culture of good data stewardship.
 
 1. [Creating Data Management Plans (DMPs)](#dmp)
-1. [Including metadata](#metadata)
-1. [Best practices for data archiving and preservation](#best-practices)
-1. [Working with data among teams](#working-with-data)
-1. [Encouraging best practices](#encouraging)
-1. [Data organization](#data-organization)
+1. [Including Metadata](#metadata)
+1. [Best Practices for Data Archiving and Preservation](#best-practices)
+1. [Working With Data Among Teams](#working-with-data)
+1. [Encouraging Best Practices](#encouraging)
+1. [Data Organization](#data-organization)
 1. [How to Cite Datasets, Code, and Software](#cite)
 1. [Understanding and Implementing FAIR Principles](#fair)
 
@@ -131,7 +131,7 @@ archiving of data. The key categories of documentation to capture data include:
 See this site to learn more
 [Metadata Best Practices and Data Publishing](https://learning.nceas.ucsb.edu/2023-01-arctic/metadata-best-practices-and-data-publishing.html).
 
-## Best practices for data archiving and preservation {#best-practices}
+## Best Practices for Data Archiving and Preservation {#best-practices}
 
 Data Help Desks play a vital role in guiding researchers through the essential
 steps to ensure their valuable data remains accessible and usable for the long
@@ -189,7 +189,7 @@ and documentation.
       directed to appropriate data repositories for the long-term storage and
       preservation of their data.
 
-## Working with data among teams {#working-with-data}
+## Working With Data Among Teams {#working-with-data}
 
 Effective collaboration on data is fundamental for successful research projects.
 When multiple researchers or groups contribute to a project, establishing clear
@@ -252,7 +252,7 @@ significantly to the success of collaborative data work. By prioritizing these
 aspects, research teams can maximize the value of their data and produce more
 reliable and impactful results.
 
-## Encouraging best practices {#encouraging}
+## Encouraging Best Practices {#encouraging}
 
 Best pracices foster high-quality, reproducible, and impactful scientific
 research. These practices span the entire data lifecycle, from the initial
@@ -324,7 +324,7 @@ collaborative research environments.
     platforms. Facilitating interaction between researchers and these experts
     helps to build a supportive community around data management best practices.
 
-## Data organization {#data-organization}
+## Data Organization {#data-organization}
 
 Data organization is a foundational element of effective data management that
 significantly impacts the findability, understandability, and usability of

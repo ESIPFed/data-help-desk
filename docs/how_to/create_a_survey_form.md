@@ -19,7 +19,7 @@ could help volunteers prepare and tailor their assistance. It's very easy to
 create a survey using Google Forms and collect responses in Google Sheets. See
 [How to Create Survey in Google Forms (8 Easy Steps)](https://www.geeksforgeeks.org/how-to-create-a-survey-using-google-forms/).
 
-## The importance of a user survey
+## The Importance of a User Survey
 
 User satisfaction surveys are a powerful tool for data help desks, providing
 valuable insights that help improve services, foster loyalty, and maintain a
@@ -71,7 +71,7 @@ valuable insights.
 10. **Analyze and Act**: Review the collected data, identify areas for
     improvement, and create an action plan to address them.
 
-## Questions to put on a survey form
+## Questions to Put on a Survey Form
 
 A survey form for users of a data help desk should aim to gather feedback on
 their experience, understand their needs, and identify areas for improvement.
@@ -143,7 +143,7 @@ their experience, understand their needs, and identify areas for improvement.
 -   Do you have any other comments or suggestions about the Data Help Desk?
     [Open-ended]
 
-## Limit the number of questions in the survey
+## Limit the Number of Questions in the Survey
 
 Provide a form with about 5 questions on it for users to respond to.
 
@@ -165,7 +165,7 @@ questions on the form are:
 >
 > ○ Data Question
 
-## References on creating survey forms
+## References on Creating Survey Forms
 
 [100 Customer Satisfaction Survey Questions to ask in 2025](https://www.desk365.io/blog/customer-satisfaction-survey/)
 

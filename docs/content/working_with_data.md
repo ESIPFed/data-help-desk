@@ -136,35 +136,35 @@ archiving of data. The key categories of documentation to capture data include
 ### Barriers scientists face for adding metadata
 
 <!-- prettier-ignore -->
-1.  **Lack of Standardization**
+- **Lack of Standardization**
     - There are numerous metadata standards, and
    choosing the right one can be confusing.
-1.  **Complexity of Requirements**
+- **Complexity of Requirements**
     - Metadata requirements can be extensive and
    complex, leading to frustration in understanding what is necessary.
-1.  **Insufficient Training**
+- **Insufficient Training**
     - Many scientists lack formal training on metadata
    practices, resulting in uncertainty about how to create or implement it
    effectively.
-1.  **Time Constraints**
+- **Time Constraints**
     - The demands of research and publication often leave
    little time for the additional task of creating comprehensive metadata.
-1.  **Limited Resources**
+- **Limited Resources**
     - Smaller labs or institutions may not have dedicated
    personnel or resources to assist with metadata creation.
-1.  **Poor Documentation**
+- **Poor Documentation**
     - Existing documentation may be overly technical,
    poorly organized, or just a wall of text without clear examples.
-1.  **Perceived Low Value**
+- **Perceived Low Value**
     - Some scientists may not see the immediate benefits
    of adding metadata, viewing it as an optional extra rather than a necessity.
-1.  **Software Limitations**
+- **Software Limitations**
     - Tools and platforms for data management may not
    support easy metadata integration, leading to additional manual work.
-1.  **Data Privacy Concerns**
+- **Data Privacy Concerns**
     - Worries about sharing sensitive or proprietary
    information can deter scientists from fully documenting their datasets.
-1.  **Resistance to Change**
+- **Resistance to Change**
     - Established practices and habits can be hard to
     change, and some scientists may be reluctant to adopt new methodologies for
     data management.
@@ -172,37 +172,74 @@ archiving of data. The key categories of documentation to capture data include
 ### What can help scientists add metadata?
 
 <!-- prettier-ignore -->
-1. **Standardized Templates**
+- **Standardized Templates**
     - Providing pre-made templates tailored to specific fields helps streamline
       the process and ensures consistency.
-1. **Clear Guidelines and Examples**
+- **Clear Guidelines and Examples**
     - Offering straightforward, example-driven documentation can demystify
       metadata requirements and show scientists exactly what is needed.
-1. **Training Workshops**
+- **Training Workshops**
     - Conducting hands-on training sessions or webinars can equip scientists
       with the skills and confidence to create metadata effectively.
-1. **Metadata Management Tools**
+- **Metadata Management Tools**
     - Utilizing user-friendly software or platforms that facilitate metadata
       entry and management simplifies the process and reduces errors.
-1. **Integration with Data Management Plans**
+- **Integration with Data Management Plans**
     - Encouraging scientists to incorporate metadata considerations into their
       data management plans at the outset fosters a more holistic approach.
-1. **Collaboration with Librarians/Archivists**
+- **Collaboration with Librarians/Archivists**
     - Partnering with information specialists can provide expertise and support
       for metadata creation and best practices.
-1. **Emphasizing Benefits**
+- **Emphasizing Benefits**
     - Clearly communicating the long-term benefits of metadata—such as improved
       data discoverability, reuse, and compliance with funding
       requirements—motivates scientists to engage.
-1. **Community Support**
+- **Community Support**
     - Establishing forums or communities where scientists can share experiences
       and tips can enhance peer learning and provide moral support.
-1. **Feedback Mechanisms**
+- **Feedback Mechanisms**
     - Creating systems for feedback on metadata quality can help scientists
       refine their practices and improve future datasets.
-1. **Automated Metadata Extraction**
+- **Automated Metadata Extraction**
     - Leveraging tools that can automatically generate metadata from existing
       data helps reduce the burden on scientists while ensuring accuracy.
+
+### Example of metadata to include for a dataset
+
+For an example dataset of plankton density in the ocean, here are key metadata
+elements to include:
+
+<!-- prettier-ignore -->
+1. **Title**
+    - A clear and descriptive title of your dataset.
+   and significance of the research.
+3. **Keywords**
+    - Relevant keywords that encapsulate the main topics of your dataset.
+4. **Principal Investigator(s)**
+    - Names and affiliations of the lead researchers.
+5. **Contact Information**
+    - Email addresses and institutional affiliations of everyone who worked on the dataset.
+6. **Data Collection Methods**
+    - Detailed description of how the data were collected.
+7. **Spatial Coverage**
+    - Geographic locations of where the data were collected.
+8. **Temporal Coverage**
+    - Dates and times of data collection
+9. **Data Format**
+    - Information on the file formats of the dataset (e.g., CSV, NetCDF)
+10. **Variables/Parameters**
+    - Clear definitions of parameters and units of measurement
+11. **Data Quality Information**
+    - Notes on the quality and accuracy
+12. **Funding Sources**
+    - Information about any grants or funding that supported the dataset
+13. **Related Publications**
+    - References to any scientific papers or reports
+14. **License Information**
+    - Specify the licensing terms for data reuse.
+15. **Provenance**
+    - Details on how the dataset was created, including any
+    relevant software or tools that were used in the data processing.
 
 ### Metadata Resources
 

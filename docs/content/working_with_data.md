@@ -595,7 +595,7 @@ data more FAIR.
     - Beyond explaining the
     concepts, a data help desk offers practical guidance on how researchers
     can make their data FAIRer. This can include
-    -     -   Directing them to resources on how to implement FAIR in their
+    -   Directing them to resources on how to implement FAIR in their
         research.
     -   Advising on how to make their Earth science research more open and FAIR.
     -   Providing guidance on selecting FAIR-aligned repositories for

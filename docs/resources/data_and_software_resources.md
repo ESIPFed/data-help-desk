@@ -22,6 +22,7 @@ has_toc: false
 -   [Data Sharing & Reuse](#data-sharing--reuse)
 -   [Find Research Datasets](#find-research-datasets)
 -   [Data Management](#data-management)
+-   [Data Management Plans](#data-management-plans)
 -   [Project open data](#project-open-data)
 -   [Council of Data Facilities (CDF)](#council-of-data-facilities-cdf)
 -   [COPDESS](#copdess)
@@ -106,6 +107,10 @@ Figshare: topic of Data management and data science
 
 [figshare search on keyword: “Data management”](https://figshare.com/search?q=:keyword:%20%22Data%20Management%22)
 
+### Data Management Plans
+
+**TODO: add content**
+
 ### FAIR Data
 
 [EarthCube FAIR resources](https://www.earthcube.org/fair-training-materials)
@@ -119,18 +124,18 @@ Figshare: topic of Data management and data science
 [Data Citation Guidelines for Earth Science Data, Version 2](https://esip.figshare.com/articles/online_resource/Data_Citation_Guidelines_for_Earth_Science_Data_Version_2/8441816/1?file=15738041)
 
 [5 Tips to Citing Your Research Software and Improving Discovery](https://doi.org/10.5281/zenodo.4706180):
-This resource from @theAGU @libcce & @ShelleyStall provides 5 Tips to Citing
-Your Research Software and Improving Discovery.
+This resource from theAGU libcce & ShelleyStall provides 5 Tips to Citing Your
+Research Software and Improving Discovery.
 
 [Connect your research to your data, software, & institution](https://doi.org/10.5281/zenodo.4706118):
-This Digital Presence Checklist from @theAGU @ShelleyStall @libcce helps you
+This Digital Presence Checklist from theAGU ShelleyStall libcce helps you
 connect your research to your data, software, & institution.
 
 ### Documentation & MetaData
 
 [Why is metadata important?](https://www.opendatasoft.com/en/blog/what-is-metadata-and-why-is-it-important-data/)
 
-What to document with data
+#### What to document with data
 
 https://managing-qualitative-data.org/modules/2/a/
 
@@ -141,6 +146,135 @@ https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Documen
 About metadata https://www.ncei.noaa.gov/resources/metadata#Intro
 
 [Metadata Best Practices and Data Publishing](https://learning.nceas.ucsb.edu/2023-01-arctic/metadata-best-practices-and-data-publishing.html)
+
+#### Sites regarding adding metadata to data
+
+DataCite - Offers guidelines for assigning metadata to research datasets,
+focusing on citation and discoverability.
+[datacite.org](https://www.datacite.org)
+
+Dublin Core Metadata Initiative - Provides a standard set of vocabulary terms to
+describe web resources, including datasets.
+[dublincore.org](https://dublincore.org)
+
+The International Organization for Standardization (ISO) - Publishes standards
+like ISO 19115 for geographic information metadata.
+[iso.org](https://www.iso.org)
+
+The National Oceanic and Atmospheric Administration (NOAA) - Offers a
+comprehensive metadata guidance document for oceanographic data.
+[noaa.gov](https://www.noaa.gov)
+
+DataONE - Provides resources and best practices for managing and sharing
+scientific data, including metadata standards.
+[dataone.org](https://www.dataone.org)
+
+The Ecological Metadata Language (EML) - A standard for metadata in ecological
+and environmental datasets, with clear documentation.
+[eml.cci.ku.edu](https://eml.cci.ku.edu)
+
+The Biological Data Consortium - Offers guidelines for metadata standards in
+biological data.
+[biologicaldataconsortium.org](https://www.biologicaldataconsortium.org)
+
+The UK Data Archive - Provides detailed guidance on preparing and documenting
+research data, including metadata.
+[data-archive.ac.uk](https://www.data-archive.ac.uk)
+
+The World Data System (WDS) - Offers metadata guidelines to enhance the
+discoverability of scientific data. [wds.org](https://www.wds.org)
+
+Schema.org - A collaborative, community-driven initiative to create, maintain,
+and promote schemas for structured data on the internet.
+[schema.org](https://schema.org)
+
+#### Web apps and open-source tools designed to streamline the process of filling in metadata for datasets.
+
+Metabase: An open-source tool that allows users to create metadata profiles and
+manage data effectively. It helps structure metadata input without having to
+write everything in a single document. [metabase.com](https://www.metabase.com)
+
+DataONE: Offers an online tool called the DataONE Metadata Editor, which
+provides a user-friendly interface for entering and managing metadata compliant
+with various standards. [dataone.org](https://www.dataone.org)
+
+EML Editor: A web-based tool specifically for creating metadata in the
+Ecological Metadata Language (EML) format. It guides users through filling out
+necessary fields. [eml.cci.ku.edu](https://eml.cci.ku.edu)
+
+CKAN: An open-source data management system that includes features for metadata
+management, allowing users to create and edit metadata records through a web
+interface. [ckan.org](https://ckan.org)
+
+OpenRefine: While primarily a tool for cleaning and transforming data, it can
+also assist in adding and managing metadata for datasets in a structured way.
+[openrefine.org](https://openrefine.org)
+
+Dublin Core Metadata Generator: A simple web app that helps create Dublin Core
+metadata records through a guided interface.
+[dublincore.org](https://dublincore.org)
+
+Geonetwork: An open-source catalog application for spatially referenced
+resources that provides metadata editing capabilities.
+[geonetwork-opensource.org](https://geonetwork-opensource.org)
+
+RDMKit: This tool provides a framework for managing research data, including
+metadata, and is customizable for various disciplines.
+[rdmkit.org](https://rdmkit.org)
+
+Biodiversity Information Standards (TDWG): Offers metadata standards and tools
+that facilitate the documentation of biodiversity datasets, including
+easy-to-use templates. [tdwg.org](https://www.tdwg.org)
+
+#### Free web apps and tools that can help extract metadata
+
+Sites with information and tools to extract metadata from data files and
+accompanying documents. While not all of these tools may extract metadata
+automatically, they provide frameworks or interfaces that can facilitate the
+process significantly.
+
+Meta-Analysis Data Extraction Tool (MADET): This tool helps extract metadata
+from documents and datasets, focusing on specific attributes relevant to
+meta-analysis.
+[made.ariadne-infrastructure.eu](https://made.ariadne-infrastructure.eu)
+
+Pandas and Python Scripts: While not a web app, using Python with libraries like
+Pandas can help automate the extraction of metadata from structured data files
+(like CSVs) and text documents. You can find many open-source scripts on GitHub
+for this purpose.
+
+DataCite Metadata Schema: DataCite provides tools and examples to help automate
+metadata creation, especially when submitting datasets for DOI registration.
+While it's more of a guideline, it offers templates that can facilitate
+extraction. [datacite.org](https://www.datacite.org)
+
+Easy Data Upload (EDU): A web app that allows you to upload datasets and
+includes features for metadata extraction. It’s user-friendly and designed for
+various types of scientific data. [edudata.org](https://edudata.org)
+
+RDA Metadata Standards Directory: The Research Data Alliance offers links to
+various tools and resources for metadata extraction. Some tools might include
+automated extraction features. [rd-alliance.org](https://www.rd-alliance.org)
+
+Frictionless Data: Provides tools for data packaging and can help extract
+metadata from structured datasets. While it’s more focused on data standards, it
+can assist in generating relevant metadata.
+[frictionlessdata.io](https://frictionlessdata.io)
+
+CKAN: Although primarily a data management system, CKAN allows users to upload
+datasets and provides features for extracting and managing metadata. Some
+installations may offer automation through plugins. [ckan.org](https://ckan.org)
+
+Geonetwork: This tool allows for metadata management and can extract geographic
+metadata from uploaded datasets, especially if they contain spatial references.
+[geonetwork-opensource.org](https://geonetwork-opensource.org)
+
+DataHub: A platform that allows users to upload datasets and provides features
+for managing and extracting metadata. [datahub.io](https://datahub.io)
+
+Biodiversity Information Standards (TDWG): Offers tools for extracting
+biodiversity-related metadata from datasets, which might be useful depending on
+your data type. [tdwg.org](https://www.tdwg.org)
 
 ### Data Sharing & Reuse
 
@@ -278,14 +412,14 @@ Recording of Megan Carter giving the above presentation at the 2020 ESIP Summer
 Meeting Session on Connecting Informatics to Science Communities
 
 [NASA Giovanni system](https://www.youtube.com/watch?v=IcNYwA5X2i4): This short
-video demonstrates that the @NASA Giovanni system can now provide averages over
+video demonstrates that the NASA Giovanni system can now provide averages over
 several years using daily data variables and short time intervals. It highlights
 examining spatial and temporal variability of recurring Earth system phenomena
 with the Giovanni Recurring Averages option for daily data variables. This video
 is related to the #DataHelpDesk at #AGU23.
 
 [YouTube channel for IRIS_EPO](https://www.youtube.com/c/IRISEarthquakeScience):
-This is the YouTube channel for @IRIS_EPO, which advances discovery, research,
+This is the YouTube channel for IRIS_EPO, which advances discovery, research,
 and education in seismology through a fantastic suite of videos. This is
 associated with #DataHelpDesk #AGU23.
 
@@ -299,20 +433,20 @@ demonstrates Geoweaver, an open-source #ML / #AI workflow solution that helps
 with tracking research code and remembering history. A one-pager is also paired
 with this demo. This was featured at #DataHelpDesk #AGU23.
 
-[AGU webinar with @libcce @ShelleyStall](https://www.youtube.com/watch?v=bo4_mShJfyM):
-This @theAGU webinar with @libcce @ShelleyStall provides a checklist, tools, and
+[AGU webinar with libcce ShelleyStall](https://www.youtube.com/watch?v=bo4_mShJfyM):
+This theAGU webinar with libcce ShelleyStall provides a checklist, tools, and
 practices that make sharing data and software at the time of publication easier,
 addressing what should be cited in a paper.
 
 [The principles of tidy data](https://vimeo.com/444347854): This video from
-#DataHelpDesk expert @sjeanetteclark @ArcticDataCtr @DataONEorg teaches the
+#DataHelpDesk expert sjeanetteclark ArcticDataCtr DataONEorg teaches the
 principles of tidy data, how to recognize untidy data, and why having tidy data
 can set you up for success.
 
 [how ontologies help you understand the tons of great data available](https://vimeo.com/444687409):
-In this video from #DataHelpDesk expert @sjeanetteclark, you can learn how
+In this video from #DataHelpDesk expert sjeanetteclark, you can learn how
 ontologies help you understand the tons of great data available. This is from
-@ArcticDataCtr @DataONEorg.
+ArcticDataCtr DataONEorg.
 
 [Getting Started with NASA Worldview](https://www.youtube.com/watch?v=nW8JZJ-5g_0&feature=youtu.be):
 This demonstration will introduce you to the NASA Earth Observing System Data
@@ -344,24 +478,24 @@ management practices they should be considering.
 
 [https://youtu.be/bftzPnFdtHk](https://youtu.be/bftzPnFdtHk) /
 [https://doi.org/10.5281/zenodo.4706146](https://doi.org/10.5281/zenodo.4706146):
-This helpful video from @theAGU @ShelleyStall & @libcce discusses your Digital
+This helpful video from theAGU ShelleyStall & libcce discusses your Digital
 Presence – Increasing Your Impact with Citations and Collaborations. The slides
 are also available at the provided Zenodo link.
 
 [Plan, curate, and connect your software](https://doi.org/10.5281/zenodo.4706163):
 This checklist helps you to plan, curate, and connect your software. It is from
-@theAGU @ShelleyStall @libcce.
+theAGU ShelleyStall libcce.
 
-[Intro video for @ESSDIVE](https://youtu.be/1xmmF-8VbeI): This is an intro video
-for @ESSDIVE, a data repository for US Dept. of Energy Earth and environmental
+[Intro video for ESSDIVE](https://youtu.be/1xmmF-8VbeI): This is an intro video
+for ESSDIVE, a data repository for US Dept. of Energy Earth and environmental
 science data.
 
 [How to use the ESS-DIVE repository search feature to locate datasets](https://youtu.be/TRU8aKYufIA):
 This video demonstrates how to use the ESS-DIVE repository search feature to
 locate datasets for your next #datascience project.
 
-[@ESSDIVE recommended reporting format](https://ess-dive.gitbook.io/sample-id-and-metadata/):
-This GitBook page outlines the @ESSDIVE recommended reporting format for
+[ESSDIVE recommended reporting format](https://ess-dive.gitbook.io/sample-id-and-metadata/):
+This GitBook page outlines the ESSDIVE recommended reporting format for
 multidisciplinary sample identifiers and associated metadata in ecosystem
 sciences. It is not explicitly described as a video, but could contain embedded
 videos.
@@ -378,16 +512,16 @@ is designed for both administrators and end users.
 [NEON Data Portal](https://youtu.be/Yl6JMWZ4F08): This video offers a guided
 tour of the NEON Data Portal and an introduction to working with NEON data in R.
 
-[introduces @DataDiscStudio](https://youtu.be/FcHJtecNuMk): This video
-introduces @DataDiscStudio, a resource that helps researchers find the data they
-need from over 1.6 million datasets from 40+ geoscience data repositories and
-community contributions.
+[introduces DataDiscStudio](https://youtu.be/FcHJtecNuMk): This video introduces
+DataDiscStudio, a resource that helps researchers find the data they need from
+over 1.6 million datasets from 40+ geoscience data repositories and community
+contributions.
 
 [Basic introduction to ERDDAP](https://www.youtube.com/watch?v=H541G1XXZrU&t=4):
 This is a basic introduction to ERDDAP.
 
 [NOAA Open Data and Jupyter Notebooks](https://youtu.be/MF-WH01Qw0g): This video
-from @NOAA shows how to build your own weather app using NOAA Open Data and
+from NOAA shows how to build your own weather app using NOAA Open Data and
 Jupyter Notebooks.
 
 [A brief overview of ezEML](https://www.youtube.com/watch?v=lhtq7iSQIyM): This
@@ -405,21 +539,21 @@ common file formats and make graphs & maps.
 [Video from NEON](https://youtu.be/c0yOh2mTFZI): This is another video from
 NEON.
 
-[Introduces @OpenAltimetry](https://youtu.be/ZanKXh1oQYc): This video introduces
-@OpenAltimetry, an exploration and visualization tool for data from #NASA
-#ICESat and #ICESat2 data.
+[Introduces OpenAltimetry](https://youtu.be/ZanKXh1oQYc): This video introduces
+OpenAltimetry, an exploration and visualization tool for data from #NASA #ICESat
+and #ICESat2 data.
 
 [10 Simple Rules for Creating a Data Management Plan](https://vimeo.com/488086472):
 This video, addressing a common #DataHelpDesk question, presents 10 Simple Rules
-for Creating a Data Management Plan, from @nceas Amber Budden and @UNMLibraries
+for Creating a Data Management Plan, from nceas Amber Budden and UNMLibraries
 Bill Michener.
 
 [Data citation best practices](https://vimeo.com/488086612): This video
-discusses data citation best practices and how the @makedatacount project is
+discusses data citation best practices and how the makedatacount project is
 supporting data citations for increased credit and attribution.
 
-[@DataONEorg supports easy access and discovery of data](https://vimeo.com/488086406):
-This #DataHelpDesk Spotlight shows how @DataONEorg supports easy access and
+[DataONEorg supports easy access and discovery of data](https://vimeo.com/488086406):
+This #DataHelpDesk Spotlight shows how DataONEorg supports easy access and
 discovery of data across a network of Earth & environmental science data
 repositories.
 
@@ -430,7 +564,7 @@ for creating a DMP and a demo of the DMPTool.
 [Environmental Data Initiative repository and curation services](https://youtu.be/7GlJ8nJcVYM):
 This #DataHelpDesk Repository Spotlight offers a brief overview of the
 repository and curation services offered by the Environmental Data Initiative
-@EDIgotdata.
+EDIgotdata.
 
 [Ag Data Commons](https://youtu.be/R-NUb9fRE6w): This #DataHelpDesk spotlight is
 on the Ag Data Commons, a research data catalog and repository available to help
@@ -449,21 +583,21 @@ This Argovis video presents a new way to visualize Argo's biogeochemical data.
 
 [Introduces Science gateways](https://youtu.be/kv7YDf7dFJ4): This video
 introduces Science gateways, which allow science & engineering communities to
-access shared resources. @sciencegateways serves the science gateway community
-by sharing experiences and providing services.
+access shared resources. sciencegateways serves the science gateway community by
+sharing experiences and providing services.
 
-[@StraboSpot](https://youtu.be/llVEUYNrBfk): This #DataHelpDesk spotlight
-showcases @StraboSpot, a geologic data system that allows researchers to
+[StraboSpot](https://youtu.be/llVEUYNrBfk): This #DataHelpDesk spotlight
+showcases StraboSpot, a geologic data system that allows researchers to
 digitally collect, store, and share both field and laboratory data based on how
 geologists actually work.
 
 [JupyterHub and Hydroshare](https://youtu.be/YZ6KQhB_zrE): This video highlights
-another great @CUAHSI resource: cloud-based data tools for research,
+another great CUAHSI resource: cloud-based data tools for research,
 collaboration, and workflow documentation in the aquatic sciences: JupyterHub
 and Hydroshare.
 
-[@CUAHSI HydroShare](https://youtu.be/x7bwVN8chfo): This #DataHelpDesk spotlight
-is on @CUAHSI HydroShare: a repository for sharing, collaborating around, and
+[CUAHSI HydroShare](https://youtu.be/x7bwVN8chfo): This #DataHelpDesk spotlight
+is on CUAHSI HydroShare: a repository for sharing, collaborating around, and
 formally publishing scientific data.
 
 [IRIS has a YouTube channel](https://youtu.be/kFwdjfiK4gk): This indicates that
@@ -473,7 +607,7 @@ geosciences.
 [https://www.dataone.org/webinars/tidy-ing-your-data-simple-steps-reproducible-research](https://www.dataone.org/webinars/tidy-ing-your-data-simple-steps-reproducible-research)
 / [https://vimeo.com/378621271](https://vimeo.com/378621271): This video,
 "Tidy-ing Your Data: Simple Steps for Reproducible Research", is from
-#DataHelpDesk expert @sjeanetteclark @ArcticDataCtr @DataONEorg.
+#DataHelpDesk expert sjeanetteclark ArcticDataCtr DataONEorg.
 
 [NASA's GES DISC](https://www.youtube.com/watch?v=4eEWWJtzq9c): This video
 introduces NASA's Goddard Earth Sciences Data and Information Services Center
@@ -530,9 +664,9 @@ to wherever you are on your research path.
 mobile app that draws on community data resources to help you explore, capture,
 and share your geological surroundings.
 
-[How to explore and visualize @oceanobserv data](https://youtu.be/LY1JZaWAXpc):
+[How to explore and visualize oceanobserv data](https://youtu.be/LY1JZaWAXpc):
 This #DataHelpDesk expert Stace Beaulieu demos how to explore and visualize
-@oceanobserv data including Quality Assurance of Real-Time Oceanographic Data
+oceanobserv data including Quality Assurance of Real-Time Oceanographic Data
 (QARTOD) flags.
 
 ## GitHub Repositories

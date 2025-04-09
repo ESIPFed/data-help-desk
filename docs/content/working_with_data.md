@@ -47,8 +47,8 @@ reusability of scientific data.
 1. **Key Components and Considerations:**
     - While specific requirements may vary
     by funder or institution, effective DMPs generally address several key
-    elements:
-        -   **Data Collection:** The DMP should outline what data will be collected,
+    elements
+    -  **Data Collection:** The DMP should outline what data will be collected,
             the methods used, and the expected volume.
         -   **Data Formats and Standards:** Consideration should be given to the
             formats in which data will be stored to ensure long-term accessibility.
@@ -72,8 +72,8 @@ reusability of scientific data.
             for different data management tasks.
 1. **Benefits Beyond Compliance:**
     - While often required by funders, creating a
-    thoughtful DMP offers numerous benefits for researchers:
-        -   **Saves Time:** Proactive planning can prevent data-related issues that
+    thoughtful DMP offers numerous benefits for researchers
+    -  **Saves Time:** Proactive planning can prevent data-related issues that
             could consume significant time later in the research process.
         -   **Ensures Future Usability:** Well-managed and documented data is more
             likely to be usable by the researcher and others in the future.
@@ -85,8 +85,8 @@ reusability of scientific data.
             and collaboration among research team members.
 1. **Resources and Tools:**
     - Several resources are available to assist
-    researchers in creating DMPs:
-        -   **DMPTool and DMPonline:** These are common tools that provide templates
+    researchers in creating DMPs
+    -  **DMPTool and DMPonline:** These are common tools that provide templates
             and guidance for writing data management plans.
         -   **Data Help Desks:** Experts at Data Help Desks can provide guidance and
             answer questions about creating DMPs. They can offer advice on what to
@@ -114,22 +114,104 @@ Effective metadata allows for a comprehensive understanding, utilization, and
 sharing of data both in the present and for future use. It also aids in ensuring
 that other researchers can discover, access, apply, repurpose, and properly cite
 the data over time. Additionally, it supports the long-term preservation and
-archiving of data. The key categories of documentation to capture data include:
+archiving of data. The key categories of documentation to capture data include
 
--   **Samples Metadata**: Details about the samples themselves.
--   **Technical Metadata**: Information generated automatically by research
-    instruments and the associated software.
--   **Experimental Metadata**: Data concerning the experimental setup, including
-    time points, protocols, and equipment used during data generation.
--   **Analytical Metadata**: Information related to the data analysis process,
-    such as the software name and version, quality control parameters, and
-    specifications of output file types.
--   **Dataset Level Metadata**: Descriptive data about the research project's
-    objectives, contributing investigators, related publications, and funding
-    sources.
+<!-- prettier-ignore -->
+1. **Samples Metadata**:
+    - Details about the samples themselves.
+1. **Technical Metadata**:
+    - Information generated automatically by research
+   instruments and the associated software.
+1. **Experimental Metadata**
+    - Data concerning the experimental setup, including time points, protocols,
+      and equipment used during data generation.
+1. **Analytical Metadata**:
+    - Information related to the data analysis process,
+   such as the software name and version, quality control parameters, and
+   specifications of output file types.
+1. **Dataset Level Metadata**
+    - Descriptive data about the research project's objectives, contributing
+      investigators, related publications, and funding sources.
 
-See this site to learn more
+### Barriers scientists face for adding metadata
+
+<!-- prettier-ignore -->
+1.  **Lack of Standardization**
+    - There are numerous metadata standards, and
+   choosing the right one can be confusing.
+1.  **Complexity of Requirements**
+    - Metadata requirements can be extensive and
+   complex, leading to frustration in understanding what is necessary.
+1.  **Insufficient Training**
+    - Many scientists lack formal training on metadata
+   practices, resulting in uncertainty about how to create or implement it
+   effectively.
+1.  **Time Constraints**
+    - The demands of research and publication often leave
+   little time for the additional task of creating comprehensive metadata.
+1.  **Limited Resources**
+    - Smaller labs or institutions may not have dedicated
+   personnel or resources to assist with metadata creation.
+1.  **Poor Documentation**
+    - Existing documentation may be overly technical,
+   poorly organized, or just a wall of text without clear examples.
+1.  **Perceived Low Value**
+    - Some scientists may not see the immediate benefits
+   of adding metadata, viewing it as an optional extra rather than a necessity.
+1.  **Software Limitations**
+    - Tools and platforms for data management may not
+   support easy metadata integration, leading to additional manual work.
+1.  **Data Privacy Concerns**
+    - Worries about sharing sensitive or proprietary
+   information can deter scientists from fully documenting their datasets.
+1.  **Resistance to Change**
+    - Established practices and habits can be hard to
+    change, and some scientists may be reluctant to adopt new methodologies for
+    data management.
+
+### What can help scientists add metadata?
+
+<!-- prettier-ignore -->
+1. **Standardized Templates**
+    - Providing pre-made templates tailored to specific fields helps streamline
+      the process and ensures consistency.
+1. **Clear Guidelines and Examples**
+    - Offering straightforward, example-driven documentation can demystify
+      metadata requirements and show scientists exactly what is needed.
+1. **Training Workshops**
+    - Conducting hands-on training sessions or webinars can equip scientists
+      with the skills and confidence to create metadata effectively.
+1. **Metadata Management Tools**
+    - Utilizing user-friendly software or platforms that facilitate metadata
+      entry and management simplifies the process and reduces errors.
+1. **Integration with Data Management Plans**
+    - Encouraging scientists to incorporate metadata considerations into their
+      data management plans at the outset fosters a more holistic approach.
+1. **Collaboration with Librarians/Archivists**
+    - Partnering with information specialists can provide expertise and support
+      for metadata creation and best practices.
+1. **Emphasizing Benefits**
+    - Clearly communicating the long-term benefits of metadata—such as improved
+      data discoverability, reuse, and compliance with funding
+      requirements—motivates scientists to engage.
+1. **Community Support**
+    - Establishing forums or communities where scientists can share experiences
+      and tips can enhance peer learning and provide moral support.
+1. **Feedback Mechanisms**
+    - Creating systems for feedback on metadata quality can help scientists
+      refine their practices and improve future datasets.
+1. **Automated Metadata Extraction**
+    - Leveraging tools that can automatically generate metadata from existing
+      data helps reduce the burden on scientists while ensuring accuracy.
+
+### Metadata Resources
+
+See this site to learn more about metadata
 [Metadata Best Practices and Data Publishing](https://learning.nceas.ucsb.edu/2023-01-arctic/metadata-best-practices-and-data-publishing.html).
+
+See the Documentation & MetaData section in Resources for more information:
+[Metadata Resource
+Links]({{ site.baseurl }}{% link docs/resources/data_and_software_resources.md %}#documentation--metadata)
 
 ## Best Practices for Data Archiving and Preservation {#best-practices}
 
@@ -209,8 +291,8 @@ consistency, efficiency, and the overall quality of the research outcomes.
     - Promoting and adopting
    sound data management practices within the team ensures data
    integrity and facilitates the integration and analysis of data from various
-   sources or team members. This can include:
-        - **Data Quality Control:** Implementing shared strategies for checking data
+   sources or team members. This can include
+    -  - **Data Quality Control:** Implementing shared strategies for checking data
         accuracy and completeness as it is collected and entered.
         - **Metadata Creation:** Establishing guidelines for creating consistent
         and comprehensive metadata to document the data.
@@ -231,8 +313,8 @@ consistency, efficiency, and the overall quality of the research outcomes.
    and helping team members understand why they are important.
 1. **Agreeing on Standards**
     - Establishing common standards is essential for
-   creating robust and comparable datasets. This includes:
-        - **Defining Sampling Systems Before Fieldwork:** As explicitly mentioned,
+   creating robust and comparable datasets. This includes
+    -  - **Defining Sampling Systems Before Fieldwork:** As explicitly mentioned,
         agreeing on how data will be sampled or collected in advance ensures that
         the resulting data can be effectively combined and compared.
         - **Data Formats:** Deciding on preferred data formats for sharing and
@@ -293,8 +375,8 @@ collaborative research environments.
 1. **Providing Practical Guidance and Tools:**
     - Researchers need practical
     tools, workflows, and guidance to implement best practices effectively.
-    This includes offering support on topics such as:
-        -   **Data formatting:** Choosing appropriate, non-proprietary formats for
+    This includes offering support on topics such as
+    -  **Data formatting:** Choosing appropriate, non-proprietary formats for
             long-term preservation [previously discussed].
         -   **Metadata creation:** Developing comprehensive and standardized
             metadata to ensure data findability and understanding. Resources like SESAR can aid in this process for
@@ -475,8 +557,8 @@ data more FAIR.
 1. **Providing Practical Steps for Implementing FAIR:**
     - Beyond explaining the
     concepts, a data help desk offers practical guidance on how researchers
-    can make their data FAIRer. This can include:
-    -   Directing them to resources on how to implement FAIR in their
+    can make their data FAIRer. This can include
+    -     -   Directing them to resources on how to implement FAIR in their
         research.
     -   Advising on how to make their Earth science research more open and FAIR.
     -   Providing guidance on selecting FAIR-aligned repositories for

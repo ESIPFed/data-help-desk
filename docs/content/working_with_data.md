@@ -329,7 +329,7 @@ consistency, efficiency, and the overall quality of the research outcomes.
    sound data management practices within the team ensures data
    integrity and facilitates the integration and analysis of data from various
    sources or team members. This can include
-    -  - **Data Quality Control:** Implementing shared strategies for checking data
+    - **Data Quality Control:** Implementing shared strategies for checking data
         accuracy and completeness as it is collected and entered.
         - **Metadata Creation:** Establishing guidelines for creating consistent
         and comprehensive metadata to document the data.
@@ -351,7 +351,7 @@ consistency, efficiency, and the overall quality of the research outcomes.
 1. **Agreeing on Standards**
     - Establishing common standards is essential for
    creating robust and comparable datasets. This includes
-    -  - **Defining Sampling Systems Before Fieldwork:** As explicitly mentioned,
+    - **Defining Sampling Systems Before Fieldwork:** As explicitly mentioned,
         agreeing on how data will be sampled or collected in advance ensures that
         the resulting data can be effectively combined and compared.
         - **Data Formats:** Deciding on preferred data formats for sharing and

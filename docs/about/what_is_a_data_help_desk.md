@@ -1,18 +1,12 @@
 ---
-layout: home
-title: Home
-permalink: /
-nav_order: 1
+layout: page
+title: What is a data help desk?
+parent: About
+nav_order: 2
 has_toc: false
 ---
 
-# Hosting a Data Help Desk
-
-Intro text
-
-Add photo
-
-## What is a Data Help Desk?
+# What is a Data Help Desk?
 
 A data help desk is essential for supporting researchers in managing their data
 effectively, promoting best practices, and ensuring the long-term accessibility

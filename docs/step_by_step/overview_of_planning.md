@@ -8,7 +8,7 @@ has_toc: false
 
 # Planning Overview
 
-## Organize early
+## Organizing Essentials
 
 <!-- prettier-ignore -->
 1.  **Start Planning Early**

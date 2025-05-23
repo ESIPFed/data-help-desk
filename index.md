@@ -11,5 +11,3 @@ has_toc: false
 Intro text
 
 Add photo
-
-## What is a Data Help Desk?

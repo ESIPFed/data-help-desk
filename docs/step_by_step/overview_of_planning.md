@@ -12,13 +12,13 @@ has_toc: false
 
 <!-- prettier-ignore -->
 1.  **Start Planning Early**
-    -   Planning for a data help desk, especially a virtual one, should ideally
-        begin at least 2 months before the event. This allows sufficient time
+    -   Planning for a data help desk should ideally
+        begin at least 3 months before the event. This allows sufficient time
         for organizing, recruiting volunteers, and advertising.
 1.  **Form a Dedicated Organizing Committee**
     - It is essential to have a core
     group of dedicated organizers who meet regularly for planning and
-    advertising purposes. For virtual events, a committee of 5-10 key
+    advertising purposes. A committee of 5-10 key
     individuals committed to the success of the event is recommended. If the
     meeting has a specific domain focus, engage organizers who are experts in
     that area.
@@ -43,8 +43,8 @@ has_toc: false
     staffing of information services.
 
 1.  **Naming of the Data Help Desk**
-    -   Language is important - the ‘Virtual Data Help Desk at AGU’ implies
-        something different than ‘AGU Virtual Data Help Desk.’
+    -   Language is important - saying 'AGU Data Help Desk’ implies
+        something different than ‘Data Help Desk at AGU.’
 
 ## Event space
 
@@ -54,7 +54,7 @@ has_toc: false
         choose to also host these other events if the resources exist to make
         them happen.
     - Data Fair can be a larger umbrella over the Data Help Desk that encompasses other events, like Town Halls and other Workshops around the general topic of FAIR and open data and software.
-1.  **Secure a Location (Physical and/or Virtual)**
+1.  **Secure a Location**
     -   Physical table at a conference, either provided or owned.
     -   Get a conference spot for the desk and find the
         ideal placement with meaningful signage within the physical
@@ -105,7 +105,7 @@ has_toc: false
         principles are. Prepare resources and talking points for these topics.
 
 1.  **Develop a Resource Gallery**
-    -   For virtual events, create a gallery of contributed demos, tutorials,
+    -   Create a gallery of contributed demos, tutorials,
         and one-pagers. These resources should primarily be short video
         recordings and one-pagers on relevant topics. Curate this gallery to
         ensure the resources are relevant and up-to-date.
@@ -115,15 +115,14 @@ has_toc: false
 <!-- prettier-ignore -->
 1.  **Plan for Question Handling**
     - Design forums for researchers to ask
-    questions. For virtual events, this could be through monitoring online
+    questions. This could be through monitoring online
     platforms, social media, or dedicated Q&A sections. Have a Question Referrer
     who monitors these platforms and directs questions to appropriate experts.
     For unanswered questions, record them for follow-up.
 1.  **Consider Offering Workshops or Demos**
     - Include demonstrations of relevant
     tools and platforms and consider offering workshops on key topics like data
-    citation and data management plans. Recorded resources can be valuable if
-    live attendance is low for virtual meetings.
+    citation and data management plans.
 1.  **Be Approachable**
     -   Remember that researchers may not always know what questions to ask, so
         be approachable and help them understand the scope of the data help

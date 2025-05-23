@@ -3,10 +3,14 @@ layout: page
 title: Resources
 permalink: /docs/resources/
 nav_order: 8
-has_toc: false
+has_toc: true
 ---
 
 # Resources
+
+# TODO
+
+Reduce or place content on page somewhere else
 
 ### How to present resources
 

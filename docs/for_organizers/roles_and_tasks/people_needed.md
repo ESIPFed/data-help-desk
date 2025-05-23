@@ -103,7 +103,7 @@ rewarding) tasks associated with a Data Help Desk.
     - You can also share a volunteer form (e.g., Google Form) with relevant mailing
 lists to solicit volunteers. Past volunteers should also be invited.
 
-1. **Expert Volunteer**
+1. **Expert Volunteers**
     - An individual who volunteers to a) monitor questions asked during a Data Help Desk and provide responses; and/or b) share resources related to making data and/or software more open and FAIR.
     - Experts should not talk down to researchers, but instead explain how they came
 to understand why, for example, it’s important to have sound data management

@@ -77,7 +77,7 @@ A survey form for users of a data help desk should aim to gather feedback on
 their experience, understand their needs, and identify areas for improvement.
 **Here are some questions and categories to consider regarding their**:
 
-### Question and the help received:
+### Question and the help received
 
 -   What was your primary question or topic you brought to the Data Help Desk?
     [Open-ended]
@@ -90,7 +90,7 @@ their experience, understand their needs, and identify areas for improvement.
     [Open-ended/Checkboxes]
 -   If you were not completely satisfied, please tell us why. [Open-ended]
 
-### Topics and answers:
+### Topics and answers
 
 -   Were you provided with resources (e.g., links, handouts) relevant to your
     question? [Yes/No]
@@ -102,7 +102,7 @@ their experience, understand their needs, and identify areas for improvement.
     future? (e.g., step-by-step guides, links to tutorials, contact information
     for experts) [Checkboxes/Open-ended]
 
-### Finding resources:
+### Finding resources
 
 -   Before visiting the Data Help Desk, where would you typically go to find
     answers to your data-related questions? (e.g., Google, colleagues, online
@@ -112,7 +112,7 @@ their experience, understand their needs, and identify areas for improvement.
 -   How easy or difficult do you find it to locate reliable data resources in
     general? [Likert scale]
 
-### Their background (optional but helpful for understanding user needs):
+### Their background (optional but helpful for understanding user needs)
 
 -   What is your highest level of education? [Multiple choice: PhD, Master's,
     Bachelor's, Other]
@@ -129,7 +129,7 @@ their experience, understand their needs, and identify areas for improvement.
 -   What is your career stage? (e.g., Student, Early Career Researcher,
     Established Researcher) [Multiple choice/Optional]
 
-### About the data help desk:
+### About the data help desk
 
 -   How did you hear about the Data Help Desk? [Multiple choice/Open-ended]
 -   What were your expectations of the Data Help Desk before you visited?
@@ -138,7 +138,7 @@ their experience, understand their needs, and identify areas for improvement.
     to researchers? [Open-ended]
 -   Would you use the Data Help Desk again in the future? [Yes/No/Maybe]
 
-### Overall feedback:
+### Overall feedback
 
 -   Do you have any other comments or suggestions about the Data Help Desk?
     [Open-ended]

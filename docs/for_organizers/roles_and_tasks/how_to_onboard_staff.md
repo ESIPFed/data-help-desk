@@ -42,9 +42,7 @@ various types of information and training.
 
 1. **Customer service skills**: Training on effective communication, active
    listening, and conflict resolution.
-2. **Technical writing skills**: Guidance on creating clear, concise, and
-   accurate technical documentation and support materials.
-3. **Interpersonal skills**: Emphasis on building rapport with users,
+1. **Interpersonal skills**: Emphasis on building rapport with users,
    understanding their needs, and providing empathetic support.
 
 ## Training and Development
@@ -64,7 +62,7 @@ various types of information and training.
 2. **Feedback mechanisms**: Knowledge of how to provide constructive feedback
    and receive feedback from users and colleagues.
 
-## Additional Resources
+## Resources
 
 1. **Help desk handbook**: A comprehensive guide to the help desk's policies,
    procedures, and best practices.

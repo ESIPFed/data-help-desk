@@ -561,6 +561,9 @@ resources they may not have realized they were looking for, even if they
 didn't initially have specific questions.
     - By highlighting various tools and techniques, experts can spark interest and encourage researchers to explore new ways of managing and working with their data.
 
+For more presentation ideas, see the [Presentation Ideas
+section]({{ "/docs/resources/presentation_ideas/" | relative_url }})
+
 ## After the Help Desk Event
 
 Implementing a follow-up mechanism is vital in maintaining engagement after the

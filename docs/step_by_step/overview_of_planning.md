@@ -49,27 +49,14 @@ has_toc: false
 ## Event space
 
 <!-- prettier-ignore -->
-1.  **Consider the Format (Virtual, In-Person, or Hybrid)**
-    -   Decide whether the data help desk will be virtual, in-person, or a
-        hybrid of both. While much of the planning information is useful for
-        both, virtual events require a place for researchers to ask questions
-        and a gallery of resources. For hybrid events, coordinate both virtual
-        and physical presences.
-    -   Virtual Help desk: For
-        virtual events, create a website for the help desk, potentially using a
-        memorable link. Consider obtaining a bit.ly link -
-        e.g., bit.ly/DataHelpAGU20. Decide if the help desk should have a presence in the virtual platform of the main meeting.
-    -   Hybrid Virtual and physical. For a hybrid event, the meeting host
-        organization can provide guidance on whether a physical Data Help Desk
-        component can and should be arranged.
-    -   Physical desk at a conference, either provided or owned. Consider a banner or backdrop to identify the desk. Having a website can also be helpful for users to find resources and see a more detailed description of the help desk.
 1.  **Data Help Desk as Part of Other Events**
     -   For some meetings, the Data Help Desk is the only event, but you may
         choose to also host these other events if the resources exist to make
         them happen.
     - Data Fair can be a larger umbrella over the Data Help Desk that encompasses other events, like Town Halls and other Workshops around the general topic of FAIR and open data and software.
 1.  **Secure a Location (Physical and/or Virtual)**
-    -   For in-person events, get a conference spot for the desk and find the
+    -   Physical table at a conference, either provided or owned.
+    -   Get a conference spot for the desk and find the
         ideal placement with meaningful signage within the physical
         venue. This can be almost as important as having the right experts present. Sometimes it is best to be located in the Exhibit Hall amongst the
         flurry of activity hosted by many of the organizations that experts
@@ -77,6 +64,7 @@ has_toc: false
         to speak to an expert from another organization. In other cases, a more
         separate location outside of the bustle of the Exhibit Hall can be
         better.
+    -   Consider a banner or backdrop to identify the desk. Having a website can also be helpful for users to find resources and see a more detailed description of the help desk.
 
 ## Recruit people
 

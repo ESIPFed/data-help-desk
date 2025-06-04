@@ -20,24 +20,18 @@ Setting up a data help desk involves several strategic steps that ensure
 effective support for researchers and users seeking data management guidance.
 Here’s a breakdown of the process:
 
-1. [Prepare Early](#prepare-early)
+1. [Essential Steps](#essential-steps)
 1. [Define the Purpose and Scope](#define-the-purpose-and-scope)
-1. [Identify the Audience](#identify-the-audience)
-1. [Reserve Event Space Early](#reserve-event-space-early)
+1. [Naming the Data Help Desk](#naming-the-data-help-desk)
 1. [Advertise](#advertise)
-1. [Recruit Volunteers and Experts](#recruit-volunteers-and-experts)
-1. [Outline Types of Questions](#outline-types-of-questions)
-1. [Prepare Educational Materials](#prepare-educational-materials)
-1. [Train Help Desk Staff](#train-help-desk-staff)
-1. [Create a Collection of Resources](#create-a-collection-of-resources)
-1. [Set Up Infrastructure](#set-up-infrastructure)
-1. [Create a Scheduling System](#create-a-scheduling-system)
-1. [Establish a Tracking System](#establish-a-tracking-system)
+1. [Event Space](#event-space)
+1. [Recruit Personnel and Train](#recruit-personnel)
+1. [Answer User Needs](#answer-user-needs)
 1. [Plan User Interaction](#plan-user-interaction)
-1. [Set Up Presentations](#set-up-presentations)
-1. [After the Help Desk Event](#after-the-help-desk-event)
+1. [Set Up Infrastructure](#set-up-infrastructure)
+1. [After the Data Help Desk Event](#after-the-data-help-desk-event)
 
-## Prepare Early
+## Essential Steps
 
 <!-- prettier-ignore -->
 1. **Early Planning for the Help Desk**
@@ -85,6 +79,8 @@ overall goals of the conference.
 
 ## Define the Purpose and Scope
 
+### Clarify Objectives
+
 It is crucial to begin by clearly identifying the objectives you wish to
 achieve. Understanding the types of inquiries you anticipate is fundamental in
 shaping the help desk’s focus and ensuring it effectively meets the needs of its
@@ -123,7 +119,7 @@ ensuring it meets the needs of users.
     -   Analyzing the types of questions
         asked to inform future research data management training efforts and the staffing of information services.
 
-## Identify the Audience
+### Identify the Audience
 
 Determining the target audience for a data help desk involves identifying who
 would most benefit from its services. Understanding these diverse needs and
@@ -185,25 +181,9 @@ stages who need to comply with these evolving mandates would benefit.
     data management standards, new tools and technologies (such as AI), or best
     practices for data sharing and preservation.
 
-## Reserve Event Space Early
+## Naming the Data Help Desk
 
-<!-- prettier-ignore -->
-1. **Reserve dedicated space early**
-    - Reserving physical space early when holding a data help desk at a conference is
-essential for several reasons. Primarily, it allows organizers to secure a
-desirable location within the conference venue, such as in the Exhibit Hall
-where there is often high traffic and visibility among attendees. Reserve dedicated space early to secure a prime location for your data help desk
-is crucial for attracting attendees.
-1. **Location**
-    - Finding the ideal placement and having clear and attractive signage are
-      important considerations for attracting researchers to the desk.
-1. **Knowing the location well in advance** - This allows for its inclusion in
-   promotional materials on the meeting website, in emails to attendees, and on
-   social media using relevant hashtags like #DataHelpDesk and the conference
-   hashtag (e.g., #AGU24, #EGU25), thereby increasing awareness and encouraging
-   participation. - Some meeting host organizations also have deadlines for
-   requesting booth equipment and graphics, making early space reservation a
-   prerequisite for these processes.
+### TODO, fill in this text
 
 ## Advertise
 
@@ -244,7 +224,27 @@ is crucial for attracting attendees.
     - Use platforms such as a dedicated Slack channel or social media (e.g., a
       hashtag like #DataHelpDesk)
 
-## Recruit Volunteers and Experts
+## Event Space
+
+<!-- prettier-ignore -->
+1. **Reserve dedicated space early**
+    - Reserving physical space early when holding a data help desk at a conference is
+essential for several reasons. Primarily, it allows organizers to secure a
+desirable location within the conference venue, such as in the Exhibit Hall
+where there is often high traffic and visibility among attendees. Reserve dedicated space early to secure a prime location for your data help desk
+is crucial for attracting attendees.
+1. **Location**
+    - Finding the ideal placement and having clear and attractive signage are
+      important considerations for attracting researchers to the desk.
+1. **Knowing the location well in advance** - This allows for its inclusion in
+   promotional materials on the meeting website, in emails to attendees, and on
+   social media using relevant hashtags like #DataHelpDesk and the conference
+   hashtag (e.g., #AGU24, #EGU25), thereby increasing awareness and encouraging
+   participation. - Some meeting host organizations also have deadlines for
+   requesting booth equipment and graphics, making early space reservation a
+   prerequisite for these processes.
+
+### Recruit Personnel
 
 The strength of your data help desk heavily relies on the expertise of your
 team. Aim for a diverse group comprised of data managers, scientists with
@@ -274,7 +274,33 @@ management topics in accessible terms.
         - Scientists: familiar with the research community's needs and challenges.
         - Technical staff: skilled in IT and software development to support technical aspects of data help desk services.
 
-## Outline Types of Questions
+### Train Help Desk Staff
+
+**TODO: Add more content**
+
+This preparation will equip your team to provide confident and accurate
+assistance, ensuring a positive experience for those who approach the help desk.
+
+You might also consider conducting a preliminary training session to ensure that
+all team members are aligned on the key issues attendees are likely to face,
+such as data sharing, data analysis tools, and repository selections.
+
+<!-- prettier-ignore -->
+1. **Brief staff prior to the conference**
+    - This briefing should cover common issues that attendees may face, a review of
+the resources available, and the procedures for answering complex inquiries.
+    - This ensures that staff are well-prepared to provide excellent support services.
+    - Discusses potential challenges and areas for improvement.
+
+1. **Example training agenda**
+    - Introduction to data help desk services
+    - Common data management issues and solutions
+    - Repository selection and metadata standards
+    - Data sharing and collaboration best practices
+
+## Answer User Needs
+
+### Prepare for Common Questions
 
 To effectively focus your data help desk, it is essential to clearly outline the
 types of questions you aim to address.
@@ -327,7 +353,33 @@ types of questions you aim to address.
 1. **Data Management Plans (DMPs):** Guidance on creating effective data
    management plans to meet funder and institutional requirements.
 
-## Prepare Educational Materials
+### Create a Collection of Resources
+
+A crucial component of a successful data help desk is a well-curated collection
+of resources to address common questions and provide further learning
+opportunities. Prepare a list of resources for various subject areas. Create a
+gallery of recorded demos, tutorials, and one-pagers that can be accessed
+asynchronously, especially beneficial as researchers are often busy during
+meetings. Basic handouts on data topics should be available, as many researchers
+lack formal training in these areas. This Collection Can Include:
+
+-   Recorded demos and tutorials on tools, platforms, and data management best
+    practices.
+-   One-pagers and handouts providing concise information on key topics such as
+    FAIR principles, data citation, and data management planning.
+-   A rotating slide deck displayed at a physical help desk with useful prompts
+    and information.
+-   A gallery of recorded demos, tutorials, and one-pagers accessible online.
+-   Links to external online resources, including data repositories, relevant
+    organizations, data management training materials, and articles. Consider
+    organizing these links for easy access.
+-   Document frequently asked questions (FAQs)
+
+-   Volunteer guidelines to support experts in contributing effectively.
+
+## Recruit Personnel and Train
+
+### Prepare Educational Materials
 
 Develop educational materials tailored to common data management queries.
 
@@ -363,60 +415,11 @@ of reference for attendees looking for more information.
     - Links to oceanographic data management standards and best practices (e.g.,
       DOIs, CSW).
 
-## Train Help Desk Staff
-
-### **TODO: Add more content**
-
-This preparation will equip your team to provide confident and accurate
-assistance, ensuring a positive experience for those who approach the help desk.
-
-You might also consider conducting a preliminary training session to ensure that
-all team members are aligned on the key issues attendees are likely to face,
-such as data sharing, data analysis tools, and repository selections.
-
-<!-- prettier-ignore -->
-1. **Brief staff prior to the conference**
-    - This briefing should cover common issues that attendees may face, a review of
-the resources available, and the procedures for answering complex inquiries.
-    - This ensures that staff are well-prepared to provide excellent support services.
-    - Discusses potential challenges and areas for improvement.
-
-1. **Example training agenda**
-    - Introduction to data help desk services
-    - Common data management issues and solutions
-    - Repository selection and metadata standards
-    - Data sharing and collaboration best practices
-
-## Create a Collection of Resources
-
-A crucial component of a successful data help desk is a well-curated collection
-of resources to address common questions and provide further learning
-opportunities. Prepare a list of resources for various subject areas. Create a
-gallery of recorded demos, tutorials, and one-pagers that can be accessed
-asynchronously, especially beneficial as researchers are often busy during
-meetings. Basic handouts on data topics should be available, as many researchers
-lack formal training in these areas. This Collection Can Include:
-
--   Recorded demos and tutorials on tools, platforms, and data management best
-    practices.
--   One-pagers and handouts providing concise information on key topics such as
-    FAIR principles, data citation, and data management planning.
--   A rotating slide deck displayed at a physical help desk with useful prompts
-    and information.
--   A gallery of recorded demos, tutorials, and one-pagers accessible online.
--   Links to external online resources, including data repositories, relevant
-    organizations, data management training materials, and articles. Consider
-    organizing these links for easy access.
--   Document frequently asked questions (FAQs)
-
--   Volunteer guidelines to support experts in contributing effectively.
-
 ## Set Up Infrastructure
 
 <!-- prettier-ignore -->
 1. **Choose a Platform and Set Up Infrastructure**
-    - Decide on how to deliver the help desk services. Will it be a physical presence
-at conferences, a virtual service, or a combination of both?
+    - Decide on how to deliver the help desk services.
     - Establishing a
 digital platform (such as a website, social media accounts, Discord or Slack)
 where users can ask questions in real-time can increase accessibility. Using various channels and private survey forms can facilitate user engagement.
@@ -449,7 +452,7 @@ interactive learning.
     >
     > -   Additional software or tools for specific research areas
 
-## Create a Scheduling System
+### Create a Scheduling System
 
 Implementing a scheduling system is vital for managing consultation requests
 efficiently.
@@ -471,7 +474,7 @@ efficiently.
    materials and signage. A schedule of experts and demos can be posted online for easy access.
 1. **Keep an Eye on Peak Times:** to ensure adequate staffing and resources are available.
 
-## Establish a Tracking System
+### Establish a Tracking System
 
 Creating a simple tracking form can help log the types of consultations provided
 and any follow-up needs expressed by attendees. This data is invaluable for
@@ -500,6 +503,8 @@ help desk initiatives.
 
 ## Plan User Interaction
 
+### User Communication
+
 Several planning steps should be made to optimize user interaction, focusing on
 communication time, style, and answering questions.
 
@@ -524,7 +529,7 @@ level of support required.
 1. **Hand Out Resources**
     - Have one-pagers and postcards available for users to take with information on how to find answers to questions in the future such as pointing out a help desk slack channel, email or website with resources.
 
-## Set Up Presentations
+### Presentation setup
 
 Expert presentations on ideas and tools at a data help desk serve as a crucial
 component by providing practical knowledge, showcasing useful resources,
@@ -564,7 +569,7 @@ didn't initially have specific questions.
 For more presentation ideas, see the [Presentation Ideas
 section]({{ "/docs/resources/presentation_ideas/" | relative_url }})
 
-## After the Help Desk Event
+## After the Data Help Desk Event
 
 Implementing a follow-up mechanism is vital in maintaining engagement after the
 conference. Create a clear system for addressing post-conference questions,

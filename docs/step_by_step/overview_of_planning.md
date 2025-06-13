@@ -1,55 +1,82 @@
 ---
 layout: page
-title: Planning overview
+title: Overview of planning
 parent: Step-by-step planning
 nav_order: 1
 has_toc: false
 ---
 
-# Planning Overview
+# Overview of Planning a Data Help Desk
 
--   [Essential steps](#essential-steps)
--   [Define the purpose and scope](#define-the-purpose-and-scope)
--   [Naming of the Data Help Desk](#naming-the-data-help-desk)
--   [Advertise](#advertise)
--   [Event space](#event-space)
--   [Recruit personnel and train](#recruit-personnel-and-train)
--   [Answer user needs](#answer-user-needs)
--   [Plan user interaction](#plan-user-interaction)
--   [After the event](#after-the-event)
+## Start Planning Early
+
+-   **Timeline for planning:** Planning a data help desk should ideally begin at
+    least **3 months before the event** by
+    [forming an organizing committee](#key-steps-for-an-organizing-committee).
+    This allows sufficient time for organizing a data help desk, recruiting
+    volunteers to staff it, and advertising the data help desk.
+-   **Items to plan for include:**
+    [defining the purpose and scope](#define-the-purpose-and-scope) of the data
+    help desk, [what to name the desk](#naming-the-data-help-desk) to identify
+    collaborators, and the
+    [location of the data help desk](#event-space-for-the-data-help-desk).
+-   **Advertising:** [Creating an advertising plan](#create-an-advertising-plan)
+    is crucial to announce the desk ahead of the meeting and during the meeting.
+-   **Recruiting:**
+    [Recruiting and training volunteers](#recruit-personnel-and-train) to staff
+    the desk along with experts are essential to a successful data help desk.
+    This must begin early to allow volunteers and experts to learn about the
+    data help desk event and make plans for attending the event to staff it.
+    Providing volunteer guidelines and training for the staff will also need to
+    be completed before the data help desk event.
+-   **Plan user interaction:**
+    [Planning user interaction](#plan-user-interaction) at the data help desk
+    such as content to present and how to answer user questions must be done
+    ahead of time.
+-   **Infrastructure:** [Setting up infrastructure](#setting-up-infrastructure)
+    can be overlooked but it helps immensely to schedule staff, provide content
+    to users, and track user interactions.
+-   **Evaluation:** Don't forget to take time to
+    [evaluate the success](#evaluating-after-the-event) of the data help desk
+    and what to improve in the future.
 
 ## Essential steps
 
-<!-- prettier-ignore -->
-1.  **Start Planning Early**
-    - Planning for a data help desk should ideally begin at least 3 months before the event. This allows sufficient time for organizing, recruiting volunteers, and advertising.
-1.  **Form a Dedicated Organizing Committee**
-    - It is essential to have a core
-    group of dedicated organizers who meet regularly for planning and
-    advertising purposes. A committee of 5-10 key
-    individuals committed to the success of the event is recommended. If the
-    meeting has a specific domain focus, engage organizers who are experts in
-    that area.
-1.  **Establish Contacts and Include in Committee**
-    - Identify and work closely with key contacts at
-    the meeting host organization and other contributing organizations to ensure
-    prominent placement and support.
-    - Have individuals of the host organization as part of the organizing committee. Having them engaged not just as contacts, but as part of the organizing data help desk committee for full buyin. Like conference organizer personnel.
-1.  **Create an Internal Communication Plan for Committee**
-    - A well planed data help desk succeeds when people engage within the organizing committee, so communication needs to be emphasised.
-1.  **Create an Advertising Plan**
-    - Develop an advetising plan
-    both before and during the event.
-    - 3 high value areas of advertising the data help desk event have been identified. The first two are of great importance.
-        1. Have a presence on the main meeting website
-        2. Mention the event in daily emails
-        3. Utilize ambassadors to promote the help desk.
-    - Have a presence in the program itself such as adding specific events to the meeting program. Examples are having speakers associated with the data help desk in the program such as volunteers. The volunteers want people to know they will be at the data help desk.
-1. **Recruit experts and volunteers**
-    - Start early to recruit personnel to give demonstrations at the data help desk and volunteers to staff it.
-    - Advertise for personnel via direct emails and general recruiting via departments, interactive areas such as relevant slack channels, and social media.
+-   [Essential steps for an organizing committee](#essential-steps-for-an-organizing-committee)
+-   [Defining the purpose and scope](#defining-the-purpose-and-scope)
+-   [Naming the data help desk](#naming-the-data-help-desk)
+-   [Event space](#event-space-for-the-data-help-desk)
+-   [Creating an advertising plan](#creating-an-advertising-plan)
+-   [Recruiting and training personnel](#recruiting-and-training-personnel)
+-   [Planning user interaction](#planning-user-interaction)
+-   [Setting up infrastructure](#setting-up-infrastructure)
+-   [Evaluating after the event](#evaluation-after-the-event)
 
-## Define the purpose and scope
+### Essential Steps for an Organizing Committee
+
+([See detailed steps](./detailed_planning_steps.md/#essential-steps-for-an-organizing-committee))
+
+1.  **Form a Dedicated Organizing Committee**
+    -   It is essential to have a core group of dedicated organizers who meet
+        regularly for planning and advertising purposes. A committee of 5-10 key
+        individuals committed to the success of the event is recommended. If the
+        meeting has a specific domain focus, engage organizers who are experts
+        in that area.
+1.  **Establish Event Contacts and Include Them in the Committee**
+    -   Identify and work closely with key contacts at the meeting host
+        organization and other contributing organizations to ensure prominent
+        placement and support.
+    -   Have individuals of the host organization as part of the organizing
+        committee. Having them engaged not just as contacts, but as part of the
+        organizing data help desk committee for full buyin. Like conference
+        organizer personnel.
+1.  **Create an Internal Communication Plan for the Committee**
+    -   A well planed data help desk succeeds when people engage within the
+        organizing committee, so communication needs to be emphasised.
+
+### Defining the Purpose and Scope
+
+([See detailed steps](./detailed_planning_steps.md/#defining-the-purpose-and-scope))
 
 <!-- prettier-ignore -->
 1.  **Define Clear Goals, Objectives and Scope**
@@ -68,7 +95,9 @@ has_toc: false
     - The target audience can include researchers, early career professionals, students, and those supporting researchers.
     - Clarify the needs of the target audience which could include topics of data management training, FAIR data, software and tools, data repositories, and resources.
 
-## Naming the Data Help Desk
+### Naming the Data Help Desk
+
+([See detailed steps](./detailed_planning_steps.md/#naming-the-data-help-desk))
 
 <!-- prettier-ignore -->
 1.  **Language is important**
@@ -88,26 +117,9 @@ has_toc: false
     -   Find out the non-negotiables if considering an organization, such as
         ESIP, to be involved or endorse the data help desk event.
 
-## Advertise
+### Event Space for the Data Help Desk
 
-<!-- prettier-ignore -->
-1.  **Promote the Data Help Desk Actively**
-    -   Advertise the event not just on the meeting website but in prominent
-        places. Utilize social media platforms like Twitter (using the hashtag
-        #DataHelpDesk) and potentially BlueSky to announce the help desk and
-        share resources. Consider reaching out to program managers at funding
-        agencies to encourage participation.
-
-1. **Identification of the Data Help Desk for Users**
-    - Consider a backdrop for the data help desk to identify it to users.
-    - 90% of event attendees don't know what a data help desk is and won't come to it, so you need a foothold like a banner or backdrop so a user identifies the desk and is not afraid to approach and ask questions.
-    -  Having a website can also be helpful for users to find resources and see a more detailed description of the help desk.
-    - If there is a data help desk website, it should be a part of the advertising.
-1.  **Consider Incentivizing Participation**
-    -   Explore ways to incentivize participation for both volunteers and
-        attendees if possible.
-
-## Event space
+([See detailed steps](./detailed_planning_steps.md/#event-space))
 
 <!-- prettier-ignore -->
 1.  **Data Help Desk as Part of Other Events**
@@ -129,9 +141,47 @@ has_toc: false
     - Emphasize having a space to answer questions and a space to demo. Such as do you
 want a forum somewhere? What ways to have people answer questions
 
-## Recruit personnel and train
+### Creating an Advertising Plan
 
-### TODO: add content on training
+([See detailed steps](./detailed_planning_steps.md/#creating-an-advertising-plan))
+
+Develop an advetising plan both before and during the event.
+
+-   3 high value areas of advertising the data help desk event have been
+    identified. The first two are of great importance.
+    1. Have a presence on the main meeting website
+    2. Mention the event in daily emails
+    3. Utilize ambassadors to promote the help desk.
+-   Have a presence in the program itself such as adding specific events to the
+    meeting program. Examples are having speakers associated with the data help
+    desk in the program such as volunteers. The volunteers want people to know
+    they will be at the data help desk.
+
+<!-- prettier-ignore -->
+1.  **Promote the Data Help Desk Actively**
+    -   Advertise the event not just on the meeting website but in prominent
+        places. Utilize social media platforms like Twitter (using the hashtag
+        #DataHelpDesk) and potentially BlueSky to announce the help desk and
+        share resources. Consider reaching out to program managers at funding
+        agencies to encourage participation.
+
+1. **Identification of the Data Help Desk for Users**
+    - Consider a backdrop for the data help desk to identify it to users.
+    - 90% of event attendees don't know what a data help desk is and won't come to it, so you need a foothold like a banner or backdrop so a user identifies the desk and is not afraid to approach and ask questions.
+    -  Having a website can also be helpful for users to find resources and see a more detailed description of the help desk.
+    - If there is a data help desk website, it should be a part of the advertising.
+1.  **Consider Incentivizing Participation**
+    -   Explore ways to incentivize participation for both volunteers and
+        attendees if possible.
+
+### Recruiting and Training Personnel
+
+([See detailed steps](./detailed_planning_steps.md/#recruiting-and-training-personnel))
+
+Start early to recruit personnel to give demonstrations at the data help desk
+and volunteers to staff it. Advertise for personnel via direct emails and
+general recruiting via departments, interactive areas such as relevant slack
+channels, and social media.
 
 <!-- prettier-ignore -->
 1.  **Recruit a Diverse Group of Volunteers**
@@ -147,14 +197,31 @@ want a forum somewhere? What ways to have people answer questions
         ongoing support to volunteers before and during the event. A Slack
         channel can facilitate backchannel conversation among experts.
 
-## Answer user needs
+#### TODO: add content on training
+
+### Planning User Interaction
+
+([See detailed steps](./detailed_planning_steps.md/#planning-user-interaction))
 
 <!-- prettier-ignore -->
 1.  **Prepare for Common Questions**
     -   Be aware of common questions asked at data help desks, such as where to
         deposit or find data, how to write data management plans, and what FAIR
         principles are. Prepare resources and talking points for these topics.
-
+1.  **Consider Offering Workshops or Demos**
+    - Include demonstrations of relevant
+    tools and platforms and consider offering workshops on key topics like data
+    citation and data management plans.
+1.  **Plan for Question Handling**
+    - Design forums for researchers to ask
+    questions. This could be through monitoring online
+    platforms, social media, or dedicated Q&A sections. Have a Question Referrer
+    who monitors these platforms and directs questions to appropriate experts.
+    For unanswered questions, record them for follow-up.
+1.  **Be Approachable**
+    -   Remember that researchers may not always know what questions to ask, so
+        be approachable and help them understand the scope of the data help
+        desk. Share science expertise to build trust.
 1.  **Create a Collection of Resources**
     - *TODO add text
 
@@ -163,25 +230,24 @@ want a forum somewhere? What ways to have people answer questions
         recordings and one-pagers on relevant topics. Curate this gallery to
         ensure the resources are relevant and up-to-date.
 
-## Plan user interaction
+### Setting Up Infrastructure
+
+([See detailed steps](./detailed_planning_steps.md/#setting-up-infrastructure))
 
 <!-- prettier-ignore -->
-1.  **Plan for Question Handling**
-    - Design forums for researchers to ask
-    questions. This could be through monitoring online
-    platforms, social media, or dedicated Q&A sections. Have a Question Referrer
-    who monitors these platforms and directs questions to appropriate experts.
-    For unanswered questions, record them for follow-up.
-1.  **Consider Offering Workshops or Demos**
-    - Include demonstrations of relevant
-    tools and platforms and consider offering workshops on key topics like data
-    citation and data management plans.
-1.  **Be Approachable**
-    -   Remember that researchers may not always know what questions to ask, so
-        be approachable and help them understand the scope of the data help
-        desk. Share science expertise to build trust.
+1.  **Establish a Digital Platform**
+    -   Deciding on which digital platforms (such as a website, social media accounts,
+Discord or Slack) to use can enhance user interaction.
 
-## After the Event
+1. **Create a Scheduling System**
+    - Setup a scheduling system for volunteers and experts so they can easily setup staffing time slots and demonstration time slots.
+
+1. **Establish a Tracking System**
+    - Create a tracking system for user questions and the feedback given. This can be as simple as using paper and pencil to using a spreadsheet or creating a digital tracking system.
+
+### Evaluating After the Event
+
+([See detailed steps](./detailed_planning_steps.md/#evaluating-after-the-event))
 
 <!-- prettier-ignore -->
 1.  **Collect Feedback and Metrics**

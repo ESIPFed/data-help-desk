@@ -7,3 +7,5 @@ has_toc: true
 ---
 
 # Step-By-Step Planning
+
+Add blurb

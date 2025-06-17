@@ -12,27 +12,28 @@ has_toc: false
 
 -   **Timeline for planning:** Planning a data help desk should ideally begin at
     least **3 months before the event** by
-    [forming an organizing committee](#key-steps-for-an-organizing-committee).
-    This allows sufficient time for organizing a data help desk, recruiting
+    [forming an organizing committee](#forming-an-organizing-committee). This
+    allows sufficient time for organizing a data help desk, recruiting
     volunteers to staff it, and advertising the data help desk.
 -   **Items to plan for include:**
-    [defining the purpose and scope](#define-the-purpose-and-scope) of the data
-    help desk, [what to name the desk](#naming-the-data-help-desk) to identify
-    collaborators, and the
+    [defining the purpose and scope](#defining-the-purpose-and-scope) of the
+    data help desk, [what to name the desk](#naming-the-data-help-desk) to
+    identify collaborators, and the
     [location of the data help desk](#event-space-for-the-data-help-desk).
--   **Advertising:** [Creating an advertising plan](#create-an-advertising-plan)
-    is crucial to announce the desk ahead of the meeting and during the meeting.
+-   **Advertising:**
+    [Creating an advertising plan](#creating-an-advertising-plan) is crucial to
+    announce the desk ahead of the meeting and during the meeting.
 -   **Recruiting:**
-    [Recruiting and training volunteers](#recruit-personnel-and-train) to staff
-    the desk along with experts are essential to a successful data help desk.
-    This must begin early to allow volunteers and experts to learn about the
-    data help desk event and make plans for attending the event to staff it.
+    [Recruiting and training volunteers](#recruiting-and-training-personnel) to
+    staff the desk along with experts are essential to a successful data help
+    desk. This must begin early to allow volunteers and experts to learn about
+    the data help desk event and make plans for attending the event to staff it.
     Providing volunteer guidelines and training for the staff will also need to
     be completed before the data help desk event.
 -   **Plan user interaction:**
-    [Planning user interaction](#plan-user-interaction) at the data help desk
-    such as content to present and how to answer user questions must be done
-    ahead of time.
+    [Planning user interaction](#planning-user-interaction) at the data help
+    desk such as content to present and how to answer user questions must be
+    done ahead of time.
 -   **Infrastructure:** [Setting up infrastructure](#setting-up-infrastructure)
     can be overlooked but it helps immensely to schedule staff, provide content
     to users, and track user interactions.
@@ -42,7 +43,7 @@ has_toc: false
 
 ## Essential steps
 
--   [Essential steps for an organizing committee](#essential-steps-for-an-organizing-committee)
+-   [Forming an organizing committee](#forming-an-organizing-committee)
 -   [Defining the purpose and scope](#defining-the-purpose-and-scope)
 -   [Naming the data help desk](#naming-the-data-help-desk)
 -   [Event space](#event-space-for-the-data-help-desk)
@@ -52,9 +53,9 @@ has_toc: false
 -   [Setting up infrastructure](#setting-up-infrastructure)
 -   [Evaluating after the event](#evaluation-after-the-event)
 
-### Essential Steps for an Organizing Committee
+### Forming an Organizing Committee
 
-([See detailed steps](./detailed_planning_steps.md/#essential-steps-for-an-organizing-committee))
+([See detailed steps](./detailed_planning_steps.md/#forming-an-organizing-committee))
 
 1.  **Form a Dedicated Organizing Committee**
     -   It is essential to have a core group of dedicated organizers who meet
@@ -119,7 +120,7 @@ has_toc: false
 
 ### Event Space for the Data Help Desk
 
-([See detailed steps](./detailed_planning_steps.md/#event-space))
+([See detailed steps](./detailed_planning_steps.md/#event-space-for-the-data-help-desk))
 
 <!-- prettier-ignore -->
 1.  **Data Help Desk as Part of Other Events**
@@ -145,34 +146,46 @@ want a forum somewhere? What ways to have people answer questions
 
 ([See detailed steps](./detailed_planning_steps.md/#creating-an-advertising-plan))
 
-Develop an advetising plan both before and during the event.
+Develop an advetising plan for before and during the event.
 
--   3 high value areas of advertising the data help desk event have been
-    identified. The first two are of great importance.
-    1. Have a presence on the main meeting website
-    2. Mention the event in daily emails
-    3. Utilize ambassadors to promote the help desk.
--   Have a presence in the program itself such as adding specific events to the
-    meeting program. Examples are having speakers associated with the data help
-    desk in the program such as volunteers. The volunteers want people to know
-    they will be at the data help desk.
+**3 high value areas of advertising**
+
+3 high value areas of advertising the data help desk event have been identified.
+The first two are of great importance.
 
 <!-- prettier-ignore -->
-1.  **Promote the Data Help Desk Actively**
+1. **Have a presence on the main meeting website**
+    - Make sure to be included in the main meeting website in some way such as part of the meeting events listing.
+2. **Mention the event in daily emails**
+    - Send out daily emails to make the data help desk visible to users such as listing the time and location along with any demonstrations.
+3. **Utilize ambassadors to promote the help desk**
+    - Leverage ambassadors such as section chairs and presenters promote it through conversations with others before and during the meeting such as announcements before or after their talks.
+
+**More areas of advertising**
+
+<!-- prettier-ignore -->
+1.  **Actively Promote the Data Help Desk**
     -   Advertise the event not just on the meeting website but in prominent
         places. Utilize social media platforms like Twitter (using the hashtag
         #DataHelpDesk) and potentially BlueSky to announce the help desk and
-        share resources. Consider reaching out to program managers at funding
+        share resources.
+    - Consider reaching out to program managers at funding
         agencies to encourage participation.
 
-1. **Identification of the Data Help Desk for Users**
-    - Consider a backdrop for the data help desk to identify it to users.
-    - 90% of event attendees don't know what a data help desk is and won't come to it, so you need a foothold like a banner or backdrop so a user identifies the desk and is not afraid to approach and ask questions.
-    -  Having a website can also be helpful for users to find resources and see a more detailed description of the help desk.
-    - If there is a data help desk website, it should be a part of the advertising.
+1.  **Provide Clear Identification of the Data Help Desk**
+    -   Consider a backdrop for the data help desk to identify it to users.
+    -   90% of event attendees don't know what a data help desk is and won't
+        come to it, so you need a foothold like a banner or backdrop so a user
+        identifies the desk and is not afraid to approach and ask questions.
+    -   Having a website can also be helpful for users to find resources and see
+        a more detailed description of the help desk.
+    -   If there is a data help desk website, it should be a part of the
+        advertising.
+1.  **Have a Presence in the Program Itself**
+    - Have a presence in the program itself such as adding specific events to the meeting program. The volunteers want people to know they will be at the data help desk. Examples are having speakers associated with the data help desk in the program such as volunteers.
 1.  **Consider Incentivizing Participation**
     -   Explore ways to incentivize participation for both volunteers and
-        attendees if possible.
+        attendees if possible such as special swag.
 
 ### Recruiting and Training Personnel
 
@@ -223,8 +236,6 @@ channels, and social media.
         be approachable and help them understand the scope of the data help
         desk. Share science expertise to build trust.
 1.  **Create a Collection of Resources**
-    - *TODO add text
-
     -   Create a gallery of contributed demos, tutorials,
         and one-pagers. These resources should primarily be short video
         recordings and one-pagers on relevant topics. Curate this gallery to

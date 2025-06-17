@@ -20,17 +20,17 @@ Setting up a data help desk involves several strategic steps that ensure
 effective support for researchers and users seeking data management guidance.
 Here’s a breakdown of the process:
 
--   [Essential Steps](#essential-steps-for-an-organizing-committee)
+-   [Forming an Organizing Committee](#forming-an-organizing-committee)
 -   [Defining the Purpose and Scope](#defining-the-purpose-and-scope)
 -   [Naming the Data Help Desk](#naming-the-data-help-desk)
--   [Creating an advertising plan](#creating-an-advertising-plan)
--   [Event Space](#event-space)
--   [Recruiting and training Personnel](#recruiting-and-training-personnel)
+-   [Creating an Advertising Plan](#creating-an-advertising-plan)
+-   [Event Space](#event-space-for-the-data-help-desk)
+-   [Recruiting and Training Personnel](#recruiting-and-training-personnel)
 -   [Planning User Interaction](#planning-user-interaction)
 -   [Setting Up Infrastructure](#setting-up-infrastructure)
 -   [Evaluating After the Event](#evaluating-after-the-event)
 
-## Essential steps for an organizing committee
+## Forming an organizing committee
 
 <!-- prettier-ignore -->
 1. **Early Planning for the Data Help Desk**
@@ -188,13 +188,25 @@ stages who need to comply with these evolving mandates would benefit.
 
 ## Creating an advertising plan
 
+Develop an advertising plan for before and during the event Effectively
+communicate the existence and purpose of the help desk to your target audience.
+
+-   Advertise the event prominently on the meeting website and through other
+    channels, emphasizing the opportunity to engage with experts and learn about
+    topics such as data management and FAIR principles and any other relevant
+    topics. This includes a presence on the meeting website, mentioning the data
+    help desk in emails, leveraging ambassadors (section chairs, presenters),
+    and active social media (Twitter) promotion.
+-   Prepare physical materials which include signage, monitors for demos,
+    handouts, flyers, and swag such as candy and stickers.
+
 <!-- prettier-ignore -->
-1. **Design clear signage**
+1. **Design Clear Signage for the Desk**
+   - Effective signage plays a crucial role in guiding attendees to
+   your help desk and making them aware of the services offered.
     - Create professional banners highlighting services:
    data management plans, metadata standards, repository selection, DOI
    assignment
-   - Effective signage plays a crucial role in guiding attendees to
-   your help desk and making them aware of the services offered.
    - Well-designed
    signs should use concise language and visual elements to capture attention.
    - Consider including QR codes linking to digital resources or additional
@@ -207,9 +219,7 @@ stages who need to comply with these evolving mandates would benefit.
     >
     > Get expert advice on data management best practices, repository selection, and
     > more. Ask us about our free consultations!
-1. **Promote the Help Desk**
-    - Effectively communicate the existence and purpose of the help desk to your
-      target audience.
+1. **Ways to Promote the Data Help Desk**
     - Utilize social media, email, and academic networks to inform potential
       users about the services offered.
     - A communication plan should be developed to advertise the Data Help Desk on the meeting website.
@@ -224,8 +234,13 @@ stages who need to comply with these evolving mandates would benefit.
     - A dedicated Slack channel for experts (such as #datahelpdesk-experts within the ESIP Slack workspace) can facilitate backchannel conversations and allow experts less comfortable with public platforms to contribute.
     - Use platforms such as a dedicated Slack channel or social media (e.g., a
       hashtag like #DataHelpDesk)
+1. **Prepare physical materials**
+    - Candy and stickers (science themed and logos) are popular ways to grab users attention to the data help desk.
+    - Postcards with a front side that users would put on their fridge or mail with information on the back are great ways to both attract attention and inform users.
+    - Have monitors placed to advertise upcoming demonstrations and to use during expert demonstrations.
+    - Prepare handouts and flyers with information adverising the current data help desk at the meeting and information for follow up such as slack channels, email, and a resources website. Including a QR code to point to the resources website or any follow-up forms.
 
-## Event Space
+## Event Space for the Data Help Desk
 
 <!-- prettier-ignore -->
 1. **Reserve dedicated space early**
@@ -301,43 +316,83 @@ the resources available, and the procedures for answering complex inquiries.
 
 ## Recruiting and Training Personnel
 
-### Prepare Educational Materials
-
-Develop educational materials tailored to common data management queries.
-
 <!-- prettier-ignore -->
-1. **Easy-to-follow tutorials:** For data management best practices
-1. **Frequently asked questions (FAQs) document:** FAQs document with common questions and answers on data management topics. See [questions from users]({{ site.baseurl }}{% link docs/resources/questions_from_users.md %})
-1.  **Quick-reference guides:** For addressing frequently used data formats,
-    metadata templates, and repository submission workflows.
-    - These handouts
-    should be concise and easy to understand, assisting attendees in grasping
-    key concepts quickly. Additionally, consider including QR codes on the
-    guides to link to online resources for deeper learning.
-
-    > **Example educational material**
-    >
-    > [Image of a guidebook with the following text:]
-    >
-    > Oceanographic Data Management Guide A quick reference for managing your
-    > research data.
-    >
-    > Includes sections on data formats, metadata standards, and repository submission workflows.
-    >
-    > Provides examples and case studies to illustrate key concepts.
-<!-- prettier-ignore -->
-1.  **Build a Resource Database:**
-    -   See [resources
-        section]({{ site.baseurl }}{% link docs/resources_overview.md %})
-    - This database can serve as a foundational resource for team members and a point
-of reference for attendees looking for more information.
-    - Containing links to relevant
-   tools, standards, and the best practices for data management.
-    - List of data repositories
-    - Links to oceanographic data management standards and best practices (e.g.,
-      DOIs, CSW).
+1. **Recruit Volunteers and Experts**
+    - This can be done through mailing lists,
+    ESIP channels, inviting past volunteers. For smaller events, hand-picking
+    experts may be best. Aim for a diversity of volunteers in terms of
+    organizations and topics represented. Create a Volunteer Form for
+    recruitment
+1. **Onboard Staff**
+    - Onboard by providing information about the organizing entities,
+    basic data management concepts, and guidelines for interacting with
+    attendees. Training webinars or short videos ("b-roll") can be helpful.
+    Provide a list of potential questions and resources. Remind and encourage
+    volunteers, providing deadlines and support.
+1. **Schedule Demos, Talks, and One-Pagers**
+    - Consider hosting "workshops" on
+    key topics, though these require significant planning effort ("heaviest
+    lift"). For virtual events, creating recorded resources instead can be
+    valuable due to potentially lower live attendance.
+1. **Develop Volunteer Guidelines**
+    - These guidelines should clarify
+    opportunities (answering questions virtually/in-person, suggesting Q&A,
+    contributing resources, staffing the booth), provide tips for preparation,
+    guidance on contributing content, and link to a code of conduct.
+1. **Set up Communication Channels for Volunteers and Experts**
+    - Such as a
+    Slack channel for backchannel conversation and crowdsourcing answers.
+1. **Ensure Volunteers Practice Good Communication**
+    - Good communication includes being
+    approachable, showing interest, listening, clarifying questions, and
+    planning for follow-up. Experts should share their science expertise to find
+    commonalities and establish trust. They should avoid talking down to
+    researchers and explain _why_ sound data management practices are important.
 
 ## Planning User Interaction
+
+### Execution and Management
+
+-   **Create Buzz and Share Resources** proactively, as researchers may not
+    always ask questions initially. Use prepared questions to engage passers-by
+    at a physical booth.
+-   **Implement the Communication Plan**. Execute the social media plan,
+    including advertising and tweeting resources using relevant hashtags.
+-   **Staff the Desk or Monitor Platforms**. Ensure volunteers and experts are
+    present at the physical booth or actively monitoring virtual channels.
+-   **Monitor Questions** coming in from all designated forums (in-person,
+    Twitter, survey form, etc.).
+-   **Refer Questions to Appropriate Experts**. Use backchannel communication
+    (like the Slack channel) to crowdsource answers and triage inquiries,
+    especially for questions experts may be less comfortable answering publicly.
+    Ensure all questions receive a response.
+-   **Encourage Volunteers** and provide ongoing support. Use backchannels for
+    expert collaboration.
+-   **Manage the Physical Space** Ensure demos are running, handouts are
+    available, and the slide deck is rotating with prompts.
+-   **Collect Data from Interactions**. Provide sign-in sheets or forms for
+    volunteers to record unanswered questions and user contact information for
+    follow-up. Facilitate the process for volunteers to capture notes about
+    transactions (e.g., using an AI assistant as done at AGU24). Offer users the
+    opportunity to provide feedback via a survey after their interaction.
+-   **Plan for Data Collection and Evaluation**. Facilitate the process for
+    collecting information about questions asked and interactions for future
+    use. Prepare survey questions for users and volunteers.
+
+### Gather content to present and reference
+
+-   **Solicit Content Before the Conference**. Gather specific answers to common
+    questions, locations of resources (data, software, analysis), and references
+    to knowledgeable people.
+-   **Create a Starter Set of Question Topics and Answers**. Identify a list of
+    user topics that volunteers may be asked about.
+-   **Create a List of Resources** for various subject areas. Prepare basic
+    handouts on data management, especially since many researchers lack formal
+    training.
+-   **Design and Compile a Gallery of Resources**, typically hosted on the event
+    website, including recorded demos, tutorials, and one-pagers. Address
+    challenges related to the growing size and navigability of the gallery. The
+    gallery is a long-lasting and valuable output.
 
 ### Prepare for Common Questions
 
@@ -392,6 +447,42 @@ types of questions you aim to address.
 1. **Data Management Plans (DMPs):** Guidance on creating effective data
    management plans to meet funder and institutional requirements.
 
+### Prepare Educational Materials
+
+Develop educational materials tailored to common data management queries.
+
+<!-- prettier-ignore -->
+1. **Easy-to-follow tutorials:** For data management best practices
+1. **Frequently asked questions (FAQs) document:** FAQs document with common questions and answers on data management topics. See [questions from users]({{ site.baseurl }}{% link docs/resources/questions_from_users.md %})
+1.  **Quick-reference guides:** For addressing frequently used data formats,
+    metadata templates, and repository submission workflows.
+    - These handouts
+    should be concise and easy to understand, assisting attendees in grasping
+    key concepts quickly. Additionally, consider including QR codes on the
+    guides to link to online resources for deeper learning.
+
+    > **Example educational material**
+    >
+    > [Image of a guidebook with the following text:]
+    >
+    > Oceanographic Data Management Guide A quick reference for managing your
+    > research data.
+    >
+    > Includes sections on data formats, metadata standards, and repository submission workflows.
+    >
+    > Provides examples and case studies to illustrate key concepts.
+<!-- prettier-ignore -->
+1.  **Build a Resource Database:**
+    -   See [resources
+        section]({{ site.baseurl }}{% link docs/resources_overview.md %})
+    - This database can serve as a foundational resource for team members and a point
+of reference for attendees looking for more information.
+    - Containing links to relevant
+   tools, standards, and the best practices for data management.
+    - List of data repositories
+    - Links to oceanographic data management standards and best practices (e.g.,
+      DOIs, CSW).
+
 ### Create a Collection of Resources
 
 A crucial component of a successful data help desk is a well-curated collection
@@ -418,8 +509,9 @@ lack formal training in these areas. This Collection Can Include:
 
 ### User Communication
 
-Several planning steps should be made to optimize user interaction, focusing on
-communication time, style, and answering questions.
+Prepare for user communication to optimize user interaction, focusing on
+interaction time, communication style, answering questions, providing future
+interaction, and handing out resources.
 
 <!-- prettier-ignore -->
 1. **Interaction Time**
@@ -577,6 +669,8 @@ where users can continue to seek assistance. Tracking long-term impact through
 user feedback will allow you to refine the help desk’s offerings, ensuring that
 it evolves to meet the ongoing needs of the scientific community.
 
+### Follow-up and Evaluation
+
 <!-- prettier-ignore -->
 1. **Gather Feedback and Revise**
     - After launching your data help desk, collecting user feedback is essential for
@@ -588,11 +682,27 @@ staffing arrangements, and modify outreach efforts accordingly.
     - Engaging in this
 cycle will ensure that the help desk evolves to meet the changing needs of its
 users effectively.
+    - Collect and analyze evaluation data. This includes transaction notes,
+    survey responses (from users and volunteers), and attendance metrics (number
+    of people interacting). Analyze question types to identify community needs
+    and dominant themes. Assess interaction quality using established
+    guidelines.
+    - Survey volunteers to gather feedback on what worked well, what could be
+    improved, and their satisfaction level.
+    - Use findings to inform future efforts. Apply lessons learned to improve
+    future data help desks, inform research data management training content and
+    delivery formats, develop staffing models, and assist with the usability
+    design of data products and tools. Refine the initial intake process based
+    on the analysis of question types.
+    - Share metrics and impact with volunteers to demonstrate the value of
+    their participation and encourage future involvement.
 
 1. **Maintain Resources**
     - Maintain a repository of frequently asked questions and expert responses that
 can serve as a resource for future inquiries.
-
+    - Consider expanding support beyond the conference event, such as
+    establishing year-round virtual services or maintaining a database of
+    experts.
 
 1. **Plan a Follow-up Mechanism**
     - Create a system to handle post-conference questions and track long-term impact through user feedback. This establishes a clear plan for ongoing support and evaluation and encourages continuous improvement of data help desk services.
@@ -609,3 +719,8 @@ can serve as a resource for future inquiries.
 1. **Conside Long Term Contact**
     - Consider establishing year-round support services such as a dedicated email
     address or a Slack channel where users can ask questions.
+1. **Thank Volunteers**
+    - Don't forget to thank volunteers and experts for their participation.
+1. **Disseminate Lessons Learned**
+    - Share documentation or presentations
+    with others who wish to host similar events.

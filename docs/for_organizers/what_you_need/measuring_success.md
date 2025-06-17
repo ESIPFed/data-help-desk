@@ -1,12 +1,12 @@
 ---
 layout: page
-title: How to measure success
-parent: Things to consider
-nav_order: 1
+title: Measuring success
+parent: What you'll need
+nav_order: 9
 has_toc: false
 ---
 
-# How to Measure Success of a Data Help Desk
+# Measuring the Success of a Data Help Desk
 
 With in-person events, the number of interactions with researchers can be a key
 metric to understand the reach of the event, along with the qualitative metrics

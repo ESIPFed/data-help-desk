@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Recruiting volunteers
-parent: Roles and tasks
-nav_order: 6
+parent: People & support
+nav_order: 2
 has_toc: false
 ---
 

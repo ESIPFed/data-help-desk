@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Create a survey form
+title: Survey forms
 parent: Things to consider
-nav_order: 2
+nav_order: 3
 has_toc: false
 ---
 
-# Create a Survey Form
+# Survey Forms
 
 The survey could be administered immediately after the user's interaction with
 the Data Help Desk (as an exit survey), or as a follow-up after the event. For

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Recruiting data experts
-parent: Roles and tasks
-nav_order: 5
+parent: People & support
+nav_order: 3
 has_toc: false
 ---
 
@@ -28,6 +28,8 @@ adequate support, and acknowledge their valuable contributions.
 1. **Finding Data Experts**
     - Ask in the ESIP Slack channel for expert volunteers in subjects that are topics for the data help desk.
     - [ESIP slack channel invite](https://esip-all.slack.com/join/shared_invite/zt-2k167dnsl-l49BDbzgd0vRdP1_PpIUcg#/shared-invite/email)
+    - Search the [ESIP collaboration areas](https://www.esipfed.org/collaboration-areas/) for specific slack channels, email lists and names of personnel leading meetings regarding various topics.
+    - See the [ESIP community calendar](https://www.esipfed.org/community-calendar/) for groups meeting and to connect with participants.
 1. **Direct and Targeted Outreach**
     -   Organizers can decide on key topics and specific resources they want
         featured and then hand-pick a set of experts in those areas. This is

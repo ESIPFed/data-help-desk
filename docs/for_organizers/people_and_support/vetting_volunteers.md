@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Vetting volunteers
-parent: Roles and tasks
-nav_order: 3
+parent: People & support
+nav_order: 4
 has_toc: false
 ---
 

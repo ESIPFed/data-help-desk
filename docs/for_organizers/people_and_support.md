@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Things to consider
+title: People & support
 parent: For organizers
-nav_order: 4
+nav_order: 3
 has_toc: true
 ---
 
-# Things to Consider
+# People & Support
 
 add a blurb

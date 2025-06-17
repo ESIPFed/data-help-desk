@@ -8,7 +8,92 @@ has_toc: false
 
 # Advertising the Data Help Desk
 
-## Steps to advertise a data help desk
+-   [Advertising Materials and Branding](#advertising-materials-and-branding)
+
+-   [Steps to Advertise a Data Help Desk](#steps-to-advertise-a-data-help-desk)
+
+-   [Media Plan](#media-plan)
+
+-   [Advertising Resources](#advertising-resources)
+
+## Advertising Materials and Branding
+
+### Promotional Materials
+
+<!-- prettier-ignore -->
+1. **Signage:**
+   - Clear and attractive signage is crucial for a physical data help desk to
+    indicate its location and purpose. This signage can include prompts to
+    encourage questions, such as "Ask us how you can Cite Your Data Like a Pro"
+    or "What makes data #FAIR?". For virtual events, having a clear presence on
+    the main meeting website serves a similar function.
+1. **Website/Webpage:**
+   - A dedicated website or webpage is essential, especially for virtual and
+    hybrid events, to provide information about the data help desk, including
+    its description, sponsor/organizer acknowledgement, and how to participate.
+    Consider using a shortened link (e.g., bit.ly) for easier sharing.
+1. **Handouts and Flyers:**
+   - For physical events, handouts and flyers can be useful to provide brief
+    information about the data help desk, key topics covered, and related
+    resources.
+1. **Rotating Slide Deck:**
+   - A rotating slide deck displayed on a monitor at a physical desk can
+    attract attention and present useful prompts or information about common
+    topics.
+1. **Social Media Posts:**
+   - Active engagement on social media platforms, particularly Twitter
+    (using the hashtag #DataHelpDesk and the relevant conference hashtag),
+    is vital for virtual and hybrid events. Consider developing a Twitter
+    plan with scheduled tweets advertising the event, example questions, and
+    featured resources. Nowadays, consider other platforms like BlueSky as
+    well.
+1. **Email Advertisements:**
+   - Include information about the data help desk in email advertisements
+    sent to meeting participants.
+1. **Meeting Website Promotion:**
+   - Ensure the data help desk has a prominent presence on the main meeting
+    website, including its description and how to participate.
+1. **Inclusion in Daily Emails:**
+   - Request that the meeting host include information about the data help desk
+    in any daily email reminders sent to meeting attendees.
+1. **Ambassador Outreach:**
+   - Encourage section chairs, scientific session presenters, and other key
+    individuals to act as ambassadors by mentioning the data help desk in
+    their presentations, posters, and social media.
+1. **Blog Posts:**
+   - Creating blog posts can provide more in-depth information about the data
+    help desk, its themes, and how it can benefit researchers.
+1. **Postcards:**
+   - Postcards can be a tangible way to share information about the data help
+    desk, especially at physical events. They can include the booth number and a
+    QR code linking to the website.
+1. **QR Codes:**
+   - Using QR codes on signage and promotional materials can provide quick
+    access to the data help desk website or specific resources.
+
+### Branding Elements
+
+<!-- prettier-ignore -->
+1. **Naming and Language:**
+   - The language used to name the data help desk is important (e.g.,
+    "Virtual Data Help Desk at AGU" vs. "AGU Virtual Data Help Desk") as it can
+    imply different associations. Choose a name that clearly conveys the
+    purpose.
+1. **Logos:**
+   - Use relevant logos of organizing and sponsoring entities on signage,
+    websites, and other materials to clearly indicate the collaboration and
+    support behind the data help desk. Make the logo obvious at a physical desk.
+1. **Tagline:**
+   - Develop a clear and concise tagline that explains the purpose of the
+    data help desk. Examples could include phrases like "Got data? Ask us!".
+1. **Consistent Messaging:**
+   - Ensure consistent messaging across all advertising materials to clearly
+    communicate the value proposition of the data help desk and the types of
+    assistance available.
+1. **Swag:**
+   - Use swag to attract attention.
+
+## Steps to Advertise a Data Help Desk
 
 <!-- prettier-ignore -->
 1. **Name and Affiliation**
@@ -92,7 +177,7 @@ has_toc: false
     - Highlight the collaborative nature of the Data Help Desk by
     mentioning participating organizations.
 
-## Media plan
+## Media Plan
 
 1. Generating a robust plan, including a schedule of tweets to advertise that
    the event is happening, along with example questions, and featured resources
@@ -148,7 +233,7 @@ has_toc: false
    creates a private space that only meeting attendees can access and it also
    creates another place that data expert volunteers have to monitor.
 
-## Resources for creating advertising
+## Advertising Resources
 
 <!-- prettier-ignore -->
 1. **Email templates**
@@ -165,7 +250,7 @@ AGU24]({{ site.baseurl }}/assets/docs/Open_Science_Help_Desk_Postcards-AGU24.pdf
 Advertisement]({{ site.baseurl }}/assets/docs/Open Science & Data Help Desk at
 EGU24 Advertisement.pdf)
 
-## Example advertisement for a data help desk at a conference
+### Example advertisement for a data help desk at a conference
 
 > Do you have data and software-related questions? Are you looking to make your
 > data and/or software open and FAIR? Are you interested in tools and resources

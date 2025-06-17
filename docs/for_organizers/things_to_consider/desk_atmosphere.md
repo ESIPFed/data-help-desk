@@ -1,12 +1,18 @@
 ---
 layout: page
-title: Forums for questions
+title: Desk atmosphere
 parent: Things to consider
-nav_order: 3
+nav_order: 2
 has_toc: false
 ---
 
-# Create Forums to Ask Questions
+# Create an Atmosphere to Ask Questions
+
+A Data Help Desk requires a thoughtful approach that considers the researchers'
+likely locations and preferences for asking questions, while also ensuring that
+the chosen methods are manageable for the volunteer team. Balancing
+accessibility with the capacity to provide timely and helpful responses is key
+to a successful Data Help Desk.
 
 When designing forums for researchers to ask questions at a Data Help Desk,
 several key factors need careful consideration. These include where researchers
@@ -32,34 +38,8 @@ the past:
     allows researchers to ask questions publicly. This can create a buzz and
     facilitate broader visibility of questions and answers. However, not all
     researchers may be comfortable using Twitter or have an account.
+
 -   Private Forums (e.g., Survey Forms): Providing a survey form allows
     researchers to submit questions more anonymously and is a good alternative
     for those without Twitter. Past forms have included fields for the question,
     optional name and Twitter handle, required email, and optional career stage.
--   In-Person Interactions: For physical desks, direct conversations with
-    experts are a primary mode of asking questions. Volunteers should be
-    approachable, show interest, listen carefully, and clarify the question to
-    understand the user's true need.
-
-There is the need to balance the number of question channels with the capacity
-of volunteers to monitor and respond effectively. Creating too many places for
-questions can overwhelm volunteers and lead to some inquiries being missed. Opt
-for a limited number of well-managed channels. In the past, a combination of one
-public (Twitter) and one more private (survey form) option has been used.
-
-To support volunteers in managing questions from various channels, The use of a
-backchannel communication platform like a Slack channel can be very helpful.
-This allows experts to discuss questions, triage them, and coordinate responses,
-especially for volunteers who are less comfortable with public-facing platforms
-like Twitter. A moderator can then relay answers from the Slack channel back to
-the researcher on the original platform (e.g., Twitter).
-
-Considering the format of the event (physical, virtual, or hybrid) influences
-the choice of question forums. Hybrid events necessitate planning and
-coordination for both physical and virtual components.
-
-In summary, designing effective question forums for a Data Help Desk requires a
-thoughtful approach that considers the researchers' likely locations and
-preferences for asking questions, while also ensuring that the chosen methods
-are manageable for the volunteer team. Balancing accessibility with the capacity
-to provide timely and helpful responses is key to a successful Data Help Desk.

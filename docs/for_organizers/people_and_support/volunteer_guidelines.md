@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Create volunteer guidelines
-parent: What you'll need
-nav_order: 4
+title: Volunteer guidelines
+parent: People & support
+nav_order: 7
 has_toc: false
 ---
 
-# Create Volunteer Guidelines
+# Volunteer Guidelines
 
 ## TODO: copy content from google doc into this web page
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Find funding & sponsorship
-parent: What you'll need
-nav_order: 5
+title: Funding & sponsorship
+parent: Things to consider
+nav_order: 4
 has_toc: false
 ---
 
-# Find Funding & Sponsorship
+# Funding & Sponsorship
 
 Engage With the Meeting Host & Other Organizers Very early on in the planning
 process,

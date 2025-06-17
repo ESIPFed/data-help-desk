@@ -1,12 +1,12 @@
 ---
 layout: page
-title: How to support volunteers
-parent: Roles and tasks
-nav_order: 2
+title: Supporting volunteers
+parent: People & support
+nav_order: 8
 has_toc: false
 ---
 
-# How to Support Volunteers
+# Supporting Volunteers
 
 Hosts of a data help desk can support their volunteers in numerous ways. By
 proactively offering example questions and categories, ensuring clear schedules
@@ -34,6 +34,21 @@ of their data help desk volunteers.
     Twitter and post them to the Slack channel.
 -   Experts can then either respond directly on Twitter or share their answers
     in Slack for the moderator to then push back out to Twitter.
+
+-   There is the need to balance the number of question channels with the
+    capacity of volunteers to monitor and respond effectively. Creating too many
+    places for questions can overwhelm volunteers and lead to some inquiries
+    being missed. Opt for a limited number of well-managed channels. In the
+    past, a combination of one public (Twitter) and one more private (survey
+    form) option has been used.
+
+-   To support volunteers in managing questions from various channels, The use
+    of a backchannel communication platform like a Slack channel can be very
+    helpful. This allows experts to discuss questions, triage them, and
+    coordinate responses, especially for volunteers who are less comfortable
+    with public-facing platforms like Twitter. A moderator can then relay
+    answers from the Slack channel back to the researcher on the original
+    platform (e.g., Twitter).
 
 ## Provide Categories of Questions
 

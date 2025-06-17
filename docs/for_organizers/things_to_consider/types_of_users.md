@@ -2,7 +2,7 @@
 layout: page
 title: Types of users
 parent: Things to consider
-nav_order: 5
+nav_order: 1
 has_toc: false
 ---
 

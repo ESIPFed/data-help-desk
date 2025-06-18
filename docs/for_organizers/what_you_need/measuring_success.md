@@ -1,22 +1,22 @@
 ---
 layout: page
-title: Measuring success
+title: Success metrics
 parent: What you'll need
 nav_order: 9
 has_toc: false
 ---
 
-# Measuring the Success of a Data Help Desk
+# Success Metrics for a Data Help Desk
 
 With in-person events, the number of interactions with researchers can be a key
 metric to understand the reach of the event, along with the qualitative metrics
 of how engaged those individuals were (did they ask questions and did they feel
-like they received the help they were looking for?). Metrics for a virtual event
-are certainly quite different, though. With an event held primarily on Twitter,
-there are a number of different metrics that can be tracked using simple and
-fairly cheap applications.
+like they received the help they were looking for?).
 
 ## Success Metrics
+
+There are a number of different metrics that can be tracked using simple and
+fairly cheap applications, including paper.
 
 <!-- prettier-ignore -->
 1. **Impressions**
@@ -62,8 +62,7 @@ data help desk has been successful:
 <!-- prettier-ignore -->
 1. **Number of interactions**
     - The quantity of people interacting with the help
-    desk is a direct measure of its reach and visibility. This can be tracked
-    for both in-person and virtual events.
+    desk can be tracked and is a direct measure of its reach and visibility.
 1. **Question and answer quality**
     - Assessing the quality of the questions asked
     and the answers provided is crucial. This might involve anecdotal feedback
@@ -88,9 +87,8 @@ data help desk has been successful:
     level of engagement of individuals can be informative. Did they ask
     follow-up questions? Did they seem satisfied with the information they
     received?
-1. **Metrics for virtual events**
-    - For virtual data help desks, especially those
-    utilizing platforms like Twitter, several metrics can be tracked:
+1. **Metrics for  online interaction**
+    - Several metrics can be tracked for online platforms:
         -   Impressions: The number of times posts containing the tracked hashtag
             were seen by users.
         -   Posts: The total number of posts using the hashtag.
@@ -98,7 +96,7 @@ data help desk has been successful:
         -   Engagement: The number of intentional interactions like retweets and
             likes.
         -   Users: The number of individual users who posted with the hashtag. These
-            metrics can demonstrate the broad reach of the virtual event.
+            metrics can demonstrate the broad reach of the event.
 1. **Volunteer satisfaction**
     - Ensuring that volunteers feel their time was well
     spent and are willing to participate in the future is a key indicator of a

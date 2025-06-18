@@ -2,18 +2,15 @@
 layout: page
 title: Advertising
 parent: What you'll need
-nav_order: 2
+nav_order: 3
 has_toc: false
 ---
 
 # Advertising the Data Help Desk
 
 -   [Advertising Materials and Branding](#advertising-materials-and-branding)
-
 -   [Steps to Advertise a Data Help Desk](#steps-to-advertise-a-data-help-desk)
-
 -   [Media Plan](#media-plan)
-
 -   [Advertising Resources](#advertising-resources)
 
 ## Advertising Materials and Branding
@@ -25,11 +22,10 @@ has_toc: false
    - Clear and attractive signage is crucial for a physical data help desk to
     indicate its location and purpose. This signage can include prompts to
     encourage questions, such as "Ask us how you can Cite Your Data Like a Pro"
-    or "What makes data #FAIR?". For virtual events, having a clear presence on
-    the main meeting website serves a similar function.
+    or "What makes data #FAIR?". Aim for having a clear presence on
+    the main meeting websiten.
 1. **Website/Webpage:**
-   - A dedicated website or webpage is essential, especially for virtual and
-    hybrid events, to provide information about the data help desk, including
+   - A dedicated website or webpage is essential to provide information about the data help desk, including
     its description, sponsor/organizer acknowledgement, and how to participate.
     Consider using a shortened link (e.g., bit.ly) for easier sharing.
 1. **Handouts and Flyers:**
@@ -42,8 +38,7 @@ has_toc: false
     topics.
 1. **Social Media Posts:**
    - Active engagement on social media platforms, particularly Twitter
-    (using the hashtag #DataHelpDesk and the relevant conference hashtag),
-    is vital for virtual and hybrid events. Consider developing a Twitter
+    (using the hashtag #DataHelpDesk and the relevant conference hashtag). Consider developing a Twitter
     plan with scheduled tweets advertising the event, example questions, and
     featured resources. Nowadays, consider other platforms like BlueSky as
     well.
@@ -76,7 +71,7 @@ has_toc: false
 <!-- prettier-ignore -->
 1. **Naming and Language:**
    - The language used to name the data help desk is important (e.g.,
-    "Virtual Data Help Desk at AGU" vs. "AGU Virtual Data Help Desk") as it can
+    "Data Help Desk at AGU" vs. "AGU Data Help Desk") as it can
     imply different associations. Choose a name that clearly conveys the
     purpose.
 1. **Logos:**
@@ -101,16 +96,14 @@ has_toc: false
     "Open Science & Data Help Desk". Also, mention the organizing bodies, such
     as "a program of AGU, ESIP, and their partners". If it's associated with a
     specific event, like "during AGU24" or "at EGU25", make this prominent.
-    Emphasize if it's a "Virtual Data Help Desk".
 1. **When and Where**
     - Specify the dates and times of the help desk. For in-person
     events, mention the exact location, such as "Visit our booth at the Open
     Science Pavilion in the Exhibit Hall A" or "Exhibit Hall Booth #1423 within
     the Open Science Pavilion" for AGU, or "[Exhibit Booth #X208]{.mark}" for
-    EGU. For virtual events, provide the online platform or link where users can
-    ask questions, such as "Ask questions online here:
-    https://esipfed.org/datahelp". For hybrid events, clearly state both the
-    physical and virtual components.
+    EGU. Provide the online platform or link where users can
+    ask questions, if this is used, such as "Ask questions online here:
+    https://esipfed.org/datahelp".
 1. **What Users Can Get Help With**
     - Clearly articulate the types of questions and
     assistance users can expect. Use phrases like "Bring your questions for our
@@ -212,9 +205,6 @@ has_toc: false
 1. Establish key contacts to work with advertising data help desk presence
 1. Beyond what each organization will contribute, it is important to establish
    key contacts at those organizations to work with.
-1. With some meeting host organizations, the Virtual Data Help Desk is more
-   closely associated with a specific section or the Career Central component,
-   whereas with others it is not.
 1. If society Y is hosting a meeting, it is important to establish who at
    society Y can help with ensuring that the Data Help Desk receives prominent
    placement in any digital materials, including the main meeting website.
@@ -224,11 +214,6 @@ has_toc: false
 1. Another key role is someone at the meeting host organization who can help
    with social media coverage of your event, actively re-tweeting as you put out
    info.
-1. If the entire meeting is happening virtually, you may consider discussing
-   with the meeting host organization whether the Virtual Data Help Desk can and
-   should have a presence in the virtual platform for the meeting - this can be,
-   for example, a virtual exhibit booth. This can do a lot to increase the
-   visibility of the event.
 1. Caution should be exercised, however, when considering this option because it
    creates a private space that only meeting attendees can access and it also
    creates another place that data expert volunteers have to monitor.

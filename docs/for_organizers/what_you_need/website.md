@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Website with resources
+title: Website
 parent: What you'll need
-nav_order: 3
+nav_order: 7
 has_toc: false
 ---
 
-# Website with Resources
+# Data Help Desk Website
 
 A dedicated website serves as a central online presence for the data help desk.
 It acts as a primary access point for users seeking assistance and information.
@@ -16,22 +16,21 @@ tutorials and training resources is a key function of a data help desk,
 complementing direct question answering.
 
 <!-- prettier-ignore -->
-1. **Help desk website components**
+1. **Data help desk website components**
    - Information about the Data Help Desk: Its definition, purpose (e.g., helping researchers make data and software open and FAIR), and what it aims to accomplish.
    - How to participate: Clear instructions on how users can ask questions (e.g., via Twitter using a specific hashtag like #DataHelpDesk or through a survey form).
    - Sponsor and organizer acknowledgments: Listing the key contributing organizations like ESIP, the meeting host, and EarthCube, as well as other supporters and volunteer experts.
    - Links to the gallery of contributed resources: Providing access to demos, tutorials, and one-pagers, often hosted on platforms like YouTube and the ESIP Figshare Repository. A short URL (e.g., `http://bit.ly/DataHelpAGU20`) can be used for easier access.
    - Information for potential volunteers: Including volunteer guidelines, forms, and details on how they can contribute.
    - Contact information for further inquiries.
-   - For virtual events, the website is essential. It can also host a gallery of recorded demos, tutorials, and one-pagers.
+   - The website can host a gallery of recorded demos, tutorials, and one-pagers.
    - The website might include information on any workshops or side events associated with the Data Help Desk.
-   - For hybrid events, the website can provide information on both the virtual and physical components.
    - Consideration should be given to obtaining a short and memorable link (e.g., a bit.ly link) for the website to facilitate sharing.
    - The website manager is a key role in maintaining and updating this crucial resource.
 1. **FAQs address questions about**
    - The need for a data help desk and why instructions for setting one up are necessary.
    - The definition and goals of a data help desk.
-   - Practical aspects of setting up a help desk, such as whether it's physical or virtual, staffing, assumed knowledge levels, provider and user roles, time commitment, and cost.
+   - Practical aspects of setting up a help desk are staffing, assumed knowledge levels, provider and user roles, time commitment, and cost.
    - The types of questions users and providers might have. Common user questions include where to find or deposit data, data management plans, FAIR principles, and data citation.
    - Materials needed to set up a help desk.
    - How the success of a help desk is determined.

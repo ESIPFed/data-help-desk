@@ -2,7 +2,7 @@
 layout: page
 title: Connections needed
 parent: What you'll need
-nav_order: 5
+nav_order: 1
 has_toc: false
 ---
 
@@ -57,5 +57,5 @@ management needs.
    - Planning a special meetup with food can be an effective way to attract a crowd and encourage interaction.
    - The help desk can act as a low-barrier entry point for researchers to improve their data management practices and connect with the broader Earth science data community.
    - Offering opportunities for emerging and early career researchers to volunteer not only supports the help desk but also helps these individuals gain valuable experience, build connections, and contribute to the open science community.
-   - Consider expanding virtual post-conference support (via Slack or webinars) to enable ongoing assistance and build a continuous engagement beyond the event itself.
+   - Consider expanding post-conference support (via Slack or webinars) to enable ongoing assistance and build a continuous engagement beyond the event itself.
    - The ESIP Slack workspace itself serves as a broader community forum for networking and collaboration among Earth science data professionals.

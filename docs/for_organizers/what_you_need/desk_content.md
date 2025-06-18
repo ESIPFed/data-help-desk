@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Desk Content
+title: Content
 parent: What you'll need
-nav_order: 6
+nav_order: 5
 has_toc: false
 ---
 
-# Gather Content for the Data Help Desk
+# Content for the Data Help Desk
 
-## Content for help desk prior to conference:
+## Content for the help desk prior to the conference:
 
 This stage involves preparation to ensure the help desk is well-equipped to
 assist users.
@@ -49,7 +49,7 @@ their data more effectively and adhere to open and FAIR data principles.
 
 1. **Software and tools**
    - Providing information and access to specialized software, such as data analysis or visualization tools, is a key function of a data help desk. This includes mentioning specific software relevant to different scientific fields.
-   - The help desk can offer demos of tools and resources and direct users to helpful tutorials that highlight tools for managing data and enhancing research. A gallery of recorded demos and tutorials is crucial for virtual events.
+   - The help desk can offer demos of tools and resources and direct users to helpful tutorials that highlight tools for managing data and enhancing research.
    - Examples of software and tools that could be highlighted include:
         *   Data analysis software like R, Python, and MATLAB. The help desk can point to resources like Project Pythia for learning Python for the Geosciences and R code for data cleaning.
         *   Data visualization tools.
@@ -84,7 +84,7 @@ This focuses on making resources and expertise available to attendees.
     impact.
 -   **Experts can staff the desk** to answer questions.
 -   Offer **demos, workshops, and handouts**.
--   Create **virtual resource galleries**.
+-   Create **resource galleries**.
 -   Utilize a **large monitor/area for on-demand demos**.
 -   Have **space for handouts/flyers and a small monitor with a rotating
     slidedeck** featuring useful prompts and information.
@@ -98,7 +98,6 @@ recorded demos can have a lasting impact** beyond the conference. - Consider
 having a service **year-round** where scientists can ask data management
 questions, similar to library services. This could involve a database of expert
 contacts. - **Findings from the Data Help Desk** can be disseminated through
-webinars and reports to data-related communities. - The **virtual resource
-gallery** can serve as an archive of helpful materials. However, organizers
-should consider how to best present and curate this growing collection to ensure
-navigability.
+webinars and reports to data-related communities. - The **resource gallery** can
+serve as an archive of helpful materials. However, organizers should consider
+how to best present and curate this growing collection to ensure navigability.

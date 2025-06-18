@@ -43,15 +43,15 @@ has_toc: false
 
 ## Essential steps
 
--   [Forming an organizing committee](#forming-an-organizing-committee)
--   [Defining the purpose and scope](#defining-the-purpose-and-scope)
--   [Naming the data help desk](#naming-the-data-help-desk)
--   [Event space](#event-space-for-the-data-help-desk)
--   [Creating an advertising plan](#creating-an-advertising-plan)
--   [Recruiting and training personnel](#recruiting-and-training-personnel)
--   [Planning user interaction](#planning-user-interaction)
--   [Setting up infrastructure](#setting-up-infrastructure)
--   [Evaluating after the event](#evaluation-after-the-event)
+1. [Forming an organizing committee](#forming-an-organizing-committee)
+1. [Defining the purpose and scope](#defining-the-purpose-and-scope)
+1. [Naming the data help desk](#naming-the-data-help-desk)
+1. [Event space](#event-space-for-the-data-help-desk)
+1. [Creating an advertising plan](#creating-an-advertising-plan)
+1. [Recruiting and training personnel](#recruiting-and-training-personnel)
+1. [Planning user interaction](#planning-user-interaction)
+1. [Setting up infrastructure](#setting-up-infrastructure)
+1. [Evaluating after the event](#evaluation-after-the-event)
 
 ### Forming an Organizing Committee
 

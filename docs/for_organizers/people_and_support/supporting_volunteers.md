@@ -14,6 +14,8 @@ and reminders, and actively seeking and utilizing volunteer feedback, hosts can
 create a supportive environment that enhances the effectiveness and satisfaction
 of their data help desk volunteers.
 
+## General Support
+
 -   Ensuring that volunteers find participation to be a good and productive use
     of their time is an important undertaking because it increases the
     likelihood that they will be willing to participate again in the future.
@@ -34,14 +36,12 @@ of their data help desk volunteers.
     Twitter and post them to the Slack channel.
 -   Experts can then either respond directly on Twitter or share their answers
     in Slack for the moderator to then push back out to Twitter.
-
 -   There is the need to balance the number of question channels with the
     capacity of volunteers to monitor and respond effectively. Creating too many
     places for questions can overwhelm volunteers and lead to some inquiries
     being missed. Opt for a limited number of well-managed channels. In the
     past, a combination of one public (Twitter) and one more private (survey
     form) option has been used.
-
 -   To support volunteers in managing questions from various channels, The use
     of a backchannel communication platform like a Slack channel can be very
     helpful. This allows experts to discuss questions, triage them, and

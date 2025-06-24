@@ -2,7 +2,7 @@
 layout: page
 title: Interacting with users
 parent: For volunteers
-nav_order: 2
+nav_order: 3
 has_toc: true
 ---
 

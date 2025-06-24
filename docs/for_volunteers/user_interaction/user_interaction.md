@@ -10,11 +10,9 @@ has_toc: false
 
 The amount of time a user interacts with a help desk can vary depending on the
 complexity of their question, the type of issue they're experiencing, and the
-level of support required. By following these guidelines, you can tailor your
-help desk's response to meet the needs of each user and provide effective
-support for managing research data. Here are some general guidelines:
+level of support required.
 
-## Average interaction time
+## Average user interaction time
 
 1. **Simple questions**: 1-5 minutes (e.g., clarifying a process or providing
    basic information)
@@ -30,22 +28,18 @@ The level of detail required from a data help desk will depend on the user's
 needs and the complexity of their question. Here are some guidelines:
 
 1. **Basic information**: Provide a brief explanation, point to relevant
-   resources, or offer general guidance (e.g., "Check our FAQs for more
+   resources, or offer general guidance (e.g., "Check our Resources for more
    information.")
-2. **Step-by-step solutions**: Offer detailed instructions, including specific
-   steps and troubleshooting tips (e.g., "To resolve this issue, follow these
-   steps: [insert steps].")
-3. **In-depth explanations**: Provide a thorough explanation of the underlying
-   concepts, principles, or technical details (e.g., "This is due to [specific
-   reason]. Here's how you can fix it: [insert detailed explanation].")
-4. **Customized solutions**: Develop a tailored solution based on the user's
-   specific needs and constraints (e.g., "I've created a customized script to
-   help you with this issue.")
-5. **Technical expertise**: Provide advanced technical support, including code
-   reviews, debuggings, or expert-level troubleshooting (e.g., "This is a known
-   issue; I'll need to review your code to provide a fix.")
+2. **Step-by-step solutions**: If you have knowledge about the user's question,
+   you can give a detailed explanation, including specific steps and
+   troubleshooting tips (e.g., "To resolve this issue, follow these steps:
+   [insert steps].")
+3. **Customized solutions**: Some users have specific domain questions that may
+   not be part of resources provided. Examples are locating a data repository
+   that contains specific data the user asked about. In this case, you can refer
+   the user to a slack channel, a data expert, or answer the question yourself.
 
-## Communication with users
+## Communication skills
 
 <!-- prettier-ignore -->
 1. **Clear and Concise Explanation**

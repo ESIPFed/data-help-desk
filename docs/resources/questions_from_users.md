@@ -34,7 +34,7 @@ key areas where the community seeks support.
 
 [Software](#software)
 
-[FAIR Principles and Open Data](#fair)
+[FAIR Principles and Open Science and Data](#fair)
 
 [Data Management Plans (DMPs)](#data-plans)
 
@@ -136,8 +136,9 @@ key areas where the community seeks support.
 
 ### FAIR Principles and Open Data
 
-1. What do FAIR and open really mean?
-1. Better definition of 'accessible' in FAIR
+1. What does FAIR really mean?
+1. What is Open Science and Data?
+1. What is a better definition of 'accessible' in FAIR?
 
 <a id="data-plans"></a>
 

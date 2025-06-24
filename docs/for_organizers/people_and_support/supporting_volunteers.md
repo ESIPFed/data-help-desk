@@ -14,6 +14,16 @@ and reminders, and actively seeking and utilizing volunteer feedback, hosts can
 create a supportive environment that enhances the effectiveness and satisfaction
 of their data help desk volunteers.
 
+Volunteer satisfaction is important - we want volunteers to feel like their time
+was well spent and that they would like to participate in subsequent years.
+Being able to track views or use of their resources during the event or likely
+as a result of their event is one way to show this value.
+
+Additionally, it is good to try to be as inclusive as possible both with respect
+to volunteers and with respect to inviting questions from researchers. Careful
+thought should be given to creating a welcoming environment both in-person and
+virtually.
+
 ## General Support
 
 -   Ensuring that volunteers find participation to be a good and productive use

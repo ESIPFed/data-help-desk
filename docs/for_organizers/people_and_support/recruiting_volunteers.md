@@ -8,8 +8,11 @@ has_toc: false
 
 # Recruiting Volunteers for a Data Help Desk
 
-To recruit people with a range of career experience and data knowledge to staff
-a data help desk, you can employ several strategies.
+It's important to have a diversity of volunteers from a range of educational
+experience to staff the Help Desk, both in terms of organizations and topics
+represented. This is helpful because researcher questions can vary widely. To
+recruit people with a range of career experience and data knowledge to staff a
+data help desk, you can employ several strategies.
 
 ## Emphasize the benefits of volunteering
 

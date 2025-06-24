@@ -16,7 +16,17 @@ listen, demonstrate patience, and show empathy are all essential. Additionally,
 managing written communications effectively and using templates can help
 streamline the process and ensure consistency.
 
-## Key Points
+A comprehensive document on communication skills for interacting with people is
+the
+[Guidelines for Behavioral Performance of Reference and Information Service Providers 2023](https://www.ala.org/rusa/resources/guidelines/guidelinesbehavioral).
+The following topics are discussed: Inclusion to improve interactions,
+Approachability to start communication, Engagement skills during interactions,
+Searching for information, Evaluation of help given, and Closure for follow up
+needs. For a shortened summary of these guidelines, see
+[Data Help Desk Pro Tips from a Pro](https://zenodo.org/records/15284135), DOI:
+10.5281/zenodo.15284134.
+
+## Important Skills
 
 <!-- prettier-ignore -->
 1. **Clarity in Communication**: Help desk professionals must simplify complex
@@ -48,22 +58,22 @@ streamline the process and ensure consistency.
 ## Do's and Don'ts of Help Desk Communication
 
 -   **ALWAYS**
-    -   Ask relevant questions.
-    -   Be polite, yet concise and to the point.
+    -   Ask relevant questions to clarify what the user needs.
+    -   Be polite
+    -   Aim to be concise and to the point.
     -   Be skilled at interpreting user language to identify the actual problem.
     -   Maintain professionalism at all times.
     -   Show empathy towards the user.
-    -   Offer assistance, even if it’s outside your area.
-    -   Assure the user of your support, even if there is limited you can do.
-    -   Stay (or at least sound) positive.
+    -   Offer assistance to answer their question which includes pointing them
+        to another person or source of information.
+-   It's OK to say "I don't know the answer" and point the user towards another
+    staff member, data expert, resource web page, slack channel, etc.
 
 <!-- prettier-ignore -->
 -   **DON’T**
     -   Make the user feel stupid, unwelcome, or incompetent.
     -   Use overly technical or "geeky" language.
     -   Sound annoyed or frustrated.
-    -   Apologize excessively (instead, focus on empathizing with their
-        situation).
 
 ## Communication references
 

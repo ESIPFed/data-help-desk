@@ -1,12 +1,12 @@
 ---
 layout: page
-title: User interaction
+title: User interaction overview
 parent: Interacting with users
 nav_order: 2
 has_toc: false
 ---
 
-# User Interaction
+# User Interaction Overview
 
 The amount of time a user interacts with a help desk can vary depending on the
 complexity of their question, the type of issue they're experiencing, and the
@@ -39,7 +39,7 @@ needs and the complexity of their question. Here are some guidelines:
    that contains specific data the user asked about. In this case, you can refer
    the user to a slack channel, a data expert, or answer the question yourself.
 
-## Communication skills
+## Communicating with Users
 
 <!-- prettier-ignore -->
 1. **Clear and Concise Explanation**

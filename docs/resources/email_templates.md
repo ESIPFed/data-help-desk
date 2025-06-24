@@ -12,21 +12,21 @@ has_toc: false
 
 [Invite Planning Team](#invite-planning-team)
 
-[Volunteer Reminders & Encouragement (pre-event)]({#volunteer-reminders})
+[Volunteer Reminders & Encouragement (pre-event)](#volunteer-reminders--encouragement-pre-event)
 
-[Volunteer Reminders One week out](#volunteer-reminders-one-week)
+[Volunteer Reminders One week out](#volunteer-reminders-one-week-out)
 
-[Within Days of the Event](#within-days)
+[Volunteer Reminders Within Days of the Event](#volunteer-reminders-within-days-of-the-event)
 
-[Advertise Event to Researchers (pre-event)]({#advertise-to-researchers})
+[Advertise Event to Researchers (pre-event)](#advertise-event-to-researchers)
 
-[Encourage Volunteers (during event)](#encourage-volunteers)
+[Encourage Volunteers (during event)](#encourage-volunteers-during-event)
 
-[Post Event Thank you for Data Experts](#post-thank-you-data-experts)
+[Post Event Thank you for Data Experts](#post-event-thank-you-for-data-experts)
 
-[Post Event Thank you for Volunteers](#post-thank-you-volunteers)
+[Post Event Thank you for Volunteers](#post-event-thank-you-for-volunteers)
 
-## Solicit Volunteers {#solicit-volunteers}
+## Solicit Volunteers
 
 Still a few days left to volunteer! No mandatory time commitment - answer data
 or software questions and/or share a recorded demo or one-pager related to
@@ -60,7 +60,7 @@ demo your tool or platform!
 
 Questions? Contact megancarter@esipfed.org.
 
-## Invite Planning Team {#invite-planning-team}
+## Invite Planning Team
 
 Hi Everyone,
 
@@ -82,7 +82,7 @@ Expert" button at http://bit.ly/DataHelpAGU20 by 11/13.
 
 Thanks and have a wonderful rest of your week, Megan
 
-## Volunteer Reminders & Encouragement (pre-event) {#volunteer-reminders}
+## Volunteer Reminders & Encouragement (pre-event)
 
 2-3 weeks out
 
@@ -119,7 +119,7 @@ Best, Megan Carter on behalf of all organizers
 
 Megan Carter Orlando ESIP Community Director & Data Help Desk Coordinator
 
-## Volunteer Reminders One week out {#volunteer-reminders-one-week}
+## Volunteer Reminders One week out
 
 (Just prior to contribution deadline)
 
@@ -150,7 +150,7 @@ Thanks again for your volunteer spirit and have a wonderful rest of your week!
 
 Best, Megan
 
-## Within Days of the Event {#within-days}
+## Volunteer Reminders Within Days of the Event
 
 (just to those who said they would contribute and have not yet)
 
@@ -173,7 +173,7 @@ problem, but do let me know if there is any way I can help.
 
 Best, Megan
 
-## Advertise Event to Researchers {#advertise-to-researchers}
+## Advertise Event to Researchers
 
 (pre-event)
 
@@ -212,7 +212,7 @@ your data skills and practices!
 
 Questions? Contact megancarter@esipfed.org.
 
-## Encourage Volunteers (during event) {#encourage-volunteers}
+## Encourage Volunteers (during event)
 
 Hello Data & Software Experts,
 
@@ -243,7 +243,7 @@ Please let me know if you have any questions.
 
 Best, Megan
 
-## Post Event Thank you for Data Experts {#post-thank-you-data-experts}
+## Post Event Thank you for Data Experts
 
 Hello Data Experts,
 
@@ -273,7 +273,7 @@ event successful! Please let me know if you have any questions.
 
 Best, Megan
 
-## Post Event Thank you for Volunteers {#post-thank-you-volunteers}
+## Post Event Thank you for Volunteers
 
 Dear AGU21 Data Help Desk Volunteers,
 

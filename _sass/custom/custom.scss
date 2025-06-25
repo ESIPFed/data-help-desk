@@ -47,7 +47,16 @@
     background-image: linear-gradient(-90deg, #b2c4b5 10%, #d6e1d8 100%, rgba(239, 239, 239, 0) 10%);
 }
 
+.main-content-wrap {
+    padding-top: 0;
+    padding-bottom: $gutter-spacing-sm;
 
+    @include container;
+
+    @include mq(md) {
+        padding-top: 0;
+        padding-bottom: $gutter-spacing;
+    } }
 
 .main-content {
 
@@ -97,6 +106,10 @@
 
     h1::first-letter {
         font-size: 4.5rem;
+    }
+
+    h1:first-of-type {
+        margin-top: 0;
     }
 
     h2{

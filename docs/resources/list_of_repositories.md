@@ -8,8 +8,6 @@ has_toc: false
 
 # List of Data repositories
 
-## TODO: Clean up this list of Links that came from these resources
-
 ## Table of Contents
 
 [Earth Science data repositories](#earth-science-data-repositories)
@@ -23,6 +21,8 @@ has_toc: false
 [Global registry of data repositories](#global-registry-of-data-repositories)
 
 [Tools to find data](#tools-to-find-data)
+
+[Resource guides for data and sample sharing](#resource-guides-for-data-and-sample-sharing)
 
 ## Earth Science data repositories
 
@@ -279,22 +279,6 @@ platforms to handle huge datasets and complex analyses, thus enabling
 data-driven discovery. Our extensible platforms provide data storage,
 bioinformatics tools, data visualization, interactive analyses, cloud services,
 APIs, and more.
-
-## TODO: Clean up this list of Links that came from these resources
-
-## Division of Ocean Sciences (OCE) Data and Sample Repositories
-
-<https://new.nsf.gov/geo/oce/data-sample-repositories>
-
-## Office of Polar Programs (OPP) Data Repositories and Resources
-
-<https://new.nsf.gov/geo/opp/data-repositories#opp-funded-repositories-139>
-
-## EAR Data Management and Sharing Plan Guidance
-
-## NSF-supported resources for data deposit, discovery and access
-
-<https://new.nsf.gov/geo/ear/data-management-sharing-plans>
 
 ## Resource guides for data and sample sharing
 

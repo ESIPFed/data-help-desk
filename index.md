@@ -10,4 +10,4 @@ has_toc: false
 
 Intro text
 
-Add photo
+<img src="{{ site.baseurl }}/assets/photos/help_desk_presentation1.jpg" alt="People at a Data Help Desk presentation" width="900">

@@ -6,12 +6,12 @@ nav_order: 2
 has_toc: false
 ---
 
-# Location & infrastructure
+# Location & Infrastructure
 
 ## Locations for a Data Help Desk
 
 <!-- prettier-ignore -->
-### Table or Workstation
+### Table for a booth format
 
 -   For in-person data help desks, a physical presence like a table or booth in
     a high-traffic area is essential. The Exhibit Hall of a conference is often
@@ -25,7 +25,9 @@ has_toc: false
 -   The workstation area might also need to accommodate monitors for displaying
     demos of tools and resources on-demand.
 
-### Conference Center or Meeting Room
+<img src="{{ site.baseurl }}/assets/photos/help_desk_layout_desk_only.jpg" alt="Data Help Desk table layout" width="900">
+
+### Open space format
 
 -   While the immediate help desk interaction might occur at a table, a
     conference center or meeting room can be necessary for hosting more formal
@@ -36,10 +38,10 @@ has_toc: false
     Data Help Desk booth. The Open Science & Data Help Desk at AGU 2024 featured
     a daily 'featured demonstration hour'.
 -   These spaces allow for demos of tools and resources to a larger audience.
-    Workshops can cover key topics like data citation or creating data
-    management plans.
 
-## Infrastructure
+<img src="{{ site.baseurl }}/assets/photos/help_desk_layout_open_space.jpg" alt="Data Help Desk open space layout" width="900">
+
+## Infrastructure for a Data Help Desk
 
 ### Computers
 

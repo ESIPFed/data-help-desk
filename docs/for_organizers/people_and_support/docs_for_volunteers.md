@@ -36,7 +36,8 @@ form]({{ site.baseurl }}/assets/docs/example_volunteer_form.pdf)
 Remind & encourage volunteers, including deadlines and support provided via
 email just after the volunteer deadline.
 
-See [email templates](../../resources/email_templates.md)
+See [email
+templates]({{ site.baseurl }}{% link docs/resources/email_templates.md %})
 
 ## Volunteering form
 

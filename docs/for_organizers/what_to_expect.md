@@ -15,7 +15,7 @@ has_toc: true
     develop an overarching vision and plan for the data help desk such as key topics
     and scope in order to prepare volunteers staffing the desk and interacting with
     users and to recruit experts to give demonstrations and answer questions. See
-    the [step-by-step planning section](../step_by_step_planning.md).
+    the [step-by-step planning section]({{ site.baseurl }}{% link docs/step_by_step_planning.md %})
 
 1. **Advertising the Data Help Desk**
     - Create an advertising plan for before and during the event. his

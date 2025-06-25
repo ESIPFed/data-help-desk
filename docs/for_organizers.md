@@ -10,4 +10,4 @@ has_toc: true
 
 add blurb
 
-<img src="{{ site.baseurl }}/assets/photos/help_desk_staff.jpg" alt="Data Help Desk table with staff" width="900">
+<img src="{{ site.baseurl }}/assets/photos/help_desk_staff.jpg" alt="Data Help Desk table with staff" width="500">

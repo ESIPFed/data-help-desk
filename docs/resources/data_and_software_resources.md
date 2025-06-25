@@ -10,8 +10,6 @@ has_toc: false
 
 ## Table of Contents
 
-[Software/model-oriented resources](#softwaremodel-oriented-resources)
-
 [Websites](#websites)
 
 -   [ESIP Resources](#esip-earth-science-data-resources)
@@ -33,22 +31,14 @@ has_toc: false
 -   [USGS (United States Geological Survey) resources](#usgs-united-states-geological-survey-resources)
 -   [Education-oriented resources](#education-oriented-resources)
 
+[Software/model-oriented resources](#softwaremodel-oriented-resources)
+
 [Videos](#videos)
 
 -   [Data and Software Guidance](#data-and-software-guidance)
 -   [Videos from Previous Data Help Desks](#videos-from-previous-data-help-desks)
 
 [GitHub Repositories](#github-repositories)
-
-## Software/model-oriented resources
-
-[CIG (Computational Infrastructure for Geodynamics)](https://geodynamics.org/)
-
-[CSDMS (Community Surface Dynamics Modeling System)](https://csdms.colorado.edu/)
-
-[Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/)
-
-[Water-Organic-Rock-Microbe (WORM) portal](https://worm-portal.asu.edu/)
 
 ## Websites
 
@@ -416,6 +406,16 @@ Esip Coalition for Publishing Data in the Earth and Space Sciences (COPDESS)
 ### Education-oriented resources
 
 [SERC (Science Education Resource Center)](https://serc.carleton.edu/)
+
+## Software/model-oriented resources
+
+[CIG (Computational Infrastructure for Geodynamics)](https://geodynamics.org/)
+
+[CSDMS (Community Surface Dynamics Modeling System)](https://csdms.colorado.edu/)
+
+[Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/)
+
+[Water-Organic-Rock-Microbe (WORM) portal](https://worm-portal.asu.edu/)
 
 ## Videos
 

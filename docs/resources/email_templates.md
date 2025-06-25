@@ -6,7 +6,7 @@ nav_order: 3
 has_toc: false
 ---
 
-# Data Help Desk Email Templates
+# Email Templates for a Data Help Desk
 
 [Solicit Volunteers](#solicit-volunteers)
 

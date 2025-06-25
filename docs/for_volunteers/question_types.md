@@ -1,20 +1,21 @@
 ---
 layout: page
-title: What do users need?
+title: Question types
 parent: For volunteers
 nav_order: 2
 has_toc: false
 ---
 
-# What do Users Need From a Data Help Desk?
+# Types of Questions Asked at a Data Help Desk
 
 Students, postdocs, early career researchers, and established scientists can all
 benefit from using the output of a data help desk to manage their research
 projects, collaborate with others, and ensure the preservation and sharing of
 their research data.
 
-Users may have various questions they'd like to be addressed at a data help
-desk, including:
+A list of common questions can be found in the resources section of this
+website: [Questions from
+users]({{ site.baseurl }}{% link docs/resources/questions_from_users.md %}).
 
 1. **General inquiries**:
     - What is the purpose of the data help desk?

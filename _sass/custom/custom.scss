@@ -54,9 +54,10 @@
     @include container;
 
     @include mq(md) {
-        padding-top: 0;
+        padding-top: $gutter-spacing;
         padding-bottom: $gutter-spacing;
-    } }
+    }
+}
 
 .main-content {
 
@@ -84,7 +85,7 @@
         font-family: "Oswald";
         position: relative;
         margin-top: 1.8rem;
-        margin-bottom: 0.75em;
+        margin-bottom: 0.5em;
         color: #202020;
 
         +table,

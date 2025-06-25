@@ -9,3 +9,5 @@ has_toc: true
 # Step-By-Step Planning
 
 Add blurb
+
+<img src="{{ site.baseurl }}/assets/photos/help_desk_presentation2.jpg" alt="People at a Data Help Desk presentation" width="900">

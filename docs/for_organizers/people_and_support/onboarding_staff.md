@@ -23,34 +23,27 @@ are well-prepared to answer questions and guide researchers effectively.
 Talk about opportunities for new staff to work with experienced colleagues and
 receive guidance.
 
-<!-- prettier-ignore -->
 ## Overview of Participating
 
-1. **Job description**: A detailed explanation of the role, responsibilities,
-   and expectations.
-
-1. **Help desk policies**: An overview of the help desk's policies, procedures,
-   and guidelines for providing support.
-
+<!-- prettier-ignore -->
+1. **Job description**
+    - A detailed explanation of the role, responsibilities, and expectations.
+1. **Help desk policies**
+    - An overview of the help desk's policies, procedures, and guidelines for
+    providing support.
 1. **Highlight how Volunteers Can Participate**
-
     - Highlighting the various ways volunteers can participate, such as
       answering questions, sharing demos, or creating one-pagers, can help them
       choose roles that align with their expertise and comfort levels.
-
 1. **Communicate Support for Volunteers**
-
     - Emphasize the support available to volunteers, assuring them it's okay not
       to know every answer and that they will have the support of experienced
       professionals.
-
 1. **Volunteer Guidelines**
-
     - Providing guidelines and tips to help volunteers prepare and contribute is
       crucial. These guidelines can offer advice on how to answer questions and
       what types of information to include in resources like one-pagers or brief
       recordings.
-
 1. **Orientation Webinars**
     - Orientation webinars held ahead of time can ensure all volunteers are on
       the same page regarding the help desk's goals, procedures, and expected
@@ -58,14 +51,13 @@ receive guidance.
 
 ## Topics To Train On
 
+<!-- prettier-ignore -->
 1. **Common User Questions**
-
     - Training sessions should address common researcher questions such as data
       management best practices, where to find or deposit data, creating data
       management plans, FAIR principles, and data citation. They should also
       cover the community's areas of need, including acquiring, cleaning,
       archiving, and citing data, as well as reproducible workflows.
-
 1. **Data Management**
     - Training should cover basic data management concepts, especially since
       many researchers have little to no formal training in this area. Providing
@@ -73,37 +65,30 @@ receive guidance.
 
 ## Provide Resources to Answer User Questions
 
+<!-- prettier-ignore -->
 1. **Where to Find Answers**
-
     - Volunteers should receive information on available resources for answering
       questions, potentially including links to relevant documentation and lists
       of data experts.
-
 1. **Starter Questions**
-
     - Providing a postcard with a list of resources and potential questions
       could also be helpful.
-
     - Consider creating a starter set of question topics, specific questions,
       and answers to inform help desk volunteers.
-
     - Provide insights and findings from past Data Help Desks, including the
       types of questions asked and the level of satisfaction.
 
 ## Communicating with Users
 
+<!-- prettier-ignore -->
 1. **How to Help Users**
-
     - Training should emphasize the importance of sharing not just informatics
       but also science expertise to build trust with researchers. Volunteers
       should be encouraged to explain their understanding of good data
       management practices in a way that resonates with researchers.
-
     - Training can also highlight effective ways to present content at a data
       help desk, such as demos, workshops, and handouts.
-
 1. **Communication Skills**
-
     - Training on effective communication, active listening, and conflict
       resolution.
     - Emphasis on building rapport with users, understanding their needs, and

@@ -18,7 +18,7 @@ By engaging with domain experts, researchers gain valuable knowledge and skills
 in data management, open science principles, and the FAIR framework—ensuring
 their data and software are Findable, Accessible, Interoperable, and Reusable.
 
-The Data Help Desk plays a vital role in:
+## The Data Help Desk plays a vital role in
 
 -   Empowering researchers to effectively manage and share their data.
 -   Promoting standardized, reproducible workflows and tools.
@@ -43,70 +43,104 @@ include:
 
 -   Live demos
 -   Informational one-pagers
--   Location of resources
+-   Giving locations of resources
 
-An organizing committee is needed to plan and recruit volunteers to staff the
-data help desk. The committee reserves space for a table at a conference or
+A core organizing committee is needed to plan and recruit volunteers to staff
+the data help desk. The committee reserves space for a table at a conference or
 other event for the data help desk, and optionally space for presentations and
 town-hall discussions. In addition to space and personnel, there are needs for
 resources to help volunteers answer questions and resources to refer users to.
-Detailed steps can be found in the [Step-by-Step
+
+**Detailed steps** can be found in the [Step-by-Step
 Section]({{ "/docs/step_by_step/" | relative_url }}).
 
-## Benefits of a Data Help Desk
+## Key Objectives to Host a Data Help Desk
 
-A well-implemented data help desk can:
+<!-- prettier-ignore -->
+1. **Address Community Needs**
+    - The help desk highlights the specific areas
+    where the community needs support, such as acquiring, cleaning, archiving,
+    and citing data, understanding FAIR principles, and working with
+    reproducible workflows. It acts as a low-barrier entry point for researchers
+    seeking to improve their data management practices.
+1. **Disseminate Knowledge and Resources**
+    - It provides a venue to disseminate
+    valuable resources, tools, and workflows to a wide audience. This can
+    include demonstrating tools, sharing information on data repositories, or
+    explaining concepts like data management plans.
+1. **Gather Insights for Service Improvement**
+    - Observing and assessing the
+    questions asked provides valuable insights into users' needs and informs
+    future data products, tools, services, and training. This understanding can
+    improve existing services and help anticipate user needs for the usability
+    design of other data products and tools. Transaction analysis also offers
+    feedback on how to improve the question and answering process itself.
+1. **Inform Staffing Models**
+    - The data collected from interactions can help
+    inform a staffing model for future information services for science data,
+    potentially including year-round services like chat or email assistance.
+1. **Increase Visibility and Promote Initiatives**
+    - Hosting the help desk,
+    especially at a prominent location like an exhibit hall, increases the
+    visibility of the organizing entities and their commitment to open science
+    and FAIR data. It allows them to promote their programs and resources.
+1. **Support and Engage Volunteers**
+    - A data help desk provides a venue for
+    experts to share their knowledge and resources. The help desk provides a
+    structured way for experts to contribute to the community through
+    presentations and interacting with users.
 
--   **Boost researcher productivity**: Reduces time spent on complex data tasks,
-    allowing more focus on research.
--   **Improve data quality and consistency**: Encourages use of standards and
-    proper documentation.
--   **Enhance collaboration**: Facilitates data sharing and communication with
-    collaborators and institutions.
--   **Support long-term data accessibility**: Helps ensure that datasets remain
-    usable and accessible over time.
--   **Build research community engagement**: Encourages knowledge sharing and
-    peer support among researchers.
+## Key Needs to Host a Data Help Desk
 
-## Reasons to Host a Data Help Desk
+<!-- prettier-ignore -->
+1. **A dedicated core organizing team**
+    - A group responsible for planning,
+   coordinating, and executing all aspects of the Data Help Desk.
+1. **Domain experts**
+    - Volunteers with specialized knowledge in relevant scientific
+   fields who can provide credible and targeted support to researchers.
+1. **Diverse volunteers**
+    - Contributors from a range of organizational and
+   disciplinary backgrounds who bring varied expertise to the help desk.
+1. **A strong advertising strategy**
+    - A plan to promote the help desk through
+   web content, social media, and conference presentations. This includes having
+   a clearly marked and visible location at the venue.
+1. **Available resources**
+    - A collection of materials such as handouts, flyers,
+   slide decks, and asynchronous content like recorded demos and tutorials.
+1. **Demonstration of tools and platforms**
+    - Live or recorded sessions that
+   showcase relevant tools and workflows researchers can use to improve data
+   management and research outcomes.
+1. **Support for data-related questions**
+    - Guidance for researchers on a wide
+   range of data issues, including finding, sharing, analyzing, publishing,
+   citing, and archiving data and software.
+1. **Education on FAIR principles**
+    - Information and support to help researchers
+   understand and implement FAIR (Findable, Accessible, Interoperable, and
+   Reusable) data principles in their work.
+1. **Promotion of open science practices**
+    - Encouragement and resources to help
+   researchers meet expectations for open data and software, often in
+   collaboration with Open Science Pavilions at conferences.
+1. **Guidance on data management**
+    - Support with creating data management plans,
+   choosing repositories, managing metadata, and citing data appropriately.
+1. **Opportunities for expert connection**
+    - A venue for researchers to engage
+   directly with data professionals for tailored advice and collaboration.
+1. **Response to community needs**
+    - An approach that identifies and addresses the
+   most pressing data challenges in the research community, such as cleaning,
+   archiving, and citing data.
+1. **Support for all knowledge levels**
+    - Resources and assistance that
+   accommodate researchers with varying levels of experience in data management,
+   from novices to seasoned professionals.
 
-### Researchers Need a Data Help Desk
-
-Researchers face numerous challenges when managing their data:
-
--   **Complexity and scale of datasets**: Research data can be large, diverse,
-    and technically complex, requiring specialized tools and approaches.
--   **Lack of data management expertise**: Many researchers are unfamiliar with
-    best practices in metadata standards, repository selection, and preservation
-    strategies.
--   **Time-intensive data tasks**: Curation, annotation, validation, and other
-    data management activities are often laborious and distract from core
-    research.
--   **Challenges in data sharing and collaboration**: Effective data exchange
-    with collaborators or institutions is often hindered by technical or
-    procedural gaps.
--   **Ensuring long-term preservation and access**: Sustainable data archiving
-    for future use is a critical need that many researchers find difficult to
-    address alone.
-
-### What does a Data Help Desk Provide?
-
-Data help desks offer services to address these challenges:
-
--   **Expert advice and tailored support**: Domain experts guide researchers
-    through data management issues, including sharing strategies and repository
-    use.
--   **Efficient workflows and best practices**: Help desks recommend time-saving
-    approaches and streamline data handling tasks.
--   **Standardization and improved data quality**: By promoting consistent use
-    of metadata standards and formats, help desks improve data quality and
-    interoperability.
--   **Support for collaboration and sharing**: Researchers receive assistance in
-    effective data sharing and collaborative project workflows.
--   **Curation and long-term preservation**: Help desks provide information on
-    how to properly document, validate, and preserve datasets for future use.
-
-## Who Staffs a Data Help Desk?
+## Volunteers are the backbone of a Data Help Desk
 
 Volunteers staff a data help desk and this includes students, early-career, and
 established researchers. General staff volunteers help with one-on-one
@@ -123,8 +157,10 @@ resource locations, or demos. These resources help researchers—especially
 students and early-career scientists—understand and adopt practices that make
 their data more FAIR and their research more impactful.
 
-Staff provide expertise that covers a wide range of data-related topics relevant
-to researchers, including:
+### Expertise provided by volunteers
+
+Volunteers provide expertise that covers a wide range of data-related topics
+relevant to researchers, including:
 
 -   Finding data.
 -   Sharing data.

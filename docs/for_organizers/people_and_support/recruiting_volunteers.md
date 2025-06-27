@@ -128,24 +128,30 @@ data help desk, you can employ several strategies.
 
 ## Devlop guidelines clarifying what to expect when volunteering
 
-1. Develop Volunteer Guidelines that clarify opportunities and expectations,
+<!-- prettier-ignore -->
+1. **Develop Volunteer Guidelines**
+   - The guidelines should clarify opportunities and expectations,
    provide guidance on preparing to answer questions and contributing resources,
    and include a link to a code of conduct.
-1. Welcome Volunteers with Different Levels of Familiarity: Explicitly state
+1. **Welcome Volunteers with Different Levels of Familiarity**
+   - Explicitly state
    that volunteers can contribute even if they are only familiar with using
    specific resources or projects, not just those they directly work on. This
    acknowledges that a range of perspectives and levels of expertise can be
    valuable.
-1. Establish a Question Referral System: Implement a system where volunteers who
+1. **Establish a Question Referral System**
+   - Implement a system where volunteers who
    are unsure of an answer can refer questions to more specialized experts. This
    allows volunteers with less in-depth knowledge to still contribute by
    connecting users with the right resources. The #datahelpdesk-experts Slack
    channel can facilitate this backchannel communication.
-1. Provide Volunteer Guidelines and Support: Offer clear volunteer guidelines
+1. **Provide Volunteer Guidelines and Support**
+   - Offer clear volunteer guidelines
    that explain the different ways to contribute and provide support. Emphasize
    that it's okay not to know every answer and that the goal is to help guide
    researchers. Offer orientation webinars to ensure everyone is prepared.
-1. Clearly Communicate Expectations and Time Commitment: Be transparent about
+1. **Clearly Communicate Expectations and Time Commitment**
+   - Be transparent about
    the level of commitment required for different volunteer roles. This allows
    individuals to choose roles that align with their availability and comfort
    level.
@@ -165,7 +171,6 @@ data help desk, you can employ several strategies.
 1. [Volunteer for the Open Science & Data Help Desk at EGU
    2024]({{ site.baseurl }}/assets/docs/Volunteer for the Open Science & Data
    Help Desk at EGU 2024.pdf)
-
 1. [Volunteer for the Open Science & Data Help Desk at EGU
    2025]({{ site.baseurl }}/assets/docs/Volunteer for the Open Science & Data
    Help Desk at EGU 2025.pdf)

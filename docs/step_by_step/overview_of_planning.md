@@ -10,43 +10,45 @@ has_toc: false
 
 ## Start Planning Early
 
--   **Timeline for planning:** Planning a data help desk should ideally begin at
-    least **3 months before the event** by
-    [forming an organizing committee](#forming-an-organizing-committee). This
-    allows sufficient time for organizing a data help desk, recruiting
-    volunteers to staff it, and advertising the data help desk.
--   **Items to plan for include:**
-    [defining the purpose and scope](#defining-the-purpose-and-scope) of the
-    data help desk, [what to name the desk](#naming-the-data-help-desk) to
-    identify collaborators, and the
-    [location of the data help desk](#event-space-for-the-data-help-desk).
--   **Advertising:**
-    [Creating an advertising plan](#creating-an-advertising-plan) is crucial to
-    announce the desk ahead of the meeting and during the meeting.
--   **Recruiting:**
-    [Recruiting and training volunteers](#recruiting-and-training-personnel) to
-    staff the desk along with experts are essential to a successful data help
-    desk. This must begin early to allow volunteers and experts to learn about
-    the data help desk event and make plans for attending the event to staff it.
-    Providing volunteer guidelines and training for the staff will also need to
-    be completed before the data help desk event.
--   **Plan user interaction:**
-    [Planning user interaction](#planning-user-interaction) at the data help
-    desk such as content to present and how to answer user questions must be
-    done ahead of time.
--   **Infrastructure:** [Setting up infrastructure](#setting-up-infrastructure)
-    can be overlooked but it helps immensely to schedule staff, provide content
-    to users, and track user interactions.
--   **Evaluation:** Don't forget to take time to
-    [evaluate the success](#evaluating-after-the-event) of the data help desk
-    and what to improve in the future.
+<!-- prettier-ignore -->
+1. **Timeline for planning**
+    - Planning a data help desk should ideally begin at least **3 months before the
+event** by [forming an organizing committee](#forming-an-organizing-committee).
+This allows sufficient time for organizing a data help desk, recruiting
+volunteers to staff it, and advertising the data help desk.
+1. **Items to plan for include**
+    - [defining the purpose and scope](#defining-the-purpose-and-scope) of the data
+help desk, [what to name the desk](#naming-the-data-help-desk) to identify
+collaborators, and the
+[location of the data help desk](#event-space-for-the-data-help-desk).
+1. **Advertising**
+    - [Creating an advertising plan](#creating-an-advertising-plan) is crucial to
+announce the desk ahead of the meeting and during the meeting.
+1. **Recruiting**
+    - [Recruiting and training volunteers](#recruiting-and-training-personnel) to
+staff the desk along with experts are essential to a successful data help desk.
+This must begin early to allow volunteers and experts to learn about the data
+help desk event and make plans for attending the event to staff it. Providing
+volunteer guidelines and training for the staff will also need to be completed
+before the data help desk event.
+1. **Planning user interaction**
+    - [Planning user interaction](#planning-user-interaction) at the data help desk
+such as content to present and how to answer user questions must be done ahead
+of time.
+1. **Infrastructure**
+    - [Setting up infrastructure](#setting-up-infrastructure) can be overlooked but it
+helps immensely to schedule staff, provide content to users, and track user
+interactions.
+1. **Evaluation**
+    - Don't forget to take time to [evaluate the success](#evaluating-after-the-event)
+of the data help desk and what to improve in the future.
 
 ## Essential steps
 
 1. [Forming an organizing committee](#forming-an-organizing-committee)
 1. [Defining the purpose and scope](#defining-the-purpose-and-scope)
 1. [Naming the data help desk](#naming-the-data-help-desk)
-1. [Event space](#event-space-for-the-data-help-desk)
+1. [Reserving event space](#reserving-event-space-for-the-data-help-desk)
 1. [Creating an advertising plan](#creating-an-advertising-plan)
 1. [Recruiting and training personnel](#recruiting-and-training-personnel)
 1. [Planning user interaction](#planning-user-interaction)
@@ -57,6 +59,7 @@ has_toc: false
 
 ([See detailed steps](./detailed_planning_steps.md/#forming-an-organizing-committee))
 
+<!-- prettier-ignore -->
 1.  **Form a Dedicated Organizing Committee**
     -   It is essential to have a core group of dedicated organizers who meet
         regularly for planning and advertising purposes. A committee of 5-10 key
@@ -118,7 +121,7 @@ has_toc: false
     -   Find out the non-negotiables if considering an organization, such as
         ESIP, to be involved or endorse the data help desk event.
 
-### Event Space for the Data Help Desk
+### Reserving Event Space for the Data Help Desk
 
 ([See detailed steps](./detailed_planning_steps.md/#event-space-for-the-data-help-desk))
 

@@ -50,6 +50,6 @@ Example general data topics to provide help with are General Data Management,
 Information Management, Metadata, Data Repositories, Programming, Data
 Publication, Data Visualization, Data Analysis, Data Management Plans.
 
-To volunteer, please complete the volunteer form \<link to the form\>, as soon
-as possible by Dec. 3rd, 2021. Learn more about specific options for
-participating in the volunteer guidelines \link to the guidelines\>.
+To volunteer, please complete the volunteer form \<give link to the form\>, as
+soon as possible by Dec. 3rd, 2021. Learn more about specific options for
+participating in the volunteer guidelines \<give link to the guidelines\>.

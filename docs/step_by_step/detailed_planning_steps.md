@@ -76,7 +76,7 @@ overall goals of the conference.
     >
     > Thank you for your time and assistance."
 1. **Create an Internal Communication Plan for the Committee**
-    - **Add content**
+    - **TODO**: add content
 
 ## Defining the Purpose and Scope
 

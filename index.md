@@ -8,7 +8,8 @@ has_toc: false
 
 # Hosting a Data Help Desk
 
-<img src="{{ site.baseurl }}/assets/photos/help_desk_presentation1.jpg" alt="People at a Data Help Desk presentation" width="700">
+<img class="full-width-img" src="{{ site.baseurl }}/assets/photos/help_desk_presentation1.jpg" alt="People at a Data Help Desk presentation">
+
 
 A data help desk is a service designed to assist researchers with their
 questions and needs related to research data management. It encompases the

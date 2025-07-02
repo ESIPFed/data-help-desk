@@ -61,227 +61,235 @@
 }
 
 .main-content {
+  line-height: 1.8rem;
 
-    line-height: 1.8rem;
+  // =========================
+  // Typography: Inline text
+  // =========================
+  b,
+  strong {
+    font-weight: bolder;
+    font-family: "Inter", sans-serif;
+    font-size: 1.1rem;
+  }
 
-    b,
-    strong {
-        font-weight: bolder;
-        font-family: "Inter", sans-serif;
-        font-size: 1.1rem;
+  p {
+    font-size: 1rem;
+  }
+
+  // =========================
+  // Typography: Headings
+  // =========================
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  #toctitle {
+    font-family: "Inter", sans-serif;
+    position: relative;
+    margin-top: 1.8rem;
+    margin-bottom: 0.5em;
+    color: #202020;
+
+    // Add spacing above elements that directly follow a heading
+    + table,
+    + .table-wrapper,
+    + .code-example,
+    + .highlighter-rouge,
+    + .sectionbody .listingblock {
+      margin-top: 1em;
     }
 
-    p {
-        font-size: 1rem;
+    + p:not(.label) {
+      margin-top: 0;
     }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    #toctitle {
-        font-family: "Inter", sans-serif;
-        position: relative;
-        margin-top: 1.8rem;
-        margin-bottom: 0.5em;
-        color: #202020;
-
-        +table,
-        +.table-wrapper,
-        +.code-example,
-        +.highlighter-rouge,
-        +.sectionbody .listingblock {
-            margin-top: 1em;
-        }
-
-        +p:not(.label) {
-            margin-top: 0;
-        }
-    }
+  }
 
     h1 {
-        color: #323b46;
-    }
-
-    h1:first-of-type {
+      color: #323b46;
+    
+      &:first-of-type {
         margin-top: 0;
+        text-align: center;
+        font-size: 2.7rem !important;
+      }
     }
 
-    h2{
-        padding: 1.3rem;
-        background-color: #eaeaea;
-    }
+    @media (max-width: 49rem) {
+      h1:first-of-type {
+        margin-top: 2rem !important;
+      }
+    } 
+    
+  h2 {
+    padding: 1.3rem;
+    background-color: #eaeaea;
+  }
 
-    >h1:first-child,
-    >h2:first-child,
-    >h3:first-child,
-    >h4:first-child,
-    >h5:first-child,
-    >h6:first-child,
-    >.sect1:first-child>h2,
-    >.sect2:first-child>h3,
-    >.sect3:first-child>h4,
-    >.sect4:first-child>h5,
-    >.sect5:first-child>h6 {
-        margin-top: $sp-2;
-    }
+  // Remove excess margin above first heading on page
+  > h1:first-child,
+  > h2:first-child,
+  > h3:first-child,
+  > h4:first-child,
+  > h5:first-child,
+  > h6:first-child,
+  > .sect1:first-child > h2,
+  > .sect2:first-child > h3,
+  > .sect3:first-child > h4,
+  > .sect4:first-child > h5,
+  > .sect5:first-child > h6 {
+    margin-top: $sp-2;
+  }
 
-    ul,
-    ol {
-        padding-left: 1.5em;
-    }
+  // =========================
+  // Lists: Base
+  // =========================
+  ul,
+  ol {
+    padding-left: 1.5em;
+  }
 
-    li {
-        .highlight {
-            margin-top: $sp-1;
-        }
-    }
+  // =========================
+  // Unordered Lists
+  // =========================
+  ul {
+    list-style: none;
 
-    ul {
-        list-style: none;
+    > li {
+      padding-bottom: 0.5rem;
 
-        >li {
-            &::before {
-                position: absolute;
-                font-size: 1rem;
-                margin-left: -1.4em;
-                color: #c14d1a;
-                content: "●";
-                line-height: inherit;
-            }
-        }
-    }
-
-    ol {
-        list-style: none;
-        counter-reset: step-counter;
-        padding-left: 4rem;
-
-        >li {
-            margin: 0 0 1rem 0;
-            position: relative;
-            padding-left: 0.25rem;
-            padding-top: 0.1rem;
-            padding-bottom: 0.5rem;
-
-            &::before {
-                content: counter(step-counter);
-                counter-increment: step-counter;
-                color: #576677;
-                position: absolute;
-                --size: 2rem;
-                left: calc(-1 * var(--size) - 10px);
-                //line-height: var(--size);
-                line-height: inherit;
-                width: var(--size);
-                height: var(--size);
-                top: 0;
-                background: #dde7f2;
-                border-radius: 50%;
-                text-align: center;
-                @include fs-3;
-
-                @include mq(sm) {
-                    top: 0.11em;
-                }
-            }
-
-            ol {
-                counter-reset: sub-counter;
-
-                >li {
-                    &::before {
-                        counter-increment: sub-counter;
-                        content: counter(sub-counter, lower-alpha);
-                    }
-                }
-            }
-        }
-    }
-
-    ul > li {
-        padding-bottom: 0.5rem;
-    }
-
-    ol > li > ul > li {
-        padding-bottom: 0.5rem;
-    }
-
-    // ul:has(li:only-child) {
-    //     padding-left: 0;
-    // }
-
-    ol > li > ul {
+      // Remove dot and padding if only one item
+      &:only-child {
         padding-left: 0;
-    }
 
-    ol > li > ul > li:only-child {
-        padding-left: 0;
-    }
-
-    ol > li > ul > li {
-        padding-left: 1.5rem;
-    }
-
-    ul > li:only-child {
-        padding-left: 0;
         &::before {
-            content: none;
+          content: none;
         }
+      }
+
+      &::before {
+        content: "●";
+        position: absolute;
+        font-size: 1rem;
+        margin-left: -1.4em;
+        color: #c14d1a;
+        line-height: inherit;
+      }
     }
+  }
 
-    // ol > li > ul > li:only-child {
-    //     &::before {
-    //         content: none;
-    //     }
-    // }
+  // =========================
+  // Ordered Lists
+  // =========================
+  ol {
+    list-style: none;
+    counter-reset: step-counter;
+    padding-left: 4rem;
 
-    a {
-        color: #11809a;
-    }
+    > li {
+      margin: 0 0 1rem 0;
+      position: relative;
+      padding: 0.1rem 0 0.5rem 0.25rem;
 
-    a:hover {
-        color: #3ba1b9;
-    }
+      // Step circle number
+      &::before {
+        content: counter(step-counter);
+        counter-increment: step-counter;
+        color: #576677;
+        position: absolute;
+        --size: 2rem;
+        left: calc(-1 * var(--size) - 10px);
+        line-height: inherit;
+        width: var(--size);
+        height: var(--size);
+        top: 0;
+        background: #dde7f2;
+        border-radius: 50%;
+        text-align: center;
+        @include fs-3;
 
-    a:not([class]) {
-        text-decoration: underline;
-        text-decoration-color: #11809a;
-        text-underline-offset: 2px;
-
-        &:hover {
-            text-decoration-color: #3ba1b9;
-            text-decoration-thickness: 0.1rem;
+        @include mq(sm) {
+          top: 0.11em;
         }
+      }
+
+      // Nested ordered list (e.g. a > b > c)
+      ol {
+        counter-reset: sub-counter;
+
+        > li::before {
+          counter-increment: sub-counter;
+          content: counter(sub-counter, lower-alpha);
+        }
+      }
+
+      // Nested unordered list
+      > ul {
+        padding-left: 0;
+
+        > li {
+          padding-left: 1.5rem;
+
+          &:only-child {
+            padding-left: 0;
+          }
+        }
+      }
+    }
+  }
+
+  // =========================
+  // Code Highlight Blocks in List Items
+  // =========================
+  li .highlight {
+    margin-top: $sp-1;
+  }
+
+  // =========================
+  // Links
+  // =========================
+  a {
+    color: #11809a;
+
+    &:hover {
+      color: #3ba1b9;
     }
 
-    blockquote {
-        margin: 10px 0;
-        // resets user-agent stylesheets for blockquotes
-        margin-block-start: 0;
-        margin-inline-start: 1rem;
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-        padding-left: 1rem;
-        border: 2px solid #e1e1e1;
-        background-color: #f9f9f9;
-        width: 90%;
-        padding: 1.1rem;
+    &:not([class]) {
+      text-decoration: underline;
+      text-decoration-color: #11809a;
+      text-underline-offset: 2px;
 
-        >p {
-            font-size: 1.1rem;
-            font-style: italic;
-        }
+      &:hover {
+        text-decoration-color: #3ba1b9;
+        text-decoration-thickness: 0.1rem;
+      }
+    }
+  }
 
-        ul:has(li:only-child) {
-            padding-left: 1.5em;
-        }
+  // =========================
+  // Blockquotes
+  // =========================
+  blockquote {
+    margin: 2rem 0;
+    padding: 1.1rem 1rem;
+    border: 2px solid #e1e1e1;
+    background-color: #f9f9f9;
+    width: 90%;
 
+    > p {
+      font-size: 1.1rem;
+      font-style: italic;
     }
 
+    ul:has(li:only-child) {
+      padding-left: 1.5em;
+    }
+  }
 }
+
 
 
 .pili-button-orange {
@@ -326,19 +334,40 @@
 
 .full-width-img {
   display: block;
-  width: calc(100% + 3rem);   // If padding is 1.5rem on each side
+  width: calc(100% + 2 * #{$gutter-spacing});
   max-width: none;
-  margin-left: -1.5rem;
-  margin-right: -1.5rem;
-  height: 300px;
+  margin-left: -#{$gutter-spacing};
+  margin-right: -#{$gutter-spacing};
+  height: 375px;
   object-fit: cover;
   object-position: center;
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
 
-  @include mq(md) {
-    width: calc(100% + 4rem);   // If padding is 2rem on desktop
-    margin-left: -2rem;
-    margin-right: -2rem;
+.site-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.site-logo {
+  display: block;
+  height: auto;
+  width: auto;
+  max-height: 3rem;
+
+  @include mq(sm) {
+    max-height: 2.5rem;
+  }
+}
+
+.breadcrumb-nav-list a {
+  color: #27262b;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+    color: #3ba1b9;
   }
 }

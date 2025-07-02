@@ -15,7 +15,7 @@ has_toc: false
 
 ## Advertising Materials and Branding
 
-<img src="{{ site.baseurl }}/assets/photos/signs_and_stickers.jpg" alt="Data Help Desk sign and stickers" width="900">
+<img class="full-width-img" src="{{ site.baseurl }}/assets/photos/signs_and_stickers.jpg" alt="Data Help Desk sign and stickers" width="900">
 
 ### Promotional Materials
 

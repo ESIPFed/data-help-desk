@@ -25,7 +25,7 @@ has_toc: false
 -   The workstation area might also need to accommodate monitors for displaying
     demos of tools and resources on-demand.
 
-<img src="{{ site.baseurl }}/assets/photos/help_desk_layout_desk_only.jpg" alt="Data Help Desk table layout" width="900">
+<img class="full-width-img" src="{{ site.baseurl }}/assets/photos/help_desk_layout_desk_only.jpg" alt="Data Help Desk table layout" width="900">
 
 ### Open space format
 
@@ -39,7 +39,7 @@ has_toc: false
     a daily 'featured demonstration hour'.
 -   These spaces allow for demos of tools and resources to a larger audience.
 
-<img src="{{ site.baseurl }}/assets/photos/help_desk_layout_open_space.jpg" alt="Data Help Desk open space layout" width="900">
+<img class="full-width-img" src="{{ site.baseurl }}/assets/photos/help_desk_layout_open_space.jpg" alt="Data Help Desk open space layout" width="900">
 
 ## Infrastructure for a Data Help Desk
 

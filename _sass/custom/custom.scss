@@ -298,7 +298,7 @@
     border-color: #c14d1a;
     border-radius: 100px;
     border-width: 1px;
-    color: #fff;
+    color: #fff !important;
     cursor: pointer;
     display: inline-block;
     font-family: "Inter", "sans-serif";
@@ -310,6 +310,7 @@
     text-align: center;
     text-decoration: none;
     width: 100%;
+    max-width: 15rem;
 }
 
 .pili-button-blue {
@@ -318,7 +319,7 @@
     border-color: #3ba1b9;
     border-radius: 100px;
     border-width: 1px;
-    color: #fff;
+    color: #fff !important;
     cursor: pointer;
     display: inline-block;
     font-family: "Inter", "sans-serif";
@@ -330,6 +331,13 @@
     text-align: center;
     text-decoration: none;
     width: 100%;
+    max-width: 15rem;
+}
+
+.button-row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: nowrap;
 }
 
 .full-width-img {

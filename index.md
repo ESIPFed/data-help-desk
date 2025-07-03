@@ -16,8 +16,8 @@ has_toc: false
 ## Diving Right In?
 
 <div class="button-row" style="justify-content: space-evenly; margin-top: 2rem;">
-  <a href="{{ site.baseurl }}/docs/for_organizers" class="pili-button-blue">Organizers</a>
-  <a href="{{ site.baseurl }}/docs/for_volunteers" class="pili-button-orange">Volunteers</a>
+  <a href="{{ site.baseurl }}/docs/for_organizers" class="pili-button-blue">For Organizers</a>
+  <a href="{{ site.baseurl }}/docs/for_volunteers" class="pili-button-orange">For Volunteers</a>
 </div>
 
 ---

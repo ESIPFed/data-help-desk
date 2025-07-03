@@ -22,7 +22,7 @@ domain: lmerchant.github.io # if you want to force HTTPS, specify the domain wit
 url: https://lmerchant.github.io # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /data-help-desk/ # place folder name if the site is served in a subfolder
 
-title: Host a Data Help Desk
+title: Data Help Desk Playbook
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     Learn how to setup and run a data help desk.

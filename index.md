@@ -11,13 +11,13 @@ has_toc: false
   A practical guide for planning, staffing, and running a Data Help Desk
 </p>
 
-<img class="full-width-img" src="{{ site.baseurl }}assets/photos/help_desk_presentation1.jpg" alt="People at a Data Help Desk presentation">
+<img class="full-width-img" src="{{ site.baseurl }}/assets/photos/help_desk_presentation1.jpg" alt="People at a Data Help Desk presentation">
 
 ## Diving Right In?
 
 <div class="button-row" style="justify-content: space-evenly; margin-top: 2rem;">
-  <a href="{{ site.baseurl }}docs/for_organizers" class="pili-button-blue">Organizers</a>
-  <a href="{{ site.baseurl }}docs/for_volunteers" class="pili-button-orange">Volunteers</a>
+  <a href="{{ site.baseurl }}/docs/for_organizers" class="pili-button-blue">Organizers</a>
+  <a href="{{ site.baseurl }}/docs/for_volunteers" class="pili-button-orange">Volunteers</a>
 </div>
 
 ---
@@ -29,16 +29,16 @@ A Data Help Desk is a service designed to support researchers with data-related 
 <div class="full-width-blue" style="display: flex; flex-direction: column; align-items: center; padding: 1.5rem 1.5rem;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem;">
     <a href="https://www.agu.org/" target="_blank" style="display: inline-block;">
-      <img src="{{ site.baseurl }}assets/logos/AGU_logo_white.png" alt="AGU" style="height: 5rem;">
+      <img src="{{ site.baseurl }}/assets/logos/AGU_logo_white.png" alt="AGU" style="height: 5rem;">
     </a>
     <a href="https://www.egu.eu/" target="_blank" style="display: inline-block;">
-      <img src="{{ site.baseurl }}assets/logos/EGU_logo_white.png" alt="EGU" style="height: 5rem;">
+      <img src="{{ site.baseurl }}/assets/logos/EGU_logo_white.png" alt="EGU" style="height: 5rem;">
     </a>
     <a href="https://www.ametsoc.org/" target="_blank" style="display: inline-block;">
-      <img src="{{ site.baseurl }}assets/logos/AMS-white.png" alt="AMS" style="height: 5rem;">
+      <img src="{{ site.baseurl }}/assets/logos/AMS-white.png" alt="AMS" style="height: 5rem;">
     </a>
     <a href="https://www.geosociety.org/" target="_blank" style="display: inline-block;">
-      <img src="{{ site.baseurl }}assets/logos/GSA_logo3R_wht.png" alt="GSA" style="height: 5rem;">
+      <img src="{{ site.baseurl }}/assets/logos/GSA_logo3R_wht.png" alt="GSA" style="height: 5rem;">
     </a>
   </div>
 
@@ -63,7 +63,7 @@ Organizations host **Data Help Desks** to meet the growing need for expert suppo
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; max-width: 900px; padding-left: 5rem; padding-right: 5rem;">
 
-    <a href="{{ site.baseurl }}docs/for_organizers" class="playbook-link">
+    <a href="{{ site.baseurl }}/docs/for_organizers" class="playbook-link">
       <svg xmlns="http://www.w3.org/2000/svg" style="height: 4rem;" viewBox="0 0 384 512">
         <path d="M192 0c-41.8 0-77.4 26.7-90.5 64L64 64C28.7 64 0 92.7 0 128L0 448c0 35.3 28.7 64 64 64l256 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64l-37.5 0C269.4 26.7 233.8 0 192 0zm0 64a32 32 0 1 1 0 64 32 32 0 1 1 0-64zM112 192l160 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-160 0c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/>
       </svg>

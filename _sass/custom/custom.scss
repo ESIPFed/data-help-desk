@@ -313,6 +313,11 @@
     max-width: 15rem;
 }
 
+.pili-button-orange:hover {
+    background-color: #e66025;
+    border-color: #e66025;
+}
+
 .pili-button-blue {
     transition: all 300ms;
     background-color: #3ba1b9;
@@ -332,6 +337,38 @@
     text-decoration: none;
     width: 100%;
     max-width: 15rem;
+}
+
+.pili-button-blue:hover {
+    background-color: #9accdc;
+    border-color: #9accdc;
+}
+
+.pili-button-white {
+    transition: all 300ms;
+    background-color: transparent;
+    border-color: #0f2943;
+    border-style: solid;
+    border-radius: 100px;
+    border-width: 1px;
+    color: #0f2943 !important;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Inter", "sans-serif";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: normal;
+    outline: none;
+    padding: 14px 26px;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    max-width: 15rem;
+}
+
+.pili-button-white:hover {
+    color: #e66025 !important;
+    border-color: #e66025;
 }
 
 .button-row {

@@ -31,7 +31,7 @@ Desk events at conferences.
 
 <div class="button-row">
   <a href="https://www.esipfed.org/collaboration-areas/data-help-desk/" class="pili-button-blue">Cluster Collaboration Area</a>
-  <a href="https://www.esipfed.org/data-help-desk/" class="pili-button-blue">Data Help Desk Information</a>
+  <a href="https://www.esipfed.org/data-help-desk/" class="pili-button-white">ESIP Data Help Desk Page</a>
 </div>
 
 **Contact Information**
@@ -59,9 +59,9 @@ Desk events at conferences.
 For general inquiries about ESIP or if you're unsure where to start:
 
 <div class="button-row">
-  <a href="https://www.esipfed.org/contact-us" class="pili-button-blue">Contact ESIP Staff</a>
-  <a href="mailto:staff@esipfed.org" class="pili-button-blue">Email ESIP Staff</a>
-  <a href="https://esip-all.slack.com/join/shared_invite/zt-26hvelg92-P_8k3S1FqiiXJhZ~_L~m4A#/shared-invite/email" class="pili-button-blue">Join the Slack</a>
+  <a href="https://www.esipfed.org/contact-us" class="pili-button-orange">Contact ESIP Staff</a>
+  <a href="mailto:staff@esipfed.org" class="pili-button-white">Email ESIP Staff</a>
+  <a href="https://esip-all.slack.com/join/shared_invite/zt-26hvelg92-P_8k3S1FqiiXJhZ~_L~m4A#/shared-invite/email" class="pili-button-orange">Join the Slack</a>
 </div>
 
 ---

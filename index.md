@@ -24,7 +24,7 @@ has_toc: false
 
 ## What Is a Data Help Desk?
 
-A Data Help Desk is a service designed to support researchers with data-related questions by connecting them with domain experts and data professionals. It provides one-on-one guidance on topics like data discovery, sharing, citation, management plans, and FAIR principles (Findable, Accessible, Interoperable, Reusable).
+A **Data Help Desk** is a service designed to support researchers with data-related questions by connecting them with domain experts and data professionals. It provides one-on-one guidance on topics like data discovery, sharing, citation, management plans, and FAIR principles (Findable, Accessible, Interoperable, Reusable).
 
 <div class="full-width-blue" style="display: flex; flex-direction: column; align-items: center; padding: 1.5rem 1.5rem;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem;">

@@ -8,16 +8,13 @@ has_toc: false
 
 # FAQ
 
-## TODO (read these over and rephrase questions and answers)
-
-## What is a data help desk? (TODO: Expand on this)
+## What is a data help desk?
 
 A data help desk provides researchers with opportunities to engage with
 informatics experts familiar with their scientific domain and learn about skills
 and techniques that help further research and make data and software open and
 FAIR. It serves as a reference desk staffed with experts to answer questions and
-provide demos of tools and resources. It can be a physical, virtual, or hybrid
-service.
+provide demos of tools and resources.
 
 ## Why is a data help desk needed?
 
@@ -107,28 +104,17 @@ Users want answers to a wide range of data-related questions, including:
 The data help desk setup can incorporate links to online resources and build
 upon existing documentation. It can point to relevant online documentation and
 resources to provide more in-depth information beyond what can be covered at the
-desk itself. For example, the virtual Data Help Desk often includes a gallery of
-contributed demos, tutorials, and one-pagers.
+desk itself.
 
 ## What materials are needed to set up a help desk?
 
-The materials needed to set up a help desk vary depending on whether it is
-physical or virtual:
-
--   Physical Help Desk: Requires a table, signage (clear and attractive), and
-    potentially monitors for demos. Handouts and flyers can also be useful.
--   Virtual Help Desk: A webpage is essential. A platform for asking questions
-    (e.g., Twitter with a specific hashtag, survey form) and a gallery of
-    resources (demos, tutorials, one-pagers) are crucial.
--   Hybrid Help Desk: Requires planning and coordination for both physical and
-    virtual components.
+A help desk requires a table, signage (clear and attractive), and potentially
+monitors for demos. Handouts and flyers can also be useful.
 
 ## What is the cost of a help desk?
 
 Cost considerations include personnel (whether paid or volunteer), website
-hosting, and materials such as signage and handouts. For virtual events, costs
-might involve website development and maintenance, as well as potential software
-for managing questions and communication.
+hosting, and materials such as signage and handouts.
 
 ## How long will the help desk be active?
 
@@ -163,8 +149,7 @@ Information needed to onboard help desk staff includes:
 -   Information on a code of conduct for their participation.
 -   An overview of common questions that are asked.
 -   A list of resources available to help answer questions.
--   Details on the platforms used for virtual help desks, such as Twitter and
-    Slack.
+-   Details on the platforms used for social media such as Twitter and Slack.
 -   Reminders that it's okay not to know the answer and instructions on how to
     record unanswered questions.
 
@@ -191,17 +176,16 @@ The owner/project lead likely needs:
 
 The success of a data help desk can be determined by several factors:
 
--   Number of people interacting with the help desk. This can include booth
-    visits for physical events and participation on online platforms for virtual
-    events.
+-   Number of people interacting with the help desk.
 -   Quality of questions and answers. This can be assessed through feedback and
     analysis of the interactions.
 -   Recording questions and answers. Tracking the types of questions asked can
     inform future services and resource development.
 -   Surveys and questionnaires conducted before, during, and after the help desk
     to gather feedback from both attendees and volunteers.
--   Metrics for virtual events, such as impressions, posts, reach, engagement
-    (retweets and likes), and number of users on platforms like Twitter.
+-   Further metrics can include social media impressions, posts, reach,
+    engagement (retweets and likes), and the number of users on the platform
+    referencing the data help desk.
 -   Volunteer satisfaction, which can be assessed through post-event surveys and
     by tracking the usage of their contributed resources.
 -   Qualitative metrics on how engaged individuals were and whether they felt

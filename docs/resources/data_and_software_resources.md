@@ -107,18 +107,6 @@ Figshare: topic of Data management and data science
 
 [Video titled "10 Simple Rules for Creating a Data Management Plan"](https://vimeo.com/488086472)
 
-**General Information and Resources:**
-
--   Creating a Data Management Plan is presented as a **critical component of
-    effective data management** and a valuable research tool.
--   The ESIP Data Management Training Clearinghouse may help researchers find
-    training resources to supplement learning on topics like Data Management
-    Plans.
-
-Overall, the sources indicate that data help desks serve a need by assisting
-researchers with creating and understanding Data Management Plans, pointing them
-to relevant tools, funder guidance, and educational resources.
-
 ### FAIR Data
 
 [EarthCube FAIR resources](https://www.earthcube.org/fair-training-materials)

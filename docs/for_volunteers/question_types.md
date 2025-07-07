@@ -8,14 +8,12 @@ has_toc: false
 
 # Types of Questions Asked at a Data Help Desk
 
-Students, postdocs, early career researchers, and established scientists can all
-benefit from using the output of a data help desk to manage their research
-projects, collaborate with others, and ensure the preservation and sharing of
-their research data.
-
-A list of common questions can be found in the resources section of this
+Here is a general overview of the types of questions asked at a data help desk.
+**For a detailed list of common questions**, see the resources section of this
 website: [Questions from
 users]({{ site.baseurl }}{% link docs/resources/questions_from_users.md %}).
+
+## Overview of common questions
 
 1. **General inquiries**:
     - What is the purpose of the data help desk?
@@ -41,12 +39,13 @@ users]({{ site.baseurl }}{% link docs/resources/questions_from_users.md %}).
     - Why is my data not accessible?
     - How do I resolve errors or technical issues with the repository?
     - Can you assist me with formatting or converting data formats?
+    - How do I do the following with this software?
+    - Can you help me find resources for learning programming?
 1. **Policy and governance questions**:
     - What are the data sharing policies for the organization/ repository?
     - Are there any specific requirements for data ownership or usage rights?
     - How does the data help desk handle intellectual property issues?
 1. **General questions about services and support**:
-    - Can I request a consultation or meeting time to discuss my data management
-      needs?
+    - Where can I get help with my data management needs?
     - Are there any upcoming events or training sessions related to data
       management?

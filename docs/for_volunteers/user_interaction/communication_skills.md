@@ -102,5 +102,4 @@ For a shortened summary of these guidelines, see
 
 -   [Guidelines for Behavioral Performance of Reference and Information Service Providers](https://www.ala.org/rusa/resources/guidelines/guidelinesbehavioral)
 -   [The Importance of Communication](https://www.iseoblue.com/post/the-importance-of-communication)
--   [What are some things that a Help Desk should always/never do?](https://community.spiceworks.com/t/what-are-some-things-that-a-help-desk-should-always-never-do/441690)
 -   [Help Desk Skills: Definition and Examples](https://www.indeed.com/career-advice/resumes-cover-letters/help-desk-skills)

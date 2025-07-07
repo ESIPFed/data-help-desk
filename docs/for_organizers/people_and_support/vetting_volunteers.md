@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vetting volunteers
-parent: People & support
+parent: People & Support
 nav_order: 4
 has_toc: false
 ---

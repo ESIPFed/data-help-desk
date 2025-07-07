@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Detailed planning steps
-parent: Step-by-step planning
+parent: Step-by-Step Guide
 nav_order: 2
 has_toc: false
 ---

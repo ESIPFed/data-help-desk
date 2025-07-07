@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Onboarding staff
-parent: People & support
+parent: People & Support
 nav_order: 5
 has_toc: false
 ---

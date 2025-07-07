@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Types of users
-parent: Things to consider
+parent: Things to Consider
 nav_order: 1
 has_toc: false
 ---

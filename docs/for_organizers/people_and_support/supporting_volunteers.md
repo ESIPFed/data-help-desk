@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supporting volunteers
-parent: People & support
+parent: People & Support
 nav_order: 8
 has_toc: false
 ---

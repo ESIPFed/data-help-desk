@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advertising
-parent: What you'll need
+parent: What You'll Need
 nav_order: 3
 has_toc: false
 ---

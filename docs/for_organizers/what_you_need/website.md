@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Website
-parent: What you'll need
+parent: What You'll Need
 nav_order: 7
 has_toc: false
 ---

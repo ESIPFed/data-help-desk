@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Connections needed
-parent: What you'll need
+parent: What You'll Need
 nav_order: 1
 has_toc: false
 ---

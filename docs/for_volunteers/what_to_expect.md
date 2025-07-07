@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What to expect
-parent: For volunteers
+title: What to Expect
+parent: For Volunteers
 nav_order: 1
 has_toc: false
 ---

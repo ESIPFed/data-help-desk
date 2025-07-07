@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recruiting data experts
-parent: People & support
+parent: People & Support
 nav_order: 3
 has_toc: false
 ---

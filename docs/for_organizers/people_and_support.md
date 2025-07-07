@@ -1,7 +1,7 @@
 ---
 layout: page
-title: People & support
-parent: For organizers
+title: People & Support
+parent: For Organizers
 nav_order: 3
 has_toc: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recruiting volunteers
-parent: People & support
+parent: People & Support
 nav_order: 2
 has_toc: false
 ---

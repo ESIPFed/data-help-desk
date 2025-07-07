@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Docs for volunteers
-parent: People & support
+parent: People & Support
 nav_order: 7
 has_toc: false
 ---

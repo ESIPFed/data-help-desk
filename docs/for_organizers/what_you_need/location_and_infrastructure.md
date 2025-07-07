@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Location & infrastructure
-parent: What you'll need
+parent: What You'll Need
 nav_order: 2
 has_toc: false
 ---

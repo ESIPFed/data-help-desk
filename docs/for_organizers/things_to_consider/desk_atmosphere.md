@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Desk atmosphere
-parent: Things to consider
+parent: Things to Consider
 nav_order: 2
 has_toc: false
 ---

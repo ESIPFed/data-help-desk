@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Funding & sponsorship
-parent: Things to consider
+parent: Things to Consider
 nav_order: 4
 has_toc: false
 ---

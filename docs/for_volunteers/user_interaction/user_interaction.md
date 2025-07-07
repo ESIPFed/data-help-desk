@@ -1,7 +1,7 @@
 ---
 layout: page
-title: User interaction overview
-parent: Interacting with users
+title: User interaction Overview
+parent: Interacting with Users
 nav_order: 2
 has_toc: false
 ---

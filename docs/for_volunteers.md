@@ -1,6 +1,6 @@
 ---
 layout: page
-title: For volunteers
+title: For Volunteers
 permalink: /docs/for_volunteers/
 nav_order: 4
 has_toc: true

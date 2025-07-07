@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Question types
-parent: For volunteers
+title: Question Types
+parent: For Volunteers
 nav_order: 2
 has_toc: false
 ---

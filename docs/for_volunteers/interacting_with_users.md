@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Interacting with users
-parent: For volunteers
+title: Interacting with Users
+parent: For Volunteers
 nav_order: 3
 has_toc: true
 ---

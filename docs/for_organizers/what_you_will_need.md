@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What you'll need
-parent: For organizers
+title: What You'll Need
+parent: For Organizers
 nav_order: 2
 has_toc: true
 ---

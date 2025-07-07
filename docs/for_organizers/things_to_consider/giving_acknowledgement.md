@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Giving acknowledgement
-parent: Things to consider
+parent: Things to Consider
 nav_order: 5
 has_toc: false
 ---

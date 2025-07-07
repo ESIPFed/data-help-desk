@@ -17,7 +17,7 @@ event** by [forming an organizing committee](#forming-an-organizing-committee).
 This allows sufficient time for organizing a data help desk, recruiting
 volunteers to staff it, and advertising the data help desk.
 1. **Items to plan for include**
-    - [defining the purpose and scope](#defining-the-purpose-and-scope) of the data
+    - [Defining the purpose and scope](#defining-the-purpose-and-scope) of the data
 help desk, [what to name the desk](#naming-the-data-help-desk) to identify
 collaborators, and the
 [location of the data help desk](#event-space-for-the-data-help-desk).
@@ -26,11 +26,7 @@ collaborators, and the
 announce the desk ahead of the meeting and during the meeting.
 1. **Recruiting**
     - [Recruiting and training volunteers](#recruiting-and-training-personnel) to
-staff the desk along with experts are essential to a successful data help desk.
-This must begin early to allow volunteers and experts to learn about the data
-help desk event and make plans for attending the event to staff it. Providing
-volunteer guidelines and training for the staff will also need to be completed
-before the data help desk event.
+staff the desk along with data experts are essential to a successful data help desk. Data experts can both staff the desk and give presentations about data and software at the desk. This must begin early to allow volunteers and experts to learn about the data help desk event and make plans for attending the event to staff it. Providing volunteer guidelines and training for the staff will also need to be completed before the data help desk event.
 1. **Planning user interaction**
     - [Planning user interaction](#planning-user-interaction) at the data help desk
 such as content to present and how to answer user questions must be done ahead

@@ -41,14 +41,12 @@ Here’s a breakdown of the process:
    such as tables, monitors for demos, and the overall layout of the booth,
    ensuring that the physical space can effectively support the help desk's
    activities. It can takes months to organize and plan.
-
 1.  **Form a Dedicated Organizing Committee**
     -   It is essential to have a core group of dedicated organizers who meet
         regularly for planning and advertising purposes. For virtual events, a
         committee of 5-10 key individuals committed to the success of the event
         is recommended. If the meeting has a specific domain focus, engage
         organizers who are experts in that area.
-
 1. **Contact Conference Organizers Early**
     - Make contact at least 6 months in advance to reserve a prime location near poster sessions or main halls.
     - Contacting conference organizers well in
@@ -184,7 +182,9 @@ stages who need to comply with these evolving mandates would benefit.
 
 ## Naming the Data Help Desk
 
-### TODO, fill in this text
+The language used to name the data help desk is important (e.g., "Data Help Desk
+at AGU" vs. "AGU Data Help Desk") as it can imply different associations. Choose
+a name that clearly conveys the purpose.
 
 ## Creating an advertising plan
 
@@ -474,7 +474,7 @@ Develop educational materials tailored to common data management queries.
 <!-- prettier-ignore -->
 1.  **Build a Resource Database:**
     -   See [resources
-        section]({{ site.baseurl }}{% link docs/resources_overview.md %})
+        section]({{ site.baseurl }}{% link docs/resources.md %})
     - This database can serve as a foundational resource for team members and a point
 of reference for attendees looking for more information.
     - Containing links to relevant

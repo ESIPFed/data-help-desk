@@ -59,8 +59,6 @@ If you're not sure where to start, we've put together [email templates]() that y
 
 A well-timed blog post is a great way to introduce the Data Help Desk to a wider audience—especially those who may be new to it. Blog posts can then be shared and are easily repurposed for email newsletters and social media.
 
-The goal of a pre-event blog is to explain what the Help Desk is, highlight the value of visiting it, and share any relevant logistics like booth number, conference location, or how to engage online. You might also mention featured demos, participating organizations, or links to helpful resources.
-
 If the conference organizer has a blog or accepts guest content, that’s an ideal place to post. It ensures visibility within the event’s existing communication channels. If that’s not an option, consider posting through a partner organization’s blog or your own institution’s site.
 
 These posts don’t need to be long—400–600 words is enough to provide context and generate interest. We’ve provided a few [blog templates and examples]() to help get you started.

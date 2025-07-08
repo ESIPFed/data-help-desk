@@ -50,7 +50,7 @@ Desk events at conferences.
 
 **Webmaster**
 
--   Lynne Merchant - [lmerchant@ucsd.edu](mailto:lmerchant@ucsd.edu)
+-   Lynne Merchant - [lynnecode2@gmail.com](mailto:lynnecode2@gmail.com)
 
 ---
 

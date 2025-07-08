@@ -26,6 +26,8 @@ has_toc: false
 
 A **Data Help Desk** is a service designed to support researchers with data-related questions by connecting them with domain experts and data professionals. It provides one-on-one guidance on topics like data discovery, sharing, citation, management plans, and FAIR principles (Findable, Accessible, Interoperable, Reusable).
 
+ESIP's Data Help Desk is a shared resource for many communities working in earth science, with an evolving cast of collaborators who provide resources targeted for specific events. 
+
 <div class="full-width-blue" style="display: flex; flex-direction: column; align-items: center; padding: 1.5rem 1.5rem;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem;">
     <a href="https://www.agu.org/" target="_blank" style="display: inline-block;">
@@ -80,7 +82,7 @@ Organizations host **Data Help Desks** to meet the growing need for expert suppo
       <span style="margin-top: 0.5rem; font-size: 0.95rem;">Templates and Checklists</span>
     </a>
 
-    <a href="YOUR-LINK-HERE" class="playbook-link">
+    <a href="{{ site.baseurl }}/docs/for_organizers/what_you_need/location_and_infrastructure.html" class="playbook-link">
         <svg xmlns="http://www.w3.org/2000/svg" style="height: 4rem;" viewBox="0 0 576 512"><path d="M64 0C28.7 0 0 28.7 0 64L0 352c0 35.3 28.7 64 64 64l176 0-10.7 32L160 448c-17.7 0-32 14.3-32 32s14.3 32 32 32l256 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-69.3 0L336 416l176 0c35.3 0 64-28.7 64-64l0-288c0-35.3-28.7-64-64-64L64 0zM512 64l0 288L64 352 64 64l448 0z"/></svg>
       <span style="margin-top: 0.5rem; font-size: 0.95rem;">Physical Setup and Materials</span>
     </a>

@@ -1,279 +1,98 @@
 ---
 layout: page
-title: Advertising
+title: Advertising & Promotion
 parent: What You'll Need
 nav_order: 3
 has_toc: false
 ---
 
-# Advertising the Data Help Desk
+# Advertising & Promotion
 
--   [Advertising Materials and Branding](#advertising-materials-and-branding)
--   [Steps to Advertise a Data Help Desk](#steps-to-advertise-a-data-help-desk)
--   [Media Plan](#media-plan)
--   [Advertising Resources](#advertising-resources)
+Getting the word out about your Data Help Desk is crucial. If attendees don’t know it exists or what it’s for, they won’t come! Successful outreach requires more than a few social media posts—it means planning ahead, using multiple channels, and working closely with the conference organizers to make sure the Help Desk is visible in official materials, platforms, and communications. 
 
-## Advertising Materials and Branding
+This page offers guidance, examples, and templates to help you promote the Help Desk effectively.
 
-<img class="full-width-img" src="{{ site.baseurl }}/assets/photos/signs_and_stickers.jpg" alt="Data Help Desk sign and stickers" width="900">
+## DHD Website
 
-### Promotional Materials
+Before beginning any outreach, it’s useful to have a central online location that you can point people to. This page should provide key details about the Help Desk—what it is, when and where it will be available at the upcoming event, and how people can engage with it.
 
-<!-- prettier-ignore -->
-1. **Signage:**
-   - Clear and attractive signage is crucial for a physical data help desk to
-    indicate its location and purpose. This signage can include prompts to
-    encourage questions, such as "Ask us how you can Cite Your Data Like a Pro"
-    or "What makes data #FAIR?". Aim for having a clear presence on
-    the main meeting websiten.
-1. **Website/Webpage:**
-   - A dedicated website or webpage is essential to provide information about the data help desk, including
-    its description, sponsor/organizer acknowledgement, and how to participate.
-    Consider using a shortened link (e.g., bit.ly) for easier sharing.
-1. **Handouts and Flyers:**
-   - For physical events, handouts and flyers can be useful to provide brief
-    information about the data help desk, key topics covered, and related
-    resources.
-1. **Rotating Slide Deck:**
-   - A rotating slide deck displayed on a monitor at a physical desk can
-    attract attention and present useful prompts or information about common
-    topics.
-1. **Social Media Posts:**
-   - Active engagement on social media platforms, particularly Twitter
-    (using the hashtag #DataHelpDesk and the relevant conference hashtag). Consider developing a Twitter
-    plan with scheduled tweets advertising the event, example questions, and
-    featured resources. Nowadays, consider other platforms like BlueSky as
-    well.
-1. **Email Advertisements:**
-   - Include information about the data help desk in email advertisements
-    sent to meeting participants.
-1. **Meeting Website Promotion:**
-   - Ensure the data help desk has a prominent presence on the main meeting
-    website, including its description and how to participate.
-1. **Inclusion in Daily Emails:**
-   - Request that the meeting host include information about the data help desk
-    in any daily email reminders sent to meeting attendees.
-1. **Ambassador Outreach:**
-   - Encourage section chairs, scientific session presenters, and other key
-    individuals to act as ambassadors by mentioning the data help desk in
-    their presentations, posters, and social media.
-1. **Blog Posts:**
-   - Creating blog posts can provide more in-depth information about the data
-    help desk, its themes, and how it can benefit researchers.
-1. **Postcards:**
-   - Postcards can be a tangible way to share information about the data help
-    desk, especially at physical events. They can include the booth number and a
-    QR code linking to the website.
-1. **QR Codes:**
-   - Using QR codes on signage and promotional materials can provide quick
-    access to the data help desk website or specific resources.
+The central [ESIP Data Help Desk page](https://www.esipfed.org/data-help-desk/) serves as our home base. It shows where upcoming Help Desks are planned, includes background on the program, and often links out to relevant resources. That said, if the conference organizers are willing, having a Help Desk page or listing on the official conference website is extremely valuable. This ensures visibility within the context of the event and helps attendees who may not be familiar with the Help Desk understand why they should visit. Ideally, this listing should include:
 
-### Branding Elements
+- A short description of the Help Desk and what attendees can expect
+- The booth number, location, and hours of operation
+- A few example questions or topics the Help Desk can assist with
+- A link to the ESIP DHD page or any featured resources
 
-<!-- prettier-ignore -->
-1. **Naming and Language:**
-   - The language used to name the data help desk is important (e.g.,
-    "Data Help Desk at AGU" vs. "AGU Data Help Desk") as it can
-    imply different associations. Choose a name that clearly conveys the
-    purpose.
-1. **Logos:**
-   - Use relevant logos of organizing and sponsoring entities on signage,
-    websites, and other materials to clearly indicate the collaboration and
-    support behind the data help desk. Make the logo obvious at a physical desk.
-1. **Tagline:**
-   - Develop a clear and concise tagline that explains the purpose of the
-    data help desk. Examples could include phrases like "Got data? Ask us!".
-1. **Consistent Messaging:**
-   - Ensure consistent messaging across all advertising materials to clearly
-    communicate the value proposition of the data help desk and the types of
-    assistance available.
-1. **Swag:**
-   - Use swag to attract attention.
+<img src="{{ site.baseurl }}/assets/photos/DHD-webpage.jpg" alt="Data Help Desk Ad">
 
-## Steps to Advertise a Data Help Desk
+## Where to Promote
 
-<!-- prettier-ignore -->
-1. **Name and Affiliation**
-    - Clearly state the name of the help desk, for example,
-    "Open Science & Data Help Desk". Also, mention the organizing bodies, such
-    as "a program of AGU, ESIP, and their partners". If it's associated with a
-    specific event, like "during AGU24" or "at EGU25", make this prominent.
-1. **When and Where**
-    - Specify the dates and times of the help desk. For in-person
-    events, mention the exact location, such as "Visit our booth at the Open
-    Science Pavilion in the Exhibit Hall A" or "Exhibit Hall Booth #1423 within
-    the Open Science Pavilion" for AGU, or "[Exhibit Booth #X208]{.mark}" for
-    EGU. Provide the online platform or link where users can
-    ask questions, if this is used, such as "Ask questions online here:
-    https://esipfed.org/datahelp".
-1. **What Users Can Get Help With**
-    - Clearly articulate the types of questions and
-    assistance users can expect. Use phrases like "Bring your questions for our
-    experts!". Provide specific examples of topics, such as:
-        -   How and where to publish data or software.
-        -   Where to find specific types of data.
-        -   Understanding FAIR and open data principles.
-        -   Writing a good data management plan.
-        -   Complying with funder and publisher requirements for data and software.
-        -   General data management, information management, metadata, data
-            repositories, programming, data publication, data visualization, and
-            data analysis. Highlight that attendees can "Engage with Informatics
-            Experts" and "Learn Skills and Techniques" to "Make your Data Open and
-            FAIR".
-1. **Presentations/Demos**
-    - If there will be scheduled demos or tutorials,
-    advertise these in advance. Mention that attendees can "see demonstrations
-    of relevant tools and platforms". If a schedule of experts and demos is
-    available, post it online for easy access. Encourage volunteers giving demos
-    to have "visually intriguing" slides to attract attention.
-1. **Topic Areas and Expertise of Volunteers**
-    - If possible, highlight the
-    diversity of expertise available at the help desk. You could mention general
-    topic areas that volunteers can provide advice on. For in-person events,
-    volunteers can even say "Ask me about [fill in your data expertise]".
-1. **Multiple Phases of Communication**
-    - Implement a communication plan before and during the event.
-        -   **Well in Advance (2+ months):** Start planning and advertising early.
-        -   Leading up to the Event:
-            -   Presence on Meeting Website: Ensure the help desk is prominently
-                featured on the main meeting website with clear deadlines.
-            -   Email Announcements: Utilize email lists and newsletters to share
-                information about the help desk and encourage attendance. Consider
-                asking the meeting host to include information in daily emails to
-                participants.
-            -   Social Media: Develop a social media plan, including suggested posts
-                and relevant hashtags (e.g., #DataHelpDesk, #AGU24, #EGU25).
-                Encourage volunteers to share on social media. Consider using
-                scheduling software for posts.
-            -   Ambassadors: Enlist section chairs and scientific session presenters
-                to advocate for the help desk.
-            -   Short Recordings: Encourage short video recordings from volunteers
-                sharing their excitement and expertise to be shared on social media
-                before the event.
-        -   **During the Event:**
-            -   Clear Signage: For physical locations, use clear and attractive
-                signage to draw attention.
-            -   Social Media Updates: Continue active posting on social media to
-                remind attendees about the help desk and highlight ongoing
-                activities.
-            -   Announcements: Explore opportunities to have the help desk mentioned
-                during scientific sessions.
-1. **Targeted Outreach**
-    - Consider reaching out to specific groups, such as early
-    career professionals and students, as they tend to be active users of the
-    Data Help Desk. You might tailor content to their interests and concerns.
-    Consider contacting program managers at funding agencies to encourage their
-    PIs and students to visit.
-1. **Asynchronous Content**
-    - Promote the availability of asynchronous content like
-    recorded demos and tutorials that can be accessed at any time, especially
-    for those who are busy during the meeting.
-1. **Collaboration**
-    - Highlight the collaborative nature of the Data Help Desk by
-    mentioning participating organizations.
+### Social Media
 
-## Media Plan
+Social media is one of the fastest ways to build awareness for the Data Help Desk. Use platforms like Twitter/X, BlueSky, and LinkedIn to share timely updates and encourage engagement. You can post general reminders, highlight a different topic each day, or amplify your partners' posts. Tag collaborators to broaden your reach and always include relevant hashtags like `#DataHelpDesk` and the conference tag.
 
-1. Generating a robust plan, including a schedule of tweets to advertise that
-   the event is happening, along with example questions, and featured resources
-   is key. The use of scheduling software like Tweetdeck or Buffer can be
-   extremely helpful. Having key hashtags that are used in each Tweet is
-   important.
-1. At a minimum, these have so far been #DataHelpDesk and the hashtag for the
-   associated conference (e.g., #AGU21). At some point, it may be better to have
-   a main Twitter account associated with the event, so that hashtags cannot be
-   confused with or commandeered to promote other activities and resources. This
-   account would need to be a shared resource amongst all Data Help Desk
-   organizers.
-1. Having a twitter plan that includes numerous tweets each day drawing
-   attention both to the broader event and to specific topics & resources can
-   help with this.
-1. Tweets (and retweets) coming from numerous people and organizations using
-   #DataHelpDesk can be very effective and help show that the Data Help Desk is
-   a truly collaborative effort. Having a contact at the meeting host
-   organization (AGU, EGU, etc.) who is willing to retweet anything you send out
-   can also help reach more people.
+When crafting posts, go beyond simply announcing the Help Desk—make the value clear. Highlight what attendees can learn, who they might meet, or what kinds of questions they can ask. For example:
 
-### At the conference
+> “Not sure where to find data to back up your next paper? The #DataHelpDesk at #AGU23 is here to help. Come by Booth 1423!”
 
-1. Advertising not just on the meeting website, but in a prominent place.
-1. Ambassadors – section chairs, scientific session presenters, etc., who
-   actively talk to others about the event during the meeting in as many places
-   as possible by tweeting, by sharing email advertisements, by mentioning the
-   event in their posters and oral presentations, town halls, and more.
+> “Have questions about publishing and sharing your data? The #DataHelpDesk is open this week at #AGU23—visit Booth 1423.”
 
-### With organizations
+Sharing links to demos, one-pagers, and tools makes your posts even more actionable. We often use shortened URLs (like `bit.ly/DataHelpAGU23`) to save space and keep posts clean, especially on platforms with character limits.
 
-1. Establish key contacts to work with advertising data help desk presence
-1. Beyond what each organization will contribute, it is important to establish
-   key contacts at those organizations to work with.
-1. If society Y is hosting a meeting, it is important to establish who at
-   society Y can help with ensuring that the Data Help Desk receives prominent
-   placement in any digital materials, including the main meeting website.
-1. You might also arrange with the host to have a blog post published about the
-   event and/or ask that they include information about the Help Desk in any
-   daily email reminders sent to meeting attendees.
-1. Another key role is someone at the meeting host organization who can help
-   with social media coverage of your event, actively re-tweeting as you put out
-   info.
-1. Caution should be exercised, however, when considering this option because it
-   creates a private space that only meeting attendees can access and it also
-   creates another place that data expert volunteers have to monitor.
+Example social media posts are available [here]().
 
-## Advertising Resources
+---
 
-<!-- prettier-ignore -->
-1. **Email templates**
-    - See example email templates [Email
-templates]({{ site.baseurl }}{% link docs/resources/email_templates.md %})
-1. **Social media plan**
-    - See example media messages [Example media
-messages]({{ site.baseurl }}{% link docs/resources/example_media_messages.md %})
-1. **Postcards**
-    - See an example postcard [Open Science Help Desk Postcards -
-AGU24]({{ site.baseurl }}/assets/docs/Open_Science_Help_Desk_Postcards-AGU24.pdf)
-1. **Blog Post**
-    - See an example blog post [Open Science & Data Help Desk at EGU24
-Advertisement]({{ site.baseurl }}/assets/docs/Open Science & Data Help Desk at
-EGU24 Advertisement.pdf)
+### Email
 
-### Example advertisement for a data help desk at a conference
+Email remains one of the most reliable ways to spread the word about the Data Help Desk—especially through newsletters and listservs that your target audience already reads.
 
-> Do you have data and software-related questions? Are you looking to make your
-> data and/or software open and FAIR? Are you interested in tools and resources
-> for working with your data or for finding data to reuse? The Open Science &
-> Data Help Desk is here for you!
->
-> The Open Science & Data Help Desk, a program of the European Geosciences Union
-> (EGU), the Earth Science Information Partners (ESIP) and the American
-> Geophysical Union (AGU), along with their respective partners, provides
-> researchers with opportunities to engage with informatics experts in their
-> domains. Through the Help Desk, researchers can learn about skills and
-> techniques that help further their research and make their data and software
-> more open and FAIR. The Open Science & Data Help Desk is staffed with experts
-> from the Earth science informatics community to answer data-related questions
-> and to demo useful resources.
->
-> **When:** 27 April–2 May during #EGU25
->
-> **Where:** In-person and online.
->
-> We are located in Hall X2 at booth #X208. Or you can submit a question through
-> our online form here. Learn more: https://bit.ly/ESIPDataHelpDesk.
->
-> YOU can:
->
-> **Ask Data Questions:** Share your questions any time during the event at Hall
-> X2, Booth #X208 or submit your question via the form HERE. Our team of Earth
-> science data professionals has decades of experience in informatics and in
-> many scientific domains and specializes in topics like finding, sharing,
-> analyzing, publishing, and citing data.
->
-> The Data Help Desk has been held in the past at the American Geophysical Union
-> Fall Meeting, the Ecological Society of America Annual Meeting, the Geological
-> Society of America, the Ocean Sciences Meeting, and the European Geosciences
-> Union General Assembly. This event represents another exciting opportunity for
-> anyone to jump in and ask questions, regardless of geographic location. Join
-> us to improve your skills and practices!
->
-> **Questions?** Contact datahelpdesk@esipfed.org.
+ESIP regularly includes Help Desk blurbs in its community newsletter, and many conferences offer similar opportunities through pre-event emails, daily digests, or partner communications. Check whether the conference has an attendee newsletter or exhibitor communication stream and ask about including a short announcement.
+
+Institutional and community listservs are another key channel. These may be hosted by research groups, data repositories, academic departments, or discipline-specific communities. Keep your message concise and focused on what attendees will gain by stopping by or engaging online.
+
+If you're not sure where to start, we've put together [email templates]() that you can copy, customize, and reuse.
+
+---
+
+### Blog Posts
+
+A well-timed blog post is a great way to introduce the Data Help Desk to a wider audience—especially those who may be new to it. Blog posts can then be shared and are easily repurposed for email newsletters and social media.
+
+The goal of a pre-event blog is to explain what the Help Desk is, highlight the value of visiting it, and share any relevant logistics like booth number, conference location, or how to engage online. You might also mention featured demos, participating organizations, or links to helpful resources.
+
+If the conference organizer has a blog or accepts guest content, that’s an ideal place to post. It ensures visibility within the event’s existing communication channels. If that’s not an option, consider posting through a partner organization’s blog or your own institution’s site.
+
+These posts don’t need to be long—400–600 words is enough to provide context and generate interest. We’ve provided a few [blog templates and examples]() to help get you started.
+
+---
+
+### Slack
+
+Slack can be a useful channel for both organizing and promoting the Data Help Desk. If you're part of the ESIP Slack workspace, the `#datahelpdesk-experts` channel is the central spot for coordination—sharing updates, flagging questions, and checking in with other volunteers. It’s especially helpful during the event for keeping communication quick and informal.
+
+If the conference you're supporting has its own Slack workspace, look for general channels or topical threads where attendees are likely to see your message. A short post letting people know where the Help Desk is, what kind of support you're offering, and how they can participate—either in person or online—can drive traffic and engagement.
+
+<img src="{{ site.baseurl }}/assets/photos/slack_ad.jpg" alt="Data Help Desk Slack post">
+
+---
+
+### Conference Materials
+
+Having a presence in official conference materials is one of the most effective ways to ensure attendees know about the Data Help Desk. These are often the first places people go to plan their time whether it’s a printed program, a mobile app, or a digital platform like Sched, Fourwaves, or an internal attendee portal.
+
+Ask conference organizers to include the Help Desk in the official schedule or exhibitor listings. At a minimum, this should include the booth number, hours, and a short description. If there's a way to link out to more information—either your Help Desk page or a resource gallery—include a short URL or QR code.
+
+If the conference uses a community platform to connect participants, that’s also a good place to post reminders or direct people to your resources. Being visible across these platforms helps reinforce your message and ensures that even attendees who don’t follow you on social media can find and engage with the Help Desk.
+
+---
+
+## General Tips
+
+Planning your outreach ahead of time makes everything easier. Even if you don’t have all the final details—like booth number or the full demo schedule—you can begin promoting the Help Desk early and update posts as needed.
+
+A good time to start advertising is around when presentation abstracts are due. That’s typically when conference buzz starts to build and when you’ll also begin recruiting demoers and volunteers.
+
+It’s helpful to create a simple content plan and use a scheduling tool like Buffer, Hootsuite, or TweetDeck to prepare your posts in advance.
+
+If you're planning live demos or themed days (e.g., publishing support, data management tools), promote those time slots directly. Giving attendees something specific to look forward to can boost engagement and booth traffic.

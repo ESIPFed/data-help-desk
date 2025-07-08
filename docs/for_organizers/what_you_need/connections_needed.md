@@ -1,10 +1,10 @@
----
+```---
 layout: page
 title: Connections needed
 parent: What You'll Need
 nav_order: 1
 has_toc: false
----
+---```
 
 # Connections Needed
 

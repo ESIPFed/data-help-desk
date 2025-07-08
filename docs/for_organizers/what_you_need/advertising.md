@@ -77,11 +77,9 @@ If the conference you're supporting has its own Slack workspace, look for genera
 
 ### Conference Materials
 
-Having a presence in official conference materials is one of the most effective ways to ensure attendees know about the Data Help Desk. These are often the first places people go to plan their time whether it’s a printed program, a mobile app, or a digital platform like Sched, Fourwaves, or an internal attendee portal.
+Having a presence in official conference materials is one of the most effective ways to ensure attendees know about the Data Help Desk. These are often the first places people go to plan their time whether it’s a printed program, a mobile app, or a digital platform like Sched, Fourwaves, or an internal attendee portal. If the conference uses a community platform to connect participants, that’s also a good place to post reminders or direct people to your resources. 
 
 Ask conference organizers to include the Help Desk in the official schedule or exhibitor listings. At a minimum, this should include the booth number, hours, and a short description. If there's a way to link out to more information—either your Help Desk page or a resource gallery—include a short URL or QR code.
-
-If the conference uses a community platform to connect participants, that’s also a good place to post reminders or direct people to your resources. Being visible across these platforms helps reinforce your message and ensures that even attendees who don’t follow you on social media can find and engage with the Help Desk.
 
 ---
 

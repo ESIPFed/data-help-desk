@@ -85,10 +85,7 @@ Ask conference organizers to include the Help Desk in the official schedule or e
 
 ## General Tips
 
-Planning your outreach ahead of time makes everything easier. Even if you don’t have all the final details—like booth number or the full demo schedule—you can begin promoting the Help Desk early and update posts as needed.
-
-A good time to start advertising is around when presentation abstracts are due. That’s typically when conference buzz starts to build and when you’ll also begin recruiting demoers and volunteers.
-
-It’s helpful to create a simple content plan and use a scheduling tool like Buffer, Hootsuite, or TweetDeck to prepare your posts in advance.
-
-If you're planning live demos or themed days (e.g., publishing support, data management tools), promote those time slots directly. Giving attendees something specific to look forward to can boost engagement and booth traffic.
+- Planning your outreach ahead of time makes everything easier. Even if you don’t have all the final details—like booth number or the full demo schedule—you can begin promoting the Help Desk early and update posts as needed.
+- A good time to start advertising is around when presentation abstracts are due. That’s typically when conference buzz starts to build and when you’ll also begin recruiting demoers and volunteers.
+- It’s helpful to create a simple content plan and use a scheduling tool like Buffer, Hootsuite, or TweetDeck to prepare your posts in advance.
+- If you're planning live demos or themed days (e.g., publishing support, data management tools), promote those time slots directly. Giving attendees something specific to look forward to can boost engagement and booth traffic.

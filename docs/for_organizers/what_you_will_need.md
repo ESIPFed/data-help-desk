@@ -26,7 +26,7 @@ To set up a help desk for a data management service, you'll need various resourc
     <div class="icon-cards__button-wrapper">
       <span class="icon-cards__card-button">Plan Setup</span>
     </div>
-    <a href="{{ site.baseurl }}docs/for_organizers/what_you_need/location_and_infrastructure" class="icon-cards__card-anchor"></a>
+    <a href="{{ site.baseurl }}/docs/for_organizers/what_you_need/location_and_infrastructure" class="icon-cards__card-anchor"></a>
   </div>
 
   <div class="icon-cards__card">
@@ -44,7 +44,7 @@ To set up a help desk for a data management service, you'll need various resourc
     <div class="icon-cards__button-wrapper">
       <span class="icon-cards__card-button">View Materials</span>
     </div>
-    <a href="{{ site.baseurl }}docs/for_organizers/what_you_need/physical_materials" class="icon-cards__card-anchor"></a>
+    <a href="{{ site.baseurl }}/docs/for_organizers/what_you_need/physical_materials" class="icon-cards__card-anchor"></a>
   </div>
 
   <div class="icon-cards__card">
@@ -62,7 +62,7 @@ To set up a help desk for a data management service, you'll need various resourc
     <div class="icon-cards__button-wrapper">
       <span class="icon-cards__card-button">Launch Outreach</span>
     </div>
-    <a href="{{ site.baseurl }}docs/for_organizers/what_you_need/advertising" class="icon-cards__card-anchor"></a>
+    <a href="{{ site.baseurl }}/docs/for_organizers/what_you_need/advertising" class="icon-cards__card-anchor"></a>
   </div>
 </div>
 

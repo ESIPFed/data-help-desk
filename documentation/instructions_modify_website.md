@@ -75,6 +75,8 @@ You can confirm which branch you're currently on using:
 
 ### 7.  When you're on the gh-pages branch and want to make changes:
 
+Sync your fork gh-pages branch
+
 Pull down the existing repo content
 
     git pull

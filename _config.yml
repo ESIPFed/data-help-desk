@@ -63,7 +63,8 @@ sass:
     quiet_deps: true
     silence_deprecations: [import]
 
-# exclude:
+exclude:
+    - documentation/
 #     - node_modules
 
 search_enabled: true

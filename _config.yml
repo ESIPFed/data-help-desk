@@ -65,6 +65,15 @@ sass:
     silence_deprecations: [import]
 
 exclude:
-    - documentation/
+  - vendor/
+  - .bundle/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - .git/
+  - .gitignore
+  - README.md
+  - LICENSE
+  - documentation/
 
 search_enabled: true

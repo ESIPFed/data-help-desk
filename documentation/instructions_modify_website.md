@@ -108,6 +108,7 @@ git push origin feature/my-improvement
 
 -   Go to your fork on GitHub
 -   Click "Compare & pull request" (or "New pull request")
+-   Choose the branch gh-pages
 -   Fill out the description explaining your changes
 -   Submit the pull request
 

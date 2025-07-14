@@ -35,7 +35,7 @@ you're not a collaborator:
 
 ### 1. Fork the Repository
 
--   Go to the GitHub repository page
+-   Go to the GitHub repository page [https://github.com/ESIPFed/data-help-desk](https://github.com/ESIPFed/data-help-desk)
 -   Click the "Fork" button in the top right
 -   This creates a copy of the repository in your GitHub account
 

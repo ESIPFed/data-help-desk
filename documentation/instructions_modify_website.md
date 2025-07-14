@@ -53,20 +53,50 @@ cd data-help-desk
 git remote add upstream https://github.com/ESIPFed/data-help-desk.git
 ```
 
-### 4. Create a New Branch for Your Changes
+### 4.  To see all branches (including remote ones):
 
 ```bash
+git branch -a
+```
+
+### 5.  Create a local gh-pages branch that tracks the remote gh-pages branch:
+
+    git checkout -b gh-pages origin/gh-pages
+
+### 6.  The website content is on the gh-pages branch
+
+Switch to gh-pages
+
+    git checkout gh-pages
+
+You can confirm which branch you're currently on using:
+
+    git branch
+
+### 7.  When you're on the gh-pages branch and want to make changes:
+
+Pull down the existing repo content
+
+    git pull
+
+### 8. Create a New Branch for Your Changes
+
+Make sure to be on the gh-pages branch when creating a new feature branch
+
+```bash
+git checkout gh-pages
+
 git checkout -b feature/my-improvement
 # or
 git checkout -b fix/bug-description
 ```
 
-### 5. Make Your Changes
+### 9. Make Your Changes
 
 -   Edit the files you need to change
 -   Test your changes locally if possible
 
-### 6. Commit and Push to Your Fork
+### 10. Commit and Push to Your Fork
 
 ```bash
 git add .
@@ -74,14 +104,14 @@ git commit -m "Describe your changes clearly"
 git push origin feature/my-improvement
 ```
 
-### 7. Create a Pull Request
+### 11. Create a Pull Request
 
 -   Go to your fork on GitHub
 -   Click "Compare & pull request" (or "New pull request")
 -   Fill out the description explaining your changes
 -   Submit the pull request
 
-### 8. Wait for Review
+### 12. Wait for Review
 
 -   The repository maintainers will review your changes
 -   They may request modifications

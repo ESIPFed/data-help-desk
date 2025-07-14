@@ -57,6 +57,7 @@ theme: just-the-docs
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#   - node_modules
 
 # Suppress warnings
 sass:
@@ -65,6 +66,5 @@ sass:
 
 exclude:
     - documentation/
-#     - node_modules
 
 search_enabled: true

@@ -1,6 +1,6 @@
 # Instructions to use Jekyll on a mac
 
-# Install jekyll
+## Install jekyll
 
 The next commands use 'sudo' which requires your mac password
 
@@ -16,7 +16,7 @@ Install Jekyll
 
     gem install bundler jekyll
 
-# Create a website using Jekyll
+## Create a website using Jekyll
 
 Create a website called "my-website" inside the folder "parent-folder" From a
 terminal, cd to the path of the parent-folder
@@ -27,7 +27,7 @@ terminal, cd to the path of the parent-folder
 
     cd my-website
 
-# To serve the website locally and view it in a browser
+## To serve the website locally and view it in a browser
 
 In a terminal, make sure you are in the website folder and then type
 
@@ -46,7 +46,7 @@ easier to remember. They both work
 
 Hold down the control and c keys at the same time
 
-# Change the website theme
+## Change the website theme
 
 The free theme just-the-docs can be modified later and is a good starting point.
 
@@ -90,16 +90,16 @@ And to stop it, hold down the control and c keys at the same time
 
     jekyll serve \--watch
 
-# To customize the theme "just-the-docs"
+## To customize the theme "just-the-docs"
 
 Documentation for the theme is at
 [https://just-the-docs.com/](https://just-the-docs.com/)
 
-## Layout
+### Layout
 
 [https://just-the-docs.com/docs/layout/layout/](https://just-the-docs.com/docs/layout/layout/)
 
-## Navigation
+### Navigation
 
 [https://just-the-docs.com/docs/navigation/](https://just-the-docs.com/docs/navigation/)
 

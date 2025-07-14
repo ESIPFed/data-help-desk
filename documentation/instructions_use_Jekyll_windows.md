@@ -1,8 +1,8 @@
-# **Instructions to use Jekyll on Windows**
+# Instructions to use Jekyll on Windows
 
-## **Install Jekyll**
+## Install Jekyll
 
-### **Prerequisites**
+### Prerequisites
 
 First, you need to install Ruby and the Ruby DevKit on Windows. The easiest way
 is to use RubyInstaller:
@@ -16,7 +16,7 @@ is to use RubyInstaller:
    installation
 5. When prompted, press Enter again to complete the installation
 
-### **Install Bundler and Jekyll**
+### Install Bundler and Jekyll
 
 Open Command Prompt or PowerShell as Administrator and run:
 
@@ -32,7 +32,7 @@ If you get an error, rerun the command with the version suggested, for example:
 
     gem install bundler jekyll
 
-## **Create a website using Jekyll**
+## Create a website using Jekyll
 
 Create a website called "my-website" inside a folder
 
@@ -44,7 +44,7 @@ From Command Prompt or PowerShell, navigate to your desired parent folder:
 
     cd my-website
 
-## **To serve the website locally and view it in a browser**
+## To serve the website locally and view it in a browser
 
 In Command Prompt or PowerShell, make sure you are in the website folder and
 then type:
@@ -62,7 +62,7 @@ easier to remember. They both work
 
 **To stop the server** Hold down the Ctrl and C keys at the same time
 
-## **Change the website theme**
+## Change the website theme
 
 The free theme just-the-docs can be modified later and is a good starting point.
 
@@ -107,11 +107,11 @@ address bar
 
 And to stop it, hold down the Ctrl and C keys at the same time
 
-## **Use watch to continuously see updates in the browser**
+## Use watch to continuously see updates in the browser
 
     jekyll serve --watch
 
-## **To customize the theme "just-the-docs"**
+## To customize the theme "just-the-docs"
 
 Documentation for the theme is at
 [https://just-the-docs.com/](https://just-the-docs.com/)

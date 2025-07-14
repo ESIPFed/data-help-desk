@@ -37,6 +37,7 @@ you're not a collaborator:
 
 -   Go to the GitHub repository page [https://github.com/ESIPFed/data-help-desk](https://github.com/ESIPFed/data-help-desk)
 -   Click the "Fork" button in the top right
+-   Uncheck 'Copy the main branch only' since you want all branches
 -   This creates a copy of the repository in your GitHub account
 
 ### 2. Clone Your Fork Locally

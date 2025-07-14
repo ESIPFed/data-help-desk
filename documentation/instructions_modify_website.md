@@ -10,7 +10,83 @@ the repo.
 **Website:**
 [https://ESIPFed.github.io/data-help-desk/](https://ESIPFed.github.io/data-help-desk/)
 
-# To clone the GitHub repo and make edits
+**Table of Contents**
+
+[Contribute edits as a pull request](#contribute-edits-as-a-pull-request)
+
+[Contribute edits as a Collaborator](#contribute-edits-as-a-collaborator)
+
+[To make edits to the content pages](#to-make-edits-to-the-content-pages)
+
+[To customize the theme "just-the-docs"](#to-customize-the-theme-just-the-docs)
+
+## Contribute edits as a pull request
+
+### Best Practices:
+
+-   Always create a new branch for each feature/fix
+-   Write clear commit messages
+-   Keep changes focused and small
+-   Follow the project's contribution guidelines (usually in README or
+    CONTRIBUTING.md)
+
+Here's the standard procedure for contributing to a website/repository when
+you're not a collaborator:
+
+### 1. Fork the Repository
+
+-   Go to the GitHub repository page
+-   Click the "Fork" button in the top right
+-   This creates a copy of the repository in your GitHub account
+
+### 2. Clone Your Fork Locally
+
+```bash
+git clone https://github.com/<Github username>/data-help-desk.git
+cd data-help-desk
+```
+
+### 3. Add the Original Repository as "Upstream"
+
+```bash
+git remote add upstream https://github.com/ESIPFed/data-help-desk.git
+```
+
+### 4. Create a New Branch for Your Changes
+
+```bash
+git checkout -b feature/my-improvement
+# or
+git checkout -b fix/bug-description
+```
+
+### 5. Make Your Changes
+
+-   Edit the files you need to change
+-   Test your changes locally if possible
+
+### 6. Commit and Push to Your Fork
+
+```bash
+git add .
+git commit -m "Describe your changes clearly"
+git push origin feature/my-improvement
+```
+
+### 7. Create a Pull Request
+
+-   Go to your fork on GitHub
+-   Click "Compare & pull request" (or "New pull request")
+-   Fill out the description explaining your changes
+-   Submit the pull request
+
+### 8. Wait for Review
+
+-   The repository maintainers will review your changes
+-   They may request modifications
+-   Once approved, they'll merge your changes
+
+## Contribute edits as a Collaborator
 
 To clone the GitHub repository and have access to both the main and gh-pages
 branches, follow these steps:
@@ -73,27 +149,7 @@ the website.
     match the current state of the repo, make sure to do a git pull first. You
     may need to resolve conflicts first.
 
-# To view content updates locally
-
-You can either edit the pages using Visual Studio Code or a similar text editor
-(not WORD) and then push them to GitHub to see the updates, or you can install
-Jekyll on your computer and see the changes on a locally served website, and
-then push the docs to GitHub to see the updates. Without Jekyll on your
-computer, you can still preview what the markdown text will look like on GitHub
-pages using the preview option in Visual Studio Code.
-
-To view content updates on a website served on your computer, see the following
-instructions for installation and commands needed.
-
-**For a mac:** Instructions to use Jekyll on a mac
-
-[instructions_use_Jekyll_mac.md](link)
-
-**For a PC:** Instructions to use Jekyll on Windows
-
-[instructions_use_Jekyll_windows.md](link)
-
-# To view content updates online
+### To view content updates online
 
 The content changes will take some time to reflect on the website because GitHub
 is compiling them behind the scenes to become a Jekyll website displayed using
@@ -105,30 +161,30 @@ To see the progress of the Jekyll action and whether there are any problems,
 click on the commit link displayed at the top of the repo page on GitHub. This
 link will be displayed after the content is pushed to the repo.
 
-# To make edits to the markdown content pages
+## To make edits to the content pages
 
 Use Visual Studio Code (VS Code) to edit or create markdown files ending in the
 extension “.md”. Do not use Word. In VS Code, you will be able to see a preview
 of the markdown file.
 
-## Install VS Code
+### Install VS Code
 
 [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
-## Open the website folder on computer to make edits
+### Open the website folder on computer to make edits
 
 In VS Code, there will be a Welcome page with a link on it called “Open”. Click
 on this and choose the website folder. This will contain all the website
 markdown files and other files related to Jekyll.
 
-## Preview a markdown file
+### Preview a markdown file
 
 Preview a markdown file by right clicking on the open file tab in VS Code, and
 then choosing the option “Open Preview”. This will not look exactly like the
 website because there are CSS styles used for the website to modify how content
 is displayed.
 
-## Location of website content markdown files
+### Location of website content markdown files
 
 Home page: index.md
 
@@ -144,7 +200,7 @@ folder and not within a sub-folder.
 Location of sub-links: The pages inside the docs folder contained in a
 sub-folder.
 
-## Menu creation
+### Menu creation
 
 Any files in the website folder ending with “.md” will display as links in the
 website sidebar menu as long as they have “top matter”. This is the text at the
@@ -173,7 +229,7 @@ has_toc: false \---
 
 Notice the parent entry “How to” has to be the title of the parent page.
 
-## Setting the order of the menu links
+### Setting the order of the menu links
 
 The nav_order entry sets the order for main links, and if it is a child page,
 the nav_order entry sets the order of the child links.
@@ -182,22 +238,22 @@ the nav_order entry sets the order of the child links.
 section. Depending on the menu order, it can create a link in the wrong menu
 section.
 
-## If modifying menu order and document naming
+### If modifying menu order and document naming
 
 **Be careful**: If you change the name of a document or move their order, you’ll
 need to make corresponding changes in the web pages for links that reference
 that page. To find these links in the content, do a search for the original doc
 name.
 
-# To customize the theme "just-the-docs"
+## To customize the theme "just-the-docs"
 
 Documentation for the theme is at
 [https://just-the-docs.com/](https://just-the-docs.com/)
 
-## Layout
+### Layout
 
 [https://just-the-docs.com/docs/layout/layout/](https://just-the-docs.com/docs/layout/layout/)
 
-## Navigation
+### Navigation
 
 [https://just-the-docs.com/docs/navigation/](https://just-the-docs.com/docs/navigation/)

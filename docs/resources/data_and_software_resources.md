@@ -13,25 +13,25 @@ has_toc: false
 [Websites](#websites)
 
 -   [ESIP Resources](#esip-earth-science-data-resources)
--   [Managing data](#managing-data)
 -   [FAIR Data](#fair-data)
+-   [Data Management](#data-management)
+-   [Data Management Plans](#data-management-plans)
 -   [Data & Software Citation](#data--software-citation)
 -   [Documentation & MetaData](#documentation--metadata)
 -   [Data Sharing & Reuse](#data-sharing--reuse)
 -   [Find Research Datasets](#find-research-datasets)
--   [Data Management](#data-management)
--   [Data Management Plans](#data-management-plans)
 -   [Project open data](#project-open-data)
 -   [Council of Data Facilities (CDF)](#council-of-data-facilities-cdf)
 -   [COPDESS](#copdess)
+-   [Tools to find data](#tools-to-find-data)
+-   [Resource guides for data and sample sharing](#resource-guides-for-data-and-sample-sharing)
 -   [DOE (Department of Energy) resources](#doe-department-of-energy-resources)
 -   [NASA (National Aeronautics and Space Administration) resources](#nasa-national-aeronautics-and-space-administration-resources)
 -   [NOAA (National Oceanic and Atmospheric Administration) resources](#noaa-national-oceanic-and-atmospheric-administration-resources)
 -   [Smithsonian Institution resources](#smithsonian-institution-resources)
 -   [USGS (United States Geological Survey) resources](#usgs-united-states-geological-survey-resources)
 -   [Education-oriented resources](#education-oriented-resources)
-
-[Software/model-oriented resources](#softwaremodel-oriented-resources)
+-   [Software/model-oriented resources](#softwaremodel-oriented-resources)
 
 [Videos](#videos)
 
@@ -71,13 +71,17 @@ links to multiple committees that list relevant resources.
 
 [ESIP Marine Data Cluster](https://wiki.esipfed.org/MarineData)
 
-### Managing data
+### FAIR Data
 
-[Easy Resources for Managing Your Ocean Data](https://www.deepoceanobserving.org/pages/tips-for-managing-your-ocean-data)
+[EarthCube FAIR resources](https://www.earthcube.org/fair-training-materials)
+
+[figshare on FAIR](https://figshare.com/search?q=Fair)
+
+[FAIR: Findable, Accessible, Interoperable, and Reusable](https://www.force11.org/group/fairgroup/fairprinciples)
 
 ### Data Management
 
-Figshare: topic of Data management and data science
+[Easy Resources for Managing Your Ocean Data](https://www.deepoceanobserving.org/pages/tips-for-managing-your-ocean-data)
 
 [Data Management Best Practices](https://www.axiomdatascience.com/best-practices/DataManagementBestPractices.html)
 
@@ -106,14 +110,6 @@ Figshare: topic of Data management and data science
 [DMPonline](https://dmponline.dcc.ac.uk/)
 
 [Video titled "10 Simple Rules for Creating a Data Management Plan"](https://vimeo.com/488086472)
-
-### FAIR Data
-
-[EarthCube FAIR resources](https://www.earthcube.org/fair-training-materials)
-
-[figshare on FAIR](https://figshare.com/search?q=Fair)
-
-[FAIR: Findable, Accessible, Interoperable, and Reusable](https://www.force11.org/group/fairgroup/fairprinciples)
 
 ### Data & Software Citation
 
@@ -351,6 +347,25 @@ Esip Coalition for Publishing Data in the Earth and Space Sciences (COPDESS)
 
 [COPDESS 2020 Data Fair](https://copdess.org/data-fairs/2020-data-fair-at-ocean-sciences-meeting/)
 
+### Tools to find data
+
+[Index to Marine and Lacustrine Geological Samples (IMLGS)](https://www.ngdc.noaa.gov/mgg/curator/curator.html)
+IMLGS is a tool to help scientists locate geologic material stored in
+repositories around the world
+
+[CyVerse](https://cyverse.org/) CyVerse provides scientists with powerful
+platforms to handle huge datasets and complex analyses, thus enabling
+data-driven discovery. Our extensible platforms provide data storage,
+bioinformatics tools, data visualization, interactive analyses, cloud services,
+APIs, and more.
+
+### Resource guides for data and sample sharing
+
+[American Geophysical Union (AGU), Data & Software for Authors](https://www.agu.org/publish-with-agu/publish/author-resources/data-and-software-for-authors)
+[Coalition for Publishing Data in the Earth and Space Sciences (COPDESS)](https://copdess.org/)
+[Geological Society of America (GSA), Data Policy for Publications](https://www.geosociety.org/gsa/pubs/datapolicy.aspx)
+[Institutional Data Repositories: An Important Option for Complying with Data Sharing Requirements](https://deepblue.lib.umich.edu/handle/2027.42/163716)
+
 ### DOE (Department of Energy) resources
 
 [ESS-DIVE (Environmental System Science Data Infrastructure for a Virtual Ecosystem)](https://ess-dive.lbl.gov/)
@@ -395,7 +410,7 @@ Esip Coalition for Publishing Data in the Earth and Space Sciences (COPDESS)
 
 [SERC (Science Education Resource Center)](https://serc.carleton.edu/)
 
-## Software/model-oriented resources
+### Software/model-oriented resources
 
 [CIG (Computational Infrastructure for Geodynamics)](https://geodynamics.org/)
 

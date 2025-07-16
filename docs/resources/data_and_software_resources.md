@@ -12,7 +12,7 @@ has_toc: false
 
 [Websites](#websites)
 
--   [ESIP Resources](#esip-earth-science-data-resources)
+-   [ESIP Resources](#esip-resources)
 -   [FAIR Data](#fair-data)
 -   [Data Management](#data-management)
 -   [Data Management Plans](#data-management-plans)
@@ -49,30 +49,12 @@ has_toc: false
 
 [ESIP Earth Science Resources](https://www.esipfed.org/resources/)
 
+[ESIP Collaboration Areas](https://www.esipfed.org/collaboration-areas/): Includes
+links to multiple collaboration clusters that list relevant resources.
+
 [ESIP Wiki](https://wiki.esipfed.org/Main_Page)
 
-[ESIP Data Study Working Group](https://wiki.esipfed.org/Data_Study_Working_Group)
-
-[References to literature](https://wiki.esipfed.org/References_to_literature,_sent_by_01/10/13_meeting_session_participants)
-
-[Cluster mission statement discussion, drafts](https://wiki.esipfed.org/Cluster_mission_statement)
-
-[ESIP summer 2013 panel discussion](https://wiki.esipfed.org/Summer_2013_panel_discussion)
-
-[Project Open Data, a "collection of code, tools, and case studies – to help agencies adopt the Open Data Policy and unlock the potential of government data"](http://project-open-data.github.io/)
-
-[Project Open Data Implementation Guide](http://project-open-data.github.io/implementation-guide/")
-
-[NSF's "Vision and Strategy for Software for Science, Engineering, and Education: Cyberinfrastructure Framework for the 21st Century"](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf12113-)
-
-[ESIP collaboration Areas](https://www.esipfed.org/collaboration-areas/): Has
-links to multiple committees that list relevant resources.
-
-[ESIP Discovery Cluster](https://wiki.esipfed.org/Discovery_Cluster)
-
 [Discovery Cluster: Linking Datasets to the Applications that Use Them](https://www.esipfed.org/linking-datasets-to-applications/)
-
-[ESIP Marine Data Cluster](https://wiki.esipfed.org/MarineData)
 
 ### FAIR Data
 
@@ -292,6 +274,10 @@ your data type. [tdwg.org](https://www.tdwg.org)
 ### Project open data
 
 [https://resources.data.gov](https://resources.data.gov)
+
+[Project Open Data, a "collection of code, tools, and case studies – to help agencies adopt the Open Data Policy and unlock the potential of government data"](http://project-open-data.github.io/)
+
+[Project Open Data Implementation Guide](http://project-open-data.github.io/implementation-guide/")
 
 Data management & governance Playbooks, guidance, templates, and other resources
 to support the implementation of policy, the creation of data governance

@@ -176,6 +176,15 @@
   // =========================
   // Ordered Lists
   // =========================
+
+  ol:has(li:only-child) ul {
+    list-style-type: none;
+  }
+
+  ol:has(li:only-child) ul > li:only-child::before {
+    background-image: none;
+  }
+    
   ol {
     list-style: none;
     counter-reset: step-counter;

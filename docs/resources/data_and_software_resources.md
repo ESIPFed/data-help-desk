@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources - data & software
+title: Data & software resources
 parent: Resources
 nav_order: 5
 has_toc: false

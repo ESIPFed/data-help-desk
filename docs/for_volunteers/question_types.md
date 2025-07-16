@@ -9,7 +9,7 @@ has_toc: false
 # Types of Questions Asked at a Data Help Desk
 
 Here is a general overview of the types of questions asked at a data help desk.
-**For a detailed list of common questions**, see the resources section of this
+**For a detailed list of user questions**, see the resources section of this
 website: [Questions from
 users]({{ site.baseurl }}{% link docs/resources/questions_from_users.md %}).
 

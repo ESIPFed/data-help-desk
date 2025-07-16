@@ -172,35 +172,35 @@ archiving of data. The key categories of documentation to capture data include
 ### What can help scientists add metadata?
 
 <!-- prettier-ignore -->
-- **Standardized Templates**
+1. **Standardized Templates**
     - Providing pre-made templates tailored to specific fields helps streamline
       the process and ensures consistency.
-- **Clear Guidelines and Examples**
+1. **Clear Guidelines and Examples**
     - Offering straightforward, example-driven documentation can demystify
       metadata requirements and show scientists exactly what is needed.
-- **Training Workshops**
+1. **Training Workshops**
     - Conducting hands-on training sessions or webinars can equip scientists
       with the skills and confidence to create metadata effectively.
-- **Metadata Management Tools**
+1. **Metadata Management Tools**
     - Utilizing user-friendly software or platforms that facilitate metadata
       entry and management simplifies the process and reduces errors.
-- **Integration with Data Management Plans**
+1. **Integration with Data Management Plans**
     - Encouraging scientists to incorporate metadata considerations into their
       data management plans at the outset fosters a more holistic approach.
-- **Collaboration with Librarians/Archivists**
+1. **Collaboration with Librarians/Archivists**
     - Partnering with information specialists can provide expertise and support
       for metadata creation and best practices.
-- **Emphasizing Benefits**
+1. **Emphasizing Benefits**
     - Clearly communicating the long-term benefits of metadata—such as improved
       data discoverability, reuse, and compliance with funding
       requirements—motivates scientists to engage.
-- **Community Support**
+1. **Community Support**
     - Establishing forums or communities where scientists can share experiences
       and tips can enhance peer learning and provide moral support.
-- **Feedback Mechanisms**
+1. **Feedback Mechanisms**
     - Creating systems for feedback on metadata quality can help scientists
       refine their practices and improve future datasets.
-- **Automated Metadata Extraction**
+1. **Automated Metadata Extraction**
     - Leveraging tools that can automatically generate metadata from existing
       data helps reduce the burden on scientists while ensuring accuracy.
 

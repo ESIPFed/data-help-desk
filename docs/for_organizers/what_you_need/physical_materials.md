@@ -10,7 +10,7 @@ has_toc: false
 
 Effective materials — both printed and digital — are key to a successful Data Help Desk. They help attract attention, provide useful information, and support volunteers in answering questions. This page outlines the kinds of materials you'll want to prepare and how they can be used strategically throughout the event.
 
-Visit the [Resources section]({{ site.baseurl }}/docs/resources.html) for templates, examples, and editable versions of many of the materials described here.
+Visit the [Docs & Templates section]({{ site.baseurl }}/docs/for_organizers/docs_and_templates.md) for templates, examples, and editable versions of many of the materials described here.
 
 ## One-Pagers, Handouts and Postcards
 

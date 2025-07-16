@@ -39,7 +39,7 @@ When crafting posts, go beyond simply announcing the Help Desk—make the value 
 
 Sharing links to demos, one-pagers, and tools makes your posts even more actionable. We often use shortened URLs (like `bit.ly/DataHelpAGU23`) to save space and keep posts clean, especially on platforms with character limits.
 
-Example social media posts are available [here]().
+[Example social media posts]({{ site.baseurl }}{% link docs/for_organizers/docs_and_templates/example_media_messages.md %}) are available. 
 
 ---
 
@@ -51,7 +51,8 @@ ESIP regularly includes Help Desk blurbs in its community newsletter, and many c
 
 Institutional and community listservs are another key channel. These may be hosted by research groups, data repositories, academic departments, or discipline-specific communities. Keep your message concise and focused on what attendees will gain by stopping by or engaging online.
 
-If you're not sure where to start, we've put together [email templates]() that you can copy, customize, and reuse.
+If you're not sure where to start, we've put together [email
+templates]({{ site.baseurl }}{% link docs/for_organizers/docs_and_templates/email_templates.md %}) that you can copy, customize, and reuse.
 
 ---
 

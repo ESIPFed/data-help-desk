@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data help desk resources
+title: Data Help Desk Resources
 parent: Resources
 nav_order: 6
 has_toc: false

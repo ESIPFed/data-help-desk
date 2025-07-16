@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Working with data
+title: Working With Data
 parent: Resources
 nav_order: 7
 has_toc: false

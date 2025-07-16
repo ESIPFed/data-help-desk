@@ -20,10 +20,6 @@ has_toc: false
 
 [Global registry of data repositories](#global-registry-of-data-repositories)
 
-[Tools to find data](#tools-to-find-data)
-
-[Resource guides for data and sample sharing](#resource-guides-for-data-and-sample-sharing)
-
 ## Earth Science data repositories
 
 [Biological and Chemical Oceanography Data Management Office (BCO-DMO)](https://www.bco-dmo.org/)
@@ -267,22 +263,3 @@ features of species
 
 [Registry of Research Data Repositories](https://www.re3data.org/) Searchable
 global registry of data repositories
-
-## Tools to find data
-
-[Index to Marine and Lacustrine Geological Samples (IMLGS)](https://www.ngdc.noaa.gov/mgg/curator/curator.html)
-IMLGS is a tool to help scientists locate geologic material stored in
-repositories around the world
-
-[CyVerse](https://cyverse.org/) CyVerse provides scientists with powerful
-platforms to handle huge datasets and complex analyses, thus enabling
-data-driven discovery. Our extensible platforms provide data storage,
-bioinformatics tools, data visualization, interactive analyses, cloud services,
-APIs, and more.
-
-## Resource guides for data and sample sharing
-
--   [American Geophysical Union (AGU), Data & Software for Authors](https://www.agu.org/publish-with-agu/publish/author-resources/data-and-software-for-authors)
--   [Coalition for Publishing Data in the Earth and Space Sciences (COPDESS)](https://copdess.org/)
--   [Geological Society of America (GSA), Data Policy for Publications](https://www.geosociety.org/gsa/pubs/datapolicy.aspx)
--   [Institutional Data Repositories: An Important Option for Complying with Data Sharing Requirements](https://deepblue.lib.umich.edu/handle/2027.42/163716)

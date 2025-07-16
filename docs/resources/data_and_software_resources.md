@@ -18,6 +18,9 @@ has_toc: false
 -   [Data Management Plans](#data-management-plans)
 -   [Data & Software Citation](#data--software-citation)
 -   [Data Documentation & Metadata](#data-documentation--metadata)
+-   [Standards and Guidance for Adding Metadata](#standards-and-guidance-for-adding-metadata)
+-   [Web apps and open-source tools for filling in metadata](#web-apps-and-open-source-tools-for-filling-in-metadata)
+-   [Web apps and tools to help extract metadata](#web-apps-and-tools-to-help-extract-metadata)
 -   [Data Sharing & Reuse](#data-sharing--reuse)
 -   [Find Research Datasets](#find-research-datasets)
 -   [Project open data](#project-open-data)
@@ -141,7 +144,7 @@ connect your research to your data, software, & institution.
 
 [Metadata Best Practices and Data Publishing](https://learning.nceas.ucsb.edu/2023-01-arctic/metadata-best-practices-and-data-publishing.html)
 
-#### Sites regarding adding metadata to data
+### Standards and Guidance for Adding Metadata
 
 DataCite - Offers guidelines for assigning metadata to research datasets,
 focusing on citation and discoverability.
@@ -182,7 +185,7 @@ Schema.org - A collaborative, community-driven initiative to create, maintain,
 and promote schemas for structured data on the internet.
 [schema.org](https://schema.org)
 
-#### Web apps and open-source tools designed to streamline the process of filling in metadata for datasets.
+### Web apps and open-source tools for filling in metadata
 
 Metabase: An open-source tool that allows users to create metadata profiles and
 manage data effectively. It helps structure metadata input without having to
@@ -220,7 +223,7 @@ Biodiversity Information Standards (TDWG): Offers metadata standards and tools
 that facilitate the documentation of biodiversity datasets, including
 easy-to-use templates. [tdwg.org](https://www.tdwg.org)
 
-#### Free web apps and tools that can help extract metadata
+### Web apps and tools to help extract metadata
 
 Sites with information and tools to extract metadata from data files and
 accompanying documents. While not all of these tools may extract metadata

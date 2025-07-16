@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data & software resources
+title: Data & Software Resources
 parent: Resources
 nav_order: 5
 has_toc: false
@@ -49,8 +49,8 @@ has_toc: false
 
 [ESIP Earth Science Resources](https://www.esipfed.org/resources/)
 
-[ESIP Collaboration Areas](https://www.esipfed.org/collaboration-areas/): Includes
-links to multiple collaboration clusters that list relevant resources.
+[ESIP Collaboration Areas](https://www.esipfed.org/collaboration-areas/):
+Includes links to multiple collaboration clusters that list relevant resources.
 
 [ESIP Wiki](https://wiki.esipfed.org/Main_Page)
 

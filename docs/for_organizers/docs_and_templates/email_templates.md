@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Email templates
-parent: Resources
-nav_order: 3
+parent: Docs & Templates
+nav_order: 2
 has_toc: false
 ---
 

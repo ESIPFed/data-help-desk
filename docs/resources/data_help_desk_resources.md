@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Data help desks resources
+title: Data help desk resources
 parent: Resources
 nav_order: 6
 has_toc: false
 ---
 
-# Resources: Data Help Desks
+# Data Help Desk Resources
 
 ## ESIP data help desk Slack channel
 

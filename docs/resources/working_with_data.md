@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Content - Working with data
+title: Working with data
 parent: Resources
 nav_order: 7
 has_toc: false
 ---
 
-# Content: Working With Data
+# Working With Data
 
 Effective data management involves planning how data will be collected, labeled,
 stored, analyzed, and shared. Without proper data management, researchers risk

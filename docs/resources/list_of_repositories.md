@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List of data repositories
+title: List of Data Repositories
 parent: Resources
 nav_order: 1
 has_toc: false

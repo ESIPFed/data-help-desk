@@ -15,14 +15,23 @@ reproducibility of their work. Understanding the principles of data management
 can help researchers promote these practices among their colleagues and
 supervisors, fostering a culture of good data stewardship.
 
-1. [Creating Data Management Plans (DMPs)](#dmp)
-1. [Including Metadata](#metadata)
-1. [Best Practices for Data Archiving and Preservation](#best-practices)
-1. [Working With Data Among Teams](#working-with-data)
-1. [Encouraging Best Practices](#encouraging)
-1. [Data Organization](#data-organization)
-1. [How to Cite Datasets, Code, and Software](#cite)
-1. [Understanding and Implementing FAIR Principles](#fair)
+## Table of Contents
+
+[Creating Data Management Plans (DMPs)](#dmp)
+
+[Including Metadata](#metadata)
+
+[Best Practices for Data Archiving and Preservation](#best-practices)
+
+[Working With Data Among Teams](#working-with-data)
+
+[Encouraging Best Practices](#encouraging)
+
+[Data Organization](#data-organization)
+
+[How to Cite Datasets, Code, and Software](#cite)
+
+[Understanding and Implementing FAIR Principles](#fair)
 
 ## Creating Data Management Plans (DMPs) {#dmp}
 

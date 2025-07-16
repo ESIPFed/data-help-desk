@@ -362,8 +362,11 @@ APIs, and more.
 ### Resource guides for data and sample sharing
 
 [American Geophysical Union (AGU), Data & Software for Authors](https://www.agu.org/publish-with-agu/publish/author-resources/data-and-software-for-authors)
+
 [Coalition for Publishing Data in the Earth and Space Sciences (COPDESS)](https://copdess.org/)
+
 [Geological Society of America (GSA), Data Policy for Publications](https://www.geosociety.org/gsa/pubs/datapolicy.aspx)
+
 [Institutional Data Repositories: An Important Option for Complying with Data Sharing Requirements](https://deepblue.lib.umich.edu/handle/2027.42/163716)
 
 ### DOE (Department of Energy) resources

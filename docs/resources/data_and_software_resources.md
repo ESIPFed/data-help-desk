@@ -17,7 +17,7 @@ has_toc: false
 -   [Data Management](#data-management)
 -   [Data Management Plans](#data-management-plans)
 -   [Data & Software Citation](#data--software-citation)
--   [Documentation & MetaData](#documentation--metadata)
+-   [Data Documentation & Metadata](#data-documentation--metadata)
 -   [Data Sharing & Reuse](#data-sharing--reuse)
 -   [Find Research Datasets](#find-research-datasets)
 -   [Project open data](#project-open-data)
@@ -81,6 +81,10 @@ links to multiple committees that list relevant resources.
 
 ### Data Management
 
+[Article on data management, an overview](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/0012-9623-90.2.205)
+
+[Easy Resources for Managing Marine Data](https://www.esipfed.org/easy-resources-for-managing-marine-data/)
+
 [Easy Resources for Managing Your Ocean Data](https://www.deepoceanobserving.org/pages/tips-for-managing-your-ocean-data)
 
 [Data Management Best Practices](https://www.axiomdatascience.com/best-practices/DataManagementBestPractices.html)
@@ -123,19 +127,17 @@ Research Software and Improving Discovery.
 This Digital Presence Checklist from theAGU ShelleyStall libcce helps you
 connect your research to your data, software, & institution.
 
-### Documentation & MetaData
+### Data Documentation & Metadata
 
-[Why is metadata important?](https://www.opendatasoft.com/en/blog/what-is-metadata-and-why-is-it-important-data/)
-
-#### What to document with data
-
-https://managing-qualitative-data.org/modules/2/a/
-
-https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata
+[Principles of Documenting Data](https://managing-qualitative-data.org/modules/2/a/)
 
 [Data documentation: what to include](https://dism.duke.edu/files/2020/05/Tipsheet-archiving_and_sharing_data.pdf)
 
-About metadata https://www.ncei.noaa.gov/resources/metadata#Intro
+[Why is metadata important?](https://www.opendatasoft.com/en/blog/what-is-metadata-and-why-is-it-important-data/)
+
+[Documentation and metadata](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata)
+
+[NCEI metadata: learn, create, maintain and use](https://www.ncei.noaa.gov/resources/metadata#Intro)
 
 [Metadata Best Practices and Data Publishing](https://learning.nceas.ucsb.edu/2023-01-arctic/metadata-best-practices-and-data-publishing.html)
 
@@ -283,12 +285,6 @@ your data type. [tdwg.org](https://www.tdwg.org)
 ### Find Research Datasets
 
 [Finding and reusing research datasets](https://library.bath.ac.uk/research-data/finding-data/home)
-
-### Data Management
-
-[Easy Resources for Managing Marine Data](https://www.esipfed.org/easy-resources-for-managing-marine-data/)
-
-[Article on data management, an overview](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/0012-9623-90.2.205)
 
 ### Project open data
 

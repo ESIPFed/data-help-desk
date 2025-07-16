@@ -6,6 +6,6 @@ nav_order: 5
 has_toc: true
 ---
 
-# Docs & Templates
+# Documents & Templates
 
-add a blurb
+Various documents and templates needed to set up a data help desk.

@@ -21,13 +21,10 @@ the logistical challenges of monitoring multiple question channels and avoiding
 overwhelming volunteers.
 
 Think about the researchers' context during the event. For instance, at a
-physical conference, researchers might be walking through the exhibit hall or
+conference, researchers might be walking through the exhibit hall or
 attending sessions. Placing the Data Help Desk in a central location with high
 visibility, such as the Exhibit Hall, can increase awareness and accessibility.
 However, a location outside the main bustle might be preferable in some cases.
-For virtual events, considerations shift to the digital platforms being used for
-the meeting. A presence within the main virtual platform can boost visibility
-but might create another space for volunteers to monitor.
 
 The comfort level of researchers when asking questions is also crucial. Some
 researchers might prefer public platforms, while others may feel more at ease

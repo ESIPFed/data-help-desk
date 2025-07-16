@@ -57,6 +57,7 @@ adequate support, and acknowledge their valuable contributions.
       and then hand-pick a set of volunteers, especially for smaller events.
       Working closely with experts prior to the event can be time-consuming but
       rewarding.
+    - A variety of presentation topics can be found on the page [Presentation Topics]({{ site.baseurl }}{% link docs/for_volunteers/presentation_topics.md %}).
 1. **Highlighting Diverse Ways to Contribute Expertise**
     -   Clearly communicate the various ways experts can participate:
         -   Answering data and software questions in person at the help desk booth.

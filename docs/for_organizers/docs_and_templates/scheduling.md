@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Scheduling
-parent: Resources
-nav_order: 10
+parent: Docs & Templates
+nav_order: 5
 has_toc: false
 ---
 

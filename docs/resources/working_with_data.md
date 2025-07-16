@@ -136,35 +136,35 @@ archiving of data. The key categories of documentation to capture data include
 ### Barriers scientists face for adding metadata
 
 <!-- prettier-ignore -->
-- **Lack of Standardization**
+1. **Lack of Standardization**
     - There are numerous metadata standards, and
    choosing the right one can be confusing.
-- **Complexity of Requirements**
+1. **Complexity of Requirements**
     - Metadata requirements can be extensive and
    complex, leading to frustration in understanding what is necessary.
-- **Insufficient Training**
+1. **Insufficient Training**
     - Many scientists lack formal training on metadata
    practices, resulting in uncertainty about how to create or implement it
    effectively.
-- **Time Constraints**
+1. **Time Constraints**
     - The demands of research and publication often leave
    little time for the additional task of creating comprehensive metadata.
-- **Limited Resources**
+1. **Limited Resources**
     - Smaller labs or institutions may not have dedicated
    personnel or resources to assist with metadata creation.
-- **Poor Documentation**
+1. **Poor Documentation**
     - Existing documentation may be overly technical,
    poorly organized, or just a wall of text without clear examples.
-- **Perceived Low Value**
+1. **Perceived Low Value**
     - Some scientists may not see the immediate benefits
    of adding metadata, viewing it as an optional extra rather than a necessity.
-- **Software Limitations**
+1. **Software Limitations**
     - Tools and platforms for data management may not
    support easy metadata integration, leading to additional manual work.
-- **Data Privacy Concerns**
+1. **Data Privacy Concerns**
     - Worries about sharing sensitive or proprietary
    information can deter scientists from fully documenting their datasets.
-- **Resistance to Change**
+1. **Resistance to Change**
     - Established practices and habits can be hard to
     change, and some scientists may be reluctant to adopt new methodologies for
     data management.

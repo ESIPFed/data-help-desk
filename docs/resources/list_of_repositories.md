@@ -145,6 +145,8 @@ climatic, and land use settings
 repositories, supporting enhanced search and discovery of Earth and
 environmental data
 
+[PANGAEA. Data Publisher for Earth & Environmental Science](https://www.pangaea.de/) with services open for archiving, publishing, and distributing georeferenced data from earth system research. The World Data Center PANGAEA is a member of the World Data System. Topic Areas: Chemistry, Lithosphere, Atmosphere, Biological Classification, Paleontology, Oceans, Ecology, Land Surface, Biosphere, Geophysics, Cryosphere, Lakes & Rivers, Human Dimensions, Fisheries, and Agriculture.
+
 [NHERI DesignSafe Data Depot](https://www.designsafe-ci.org/) publicly available
 datasets on wildfire
 

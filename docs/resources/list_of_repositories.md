@@ -101,8 +101,6 @@ format
 [Informal Cosmogenic-nuclide Exposure-age Database (ICE-D)](https://version2.ice-d.org/)
 for cosmogenic-nuclide exposure dating data
 
-[Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/)
-
 [IODP (International Ocean Drilling Program) core repositories](https://www.iodp.org/resources/core-repositories%C2%A0%C2%A0)
 IODP cores - physical samples drilled from the seafloor - are stored and curated
 at core repositories funded by the platform providers. Cores are assigned to

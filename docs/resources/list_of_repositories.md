@@ -314,5 +314,5 @@ features of species
 
 ## Global registry of data repositories
 
-[Registry of Research Data Repositories](https://www.re3data.org/) Searchable
+[re3data (Registry of Research Data Repositories)](https://www.re3data.org/) Searchable
 global registry of data repositories

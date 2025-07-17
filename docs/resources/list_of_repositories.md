@@ -22,6 +22,13 @@ has_toc: false
 
 ## Earth Science data repositories
 
+[Antarctic Meteorological Research Data Center (AMRDC)](https://amrdcdata.ssec.wisc.edu/)
+providing real-time and archived meteorological data and observations in
+Antarctica
+
+[Arctic Data Center (ADC)](https://arcticdata.io/) NSF-funded science in the
+Arctic
+
 [Biological and Chemical Oceanography Data Management Office (BCO-DMO)](https://www.bco-dmo.org/)
 BCO-DMO curates a database of research-ready data spanning the full range of
 marine ecosystem-related measurements including in-situ and remotely-sensed
@@ -34,27 +41,92 @@ Program (GO-SHIP), World Ocean Circulation Experiment (WOCE), Climate and
 Ocean - Variability, Predictability and Change (CLIVAR) and other repeat
 hydrography programs
 
-[Marine Geoscience Data System (MGDS)](https://www.marine-geo.org/index.php)
-MGDS is a data repository that provides free public access to a curated
-collection of marine geophysical data products and complementary data collected
-throughout the global oceans
-
-[National Deep Submergence Facility (NDSF)](https://ndsf.whoi.edu/data/)
-The National Deep Submergence Facility (NDSF) manages data collected by the
-submersible Alvin, ROV Jason and AUV Sentry.
-
-[EarthChem](https://www.earthchem.org/) EarthChem provides open data services to
-the geochemical, petrological, mineralogical and related communities.
-
-[Seismological Facility for the Advancement of Geoscience (SAGE) Data Management Center (DMC)](https://ds.iris.edu/ds/nodes/dmc/)
-SAGE DMC serves marine seismic data collected by ocean bottom seismometers (OBS)
-
 [Community Surface Dynamics Modeling System (CSDMS)](https://csdms.colorado.edu/wiki/Main_Page)
 CSDMS develops, supports, and disseminates integrated software modules that
 predict the erosion, transport, and deposition of sediment and solutes in
 landscapes and their sedimentary basins. CSDMS provides a repository for many
 different model types dealing with surface Earth processes and sediment
 distribution
+
+[Continental Scientific Drilling Facility](https://cse.umn.edu/csd) (includes
+former LacCore and CSDCO) for all types of research involving coring and
+drilling on land and in lakes
+
+[CUAHSI (Consortium of Universities for the Advancement of Hydrologic Science)](https://www.cuahsi.org/data-services/solutions)
+hydrologic data
+
+[CZNet (Critical Zone Collaborative Network) Data](https://criticalzone.org/data)
+comprised of nine Thematic Cluster study areas with a wide range of geological,
+climatic, and land use settings
+
+[DataONE](https://www.dataone.org/) access to data across multiple member
+repositories, supporting enhanced search and discovery of Earth and
+environmental data
+
+[EarthChem](https://www.earthchem.org/) EarthChem provides open data services to
+the geochemical, petrological, mineralogical and related communities.
+
+[EarthChem](https://www.earthchem.org/) (Including PetDB, LEPR, and Geochron)
+geochemical, petrological, mineralogical data
+
+[EarthChem Library](http://earthchem.org/data/contribute) for geochemical and
+chronological data
+
+[EDI (Environmental Data Initiative) Repository](https://edirepository.org/)
+environmental data
+
+[Environmental Data Initiative](https://edirepository.org/) LTER Long-Term
+Ecological Research (LTER) data
+
+[Exchange for Local Observations and Knowledge of the Arctic (ELOKA)](https://eloka-arctic.org/)
+data stewardship of Local and Indigenous Knowledge
+
+[GAGE (Geodetic Facility for the Advancement of Geoscience) data services](https://www.unavco.org/data/data.html)
+The data types include GPS/GNSS, SAR and Lidar/SfM, strain and seismic borehole
+data, and Tropospheric data
+
+[Geological Collections of the Scripps Institution of Oceanography (SIO)](https://scripps.ucsd.edu/geological-collections)
+The collections hold about 7,500 deep ocean cores, more than 3,500 deep sea
+dredges, and approximately 40,000 slides of marine microfossils in the main rock
+and core collections, and about 10,000 samples of rocks and fossils in the
+teaching collection
+
+[ICE-D (Informal Cosmogenic-Nuclide Exposure-Age Database)](https://version2.ice-d.org/)
+geologic observational data
+
+[iDigBio (Integrated Digitized Biocollections)](https://www.idigbio.org/) data
+and images for millions of biological specimens made available in electronic
+format
+
+[Informal Cosmogenic-nuclide Exposure-age Database (ICE-D)](https://version2.ice-d.org/)
+for cosmogenic-nuclide exposure dating data
+
+[Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/)
+
+[IODP (International Ocean Drilling Program) core repositories](https://www.iodp.org/resources/core-repositories%C2%A0%C2%A0)
+IODP cores - physical samples drilled from the seafloor - are stored and curated
+at core repositories funded by the platform providers. Cores are assigned to
+specific repositories based on their ocean of origin as shown below. After the
+expedition moratorium period, core samples may be requested for scientific
+research
+
+[Joint Archive for Shipboard ADCP (JASADCP)](https://uhslc.soest.hawaii.edu/sadcp/)
+for ocean current data
+
+[Lamont-Doherty Earth Observatory](https://corerepository.ldeo.columbia.edu/)
+Core repository collection of over 20,000 marine sediment and rock samples
+spanning the globe
+
+[MagIC (Magnetics Information Consortium)](https://www2.earthref.org/MagIC) open
+community digital data repository for rock and paleomagnetic data
+
+[Marine Geoscience Data System (MGDS)](https://www.marine-geo.org/index.php)
+MGDS is a data repository that provides free public access to a curated
+collection of marine geophysical data products and complementary data collected
+throughout the global oceans
+
+[Marine Geoscience Data System (MGDS)](http://www.marine-geo.org/submit/) for
+marine geological/geophysical data
 
 [Microstructure Database](https://cchdo.ucsd.edu/submit) Scripps Institution of
 Oceanography maintains this website for archiving and reporting on
@@ -67,65 +139,25 @@ oceanographic and coastal data, weather and climate data, surface meteorological
 data, paleoclimate and paleoceanographic data, and geophysical and geological
 data
 
-[NOAA's World Data Service for Paleoclimatology (NOAA-Paleo)](https://www.ncei.noaa.gov/products/paleoclimatology)
-NOAA-Paleo archives and distributes a wide range of paleoclimate and
-paleoceanographic data contributed by scientists around the world
-
-[Arctic Data Center (ADC)](https://arcticdata.io/) NSF-funded science in the
-Arctic
-
-[Antarctic Meteorological Research Data Center (AMRDC)](https://amrdcdata.ssec.wisc.edu/)
-providing real-time and archived meteorological data and observations in
-Antarctica
-
-[Environmental Data Initiative](https://edirepository.org/) LTER Long-Term
-Ecological Research (LTER) data
-
-[Exchange for Local Observations and Knowledge of the Arctic (ELOKA)](https://eloka-arctic.org/)
-data stewardship of Local and Indigenous Knowledge
-
-[Polar Geospatial Center (PGC)](https://www.pgc.umn.edu/) a library of diverse
-geospatial datasets including commercial satellite imagery, high-resolution
-DEMs, and an historical and contemporary map catalog
-
-[U.S. Geological Survey (USGS)](http://www.usgs.gov/products) Topographic maps
-and aerial photographs of Antarctica
-
-[U.S. Antarctic Research Center](http://usarc.usgs.gov/) database of Antarctic
-place names, maps, and photographs.
-
-[U.S. Antarctic Program Data Center (USAP-DC)](https://www.usap-dc.org/) all
-projects funded by the NSF Antarctic program and a Data Repository for research
-datasets derived from these projects
-
-[CUAHSI (Consortium of Universities for the Advancement of Hydrologic Science)](https://www.cuahsi.org/data-services/solutions)
-hydrologic data
-
-[EarthChem Library](http://earthchem.org/data/contribute) for geochemical and
-chronological data
-
-[NSF Seismological Facility for the Advancement of Geoscience (NSF SAGE)](https://ds.iris.edu/ds/nodes/dmc/)
-for seismological data
-
-[Informal Cosmogenic-nuclide Exposure-age Database (ICE-D)](https://version2.ice-d.org/)
-for cosmogenic-nuclide exposure dating data
-
-[Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/)
-
-[Joint Archive for Shipboard ADCP (JASADCP)](https://uhslc.soest.hawaii.edu/sadcp/)
-for ocean current data
-
-[Marine Geoscience Data System (MGDS)](http://www.marine-geo.org/submit/) for
-marine geological/geophysical data
-
-[NSF NCAR Research Data Archive (RDA)](https://rda.ucar.edu/) for meteorology
-data, atmospheric parameters, etc.
-
 [National Centers for Environmental Information (NCEI)](https://www.ncdc.noaa.gov/data-access/paleoclimatology-data/contributing)
 for paleoclimate data
 
+[National Deep Submergence Facility (NDSF)](https://ndsf.whoi.edu/data/) The
+National Deep Submergence Facility (NDSF) manages data collected by the
+submersible Alvin, ROV Jason and AUV Sentry.
+
 [National Snow and Ice Data Center (NSIDC)](https://nsidc.org/) for cryosphere
 data. Requires a letter of collaboration.
+
+[Neotoma Paleoecology Database](https://www.neotomadb.org/) paleoecological and
+paleoenvironmental data
+
+[NHERI DesignSafe Data Depot](https://www.designsafe-ci.org/) publicly available
+datasets on wildfire
+
+[NOAA's World Data Service for Paleoclimatology (NOAA-Paleo)](https://www.ncei.noaa.gov/products/paleoclimatology)
+NOAA-Paleo archives and distributes a wide range of paleoclimate and
+paleoceanographic data contributed by scientists around the world
 
 [NSF Division of Ocean Sciences approved repositories](https://new.nsf.gov/geo/oce/data-sample-repositories)
 for oceanographic data
@@ -134,42 +166,42 @@ for oceanographic data
 data types include GPS/GNSS, SAR and Lidar/SfM, strain and seismic borehole
 data, and Tropospheric data
 
-[CZNet (Critical Zone Collaborative Network) Data](https://criticalzone.org/data)
-comprised of nine Thematic Cluster study areas with a wide range of geological,
-climatic, and land use settings
+[NSF Ice Core Facility](https://icecores.org/) (NSF-ICF) facility for storing,
+curating, and studying meteoric ice cores recovered from the glaciated regions
+of the world
 
-[DataONE](https://www.dataone.org/) access to data across multiple member
-repositories, supporting enhanced search and discovery of Earth and
-environmental data
+[NSF NCAR Research Data Archive (RDA)](https://rda.ucar.edu/) for meteorology
+data, atmospheric parameters, etc.
 
-[PANGAEA. Data Publisher for Earth & Environmental Science](https://www.pangaea.de/) with services open for archiving, publishing, and distributing georeferenced data from earth system research. The World Data Center PANGAEA is a member of the World Data System. Topic Areas: Chemistry, Lithosphere, Atmosphere, Biological Classification, Paleontology, Oceans, Ecology, Land Surface, Biosphere, Geophysics, Cryosphere, Lakes & Rivers, Human Dimensions, Fisheries, and Agriculture.
+[NSF Seismological Facility for the Advancement of Geoscience (NSF SAGE)](https://ds.iris.edu/ds/nodes/dmc/)
+for seismological data
 
-[NHERI DesignSafe Data Depot](https://www.designsafe-ci.org/) publicly available
-datasets on wildfire
-
-[EarthChem](https://www.earthchem.org/) (Including PetDB, LEPR, and Geochron)
-geochemical, petrological, mineralogical data
-
-[EDI (Environmental Data Initiative) Repository](https://edirepository.org/)
-environmental data
-
-[GAGE (Geodetic Facility for the Advancement of Geoscience) data services](https://www.unavco.org/data/data.html)
-The data types include GPS/GNSS, SAR and Lidar/SfM, strain and seismic borehole
-data, and Tropospheric data
-
-[ICE-D (Informal Cosmogenic-Nuclide Exposure-Age Database)](https://version2.ice-d.org/)
-geologic observational data
-
-[MagIC (Magnetics Information Consortium)](https://www2.earthref.org/MagIC) open
-community digital data repository for rock and paleomagnetic data
-
-[Neotoma Paleoecology Database](https://www.neotomadb.org/) paleoecological and
-paleoenvironmental data
+[Ohio State University – Polar Rocks Repository](https://prr.osu.edu/) contains
+over 60,000 rock samples from Antarctica and the southern oceans along with
+small collections from South America, Africa, and Australia. The PRR collection
+also includes field notes, maps, thin sections, as well as an extensive media
+archive
 
 [Open Topography](http://opentopography.org/) High-Resolution Topography Data
 and Tools
 
+[Oregon State University – Marine and Geology Repository](https://osu-mgr.org/)
+Marine Geology and Geophysics, Antarctic Core, and Dredge and Dive Rock
+collections
+
+[PANGAEA. Data Publisher for Earth & Environmental Science](https://www.pangaea.de/)
+with services open for archiving, publishing, and distributing georeferenced
+data from earth system research. The World Data Center PANGAEA is a member of
+the World Data System. Topic Areas: Chemistry, Lithosphere, Atmosphere,
+Biological Classification, Paleontology, Oceans, Ecology, Land Surface,
+Biosphere, Geophysics, Cryosphere, Lakes & Rivers, Human Dimensions, Fisheries,
+and Agriculture.
+
 [PBDB (Paleobiology Database)](https://paleobiodb.org/) paleontological data
+
+[Polar Geospatial Center (PGC)](https://www.pgc.umn.edu/) a library of diverse
+geospatial datasets including commercial satellite imagery, high-resolution
+DEMs, and an historical and contemporary map catalog
 
 [Polar Geospatial Center](https://www.pgc.umn.edu/) PGC has an archive of many
 open data products such as digital elevation models, historic and contemporary
@@ -179,8 +211,31 @@ polar maps, and historic aerial photography.
 archiving, curation, and distribution of seismological and other geophysical
 research data and data products
 
+[Seismological Facility for the Advancement of Geoscience (SAGE) Data Management Center (DMC)](https://ds.iris.edu/ds/nodes/dmc/)
+SAGE DMC serves marine seismic data collected by ocean bottom seismometers (OBS)
+
 [StraboSpot](https://strabospot.org/) field and laboratory data in the Geologic
 Sciences
+
+[System for Earth and Extraterrestrial Sample Registration (SESAR)](http://www.geosamples.org/)
+for sample information and registration
+
+[The Marine Geological Samples Laboratory (MGSL) of the Graduate School of Oceanography (GSO), University of Rhode Island](https://web.uri.edu/gso/research/marine-geological-samples-laboratory/)
+dredge rocks, deep-sea cores, and land-based geological samples
+
+[The Seafloor Samples Laboratory of the Woods Hole Oceanographic Institution (WHOI)](https://www2.whoi.edu/site/seafloorsampleslab/)
+Holds more than 14,000 archived marine geological samples that have been
+carefully recovered from the seabed
+
+[U.S. Antarctic Program Data Center (USAP-DC)](https://www.usap-dc.org/) all
+projects funded by the NSF Antarctic program and a Data Repository for research
+datasets derived from these projects
+
+[U.S. Antarctic Research Center](http://usarc.usgs.gov/) database of Antarctic
+place names, maps, and photographs.
+
+[U.S. Geological Survey (USGS)](http://www.usgs.gov/products) Topographic maps
+and aerial photographs of Antarctica
 
 [Vhub (volcano) / Ghub (Greenland ice sheet)](http://theghub.org/) datasets,
 workflows, and tools to unify ice sheet observations and modeling

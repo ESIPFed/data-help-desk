@@ -130,9 +130,6 @@ data. Requires a letter of collaboration.
 [NSF Division of Ocean Sciences approved repositories](https://new.nsf.gov/geo/oce/data-sample-repositories)
 for oceanographic data
 
-[System for Earth and Extraterrestrial Sample Registration (SESAR)](http://www.geosamples.org/)
-for sample information and registration
-
 [NSF Geodetic Facility for the Advancement of Geoscience (NSF GAGE)](https://www.unavco.org/data/data.html)
 data types include GPS/GNSS, SAR and Lidar/SfM, strain and seismic borehole
 data, and Tropospheric data
@@ -215,7 +212,8 @@ small collections from South America, Africa, and Australia. The PRR collection
 also includes field notes, maps, thin sections, as well as an extensive media
 archive
 
-[System for Earth Sample Registration (SESAR)](https://www.geosamples.org/)
+[System for Earth and Extraterrestrial Sample Registration (SESAR)](http://www.geosamples.org/)
+for sample information and registration
 
 [Lamont-Doherty Earth Observatory](https://corerepository.ldeo.columbia.edu/)
 Core repository collection of over 20,000 marine sediment and rock samples

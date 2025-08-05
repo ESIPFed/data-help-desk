@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Content - Working with data
+title: Working With Data
 parent: Resources
 nav_order: 7
 has_toc: false
 ---
 
-# Content: Working With Data
+# Working With Data
 
 Effective data management involves planning how data will be collected, labeled,
 stored, analyzed, and shared. Without proper data management, researchers risk
@@ -15,14 +15,23 @@ reproducibility of their work. Understanding the principles of data management
 can help researchers promote these practices among their colleagues and
 supervisors, fostering a culture of good data stewardship.
 
-1. [Creating Data Management Plans (DMPs)](#dmp)
-1. [Including Metadata](#metadata)
-1. [Best Practices for Data Archiving and Preservation](#best-practices)
-1. [Working With Data Among Teams](#working-with-data)
-1. [Encouraging Best Practices](#encouraging)
-1. [Data Organization](#data-organization)
-1. [How to Cite Datasets, Code, and Software](#cite)
-1. [Understanding and Implementing FAIR Principles](#fair)
+## Table of Contents
+
+[Creating Data Management Plans (DMPs)](#dmp)
+
+[Including Metadata](#metadata)
+
+[Best Practices for Data Archiving and Preservation](#best-practices)
+
+[Working With Data Among Teams](#working-with-data)
+
+[Encouraging Best Practices](#encouraging)
+
+[Data Organization](#data-organization)
+
+[How to Cite Datasets, Code, and Software](#cite)
+
+[Understanding and Implementing FAIR Principles](#fair)
 
 ## Creating Data Management Plans (DMPs) {#dmp}
 
@@ -136,35 +145,35 @@ archiving of data. The key categories of documentation to capture data include
 ### Barriers scientists face for adding metadata
 
 <!-- prettier-ignore -->
-- **Lack of Standardization**
+1. **Lack of Standardization**
     - There are numerous metadata standards, and
    choosing the right one can be confusing.
-- **Complexity of Requirements**
+1. **Complexity of Requirements**
     - Metadata requirements can be extensive and
    complex, leading to frustration in understanding what is necessary.
-- **Insufficient Training**
+1. **Insufficient Training**
     - Many scientists lack formal training on metadata
    practices, resulting in uncertainty about how to create or implement it
    effectively.
-- **Time Constraints**
+1. **Time Constraints**
     - The demands of research and publication often leave
    little time for the additional task of creating comprehensive metadata.
-- **Limited Resources**
+1. **Limited Resources**
     - Smaller labs or institutions may not have dedicated
    personnel or resources to assist with metadata creation.
-- **Poor Documentation**
+1. **Poor Documentation**
     - Existing documentation may be overly technical,
    poorly organized, or just a wall of text without clear examples.
-- **Perceived Low Value**
+1. **Perceived Low Value**
     - Some scientists may not see the immediate benefits
    of adding metadata, viewing it as an optional extra rather than a necessity.
-- **Software Limitations**
+1. **Software Limitations**
     - Tools and platforms for data management may not
    support easy metadata integration, leading to additional manual work.
-- **Data Privacy Concerns**
+1. **Data Privacy Concerns**
     - Worries about sharing sensitive or proprietary
    information can deter scientists from fully documenting their datasets.
-- **Resistance to Change**
+1. **Resistance to Change**
     - Established practices and habits can be hard to
     change, and some scientists may be reluctant to adopt new methodologies for
     data management.
@@ -172,35 +181,35 @@ archiving of data. The key categories of documentation to capture data include
 ### What can help scientists add metadata?
 
 <!-- prettier-ignore -->
-- **Standardized Templates**
+1. **Standardized Templates**
     - Providing pre-made templates tailored to specific fields helps streamline
       the process and ensures consistency.
-- **Clear Guidelines and Examples**
+1. **Clear Guidelines and Examples**
     - Offering straightforward, example-driven documentation can demystify
       metadata requirements and show scientists exactly what is needed.
-- **Training Workshops**
+1. **Training Workshops**
     - Conducting hands-on training sessions or webinars can equip scientists
       with the skills and confidence to create metadata effectively.
-- **Metadata Management Tools**
+1. **Metadata Management Tools**
     - Utilizing user-friendly software or platforms that facilitate metadata
       entry and management simplifies the process and reduces errors.
-- **Integration with Data Management Plans**
+1. **Integration with Data Management Plans**
     - Encouraging scientists to incorporate metadata considerations into their
       data management plans at the outset fosters a more holistic approach.
-- **Collaboration with Librarians/Archivists**
+1. **Collaboration with Librarians/Archivists**
     - Partnering with information specialists can provide expertise and support
       for metadata creation and best practices.
-- **Emphasizing Benefits**
+1. **Emphasizing Benefits**
     - Clearly communicating the long-term benefits of metadata—such as improved
       data discoverability, reuse, and compliance with funding
       requirements—motivates scientists to engage.
-- **Community Support**
+1. **Community Support**
     - Establishing forums or communities where scientists can share experiences
       and tips can enhance peer learning and provide moral support.
-- **Feedback Mechanisms**
+1. **Feedback Mechanisms**
     - Creating systems for feedback on metadata quality can help scientists
       refine their practices and improve future datasets.
-- **Automated Metadata Extraction**
+1. **Automated Metadata Extraction**
     - Leveraging tools that can automatically generate metadata from existing
       data helps reduce the burden on scientists while ensuring accuracy.
 

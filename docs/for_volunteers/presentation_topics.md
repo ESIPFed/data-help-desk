@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Presentation ideas
-parent: Resources
-nav_order: 8
-has_toc: false
+title: Presentation Topics
+parent: For Volunteers
+nav_order: 3
+has_toc: true
 ---
 
-# Presentation Ideas for a Data Help Desk
-
-## Data Desk Presentation Topics for Experts
+# Presentation Topics
 
 -   **General Data Management:** Users are often looking for a basic
     understanding of what data management entails and seek guidance on

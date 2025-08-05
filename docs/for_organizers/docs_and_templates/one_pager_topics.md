@@ -1,12 +1,12 @@
 ---
 layout: page
-title: One-pager ideas
-parent: Resources
-nav_order: 7
+title: One-pager topics
+parent: Docs & Templates
+nav_order: 4
 has_toc: false
 ---
 
-# One-Pager Ideas for a Data Help Desk
+# One-Pager Topics for a Data Help Desk
 
 A data help desk is looking to point to any one-pagers that might help
 researchers with finding, managing, visualizing, analyzing, publishing, or

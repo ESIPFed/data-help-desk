@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Docs for volunteers
-parent: People & Support
-nav_order: 7
+title: Docs for Volunteers
+parent: Docs & Templates
+nav_order: 1
 has_toc: false
 ---
 
@@ -37,7 +37,7 @@ Remind & encourage volunteers, including deadlines and support provided via
 email just after the volunteer deadline.
 
 See [email
-templates]({{ site.baseurl }}{% link docs/resources/email_templates.md %})
+templates]({{ site.baseurl }}{% link docs/for_organizers/docs_and_templates/email_templates.md %})
 
 ## Volunteering form
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Questions from users
+title: Questions From Users
 parent: Resources
 nav_order: 2
 has_toc: false

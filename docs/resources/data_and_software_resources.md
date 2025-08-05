@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources - data & software
+title: Data & Software Resources
 parent: Resources
 nav_order: 5
 has_toc: false
@@ -12,26 +12,29 @@ has_toc: false
 
 [Websites](#websites)
 
--   [ESIP Resources](#esip-earth-science-data-resources)
--   [Managing data](#managing-data)
+-   [ESIP Resources](#esip-resources)
 -   [FAIR Data](#fair-data)
--   [Data & Software Citation](#data--software-citation)
--   [Documentation & MetaData](#documentation--metadata)
--   [Data Sharing & Reuse](#data-sharing--reuse)
--   [Find Research Datasets](#find-research-datasets)
 -   [Data Management](#data-management)
 -   [Data Management Plans](#data-management-plans)
+-   [Data & Software Citation](#data--software-citation)
+-   [Data Documentation & Metadata](#data-documentation--metadata)
+-   [Standards and Guidance for Adding Metadata](#standards-and-guidance-for-adding-metadata)
+-   [Web apps and open-source tools for filling in metadata](#web-apps-and-open-source-tools-for-filling-in-metadata)
+-   [Web apps and tools to help extract metadata](#web-apps-and-tools-to-help-extract-metadata)
+-   [Data Sharing & Reuse](#data-sharing--reuse)
+-   [Find Research Datasets](#find-research-datasets)
 -   [Project open data](#project-open-data)
 -   [Council of Data Facilities (CDF)](#council-of-data-facilities-cdf)
 -   [COPDESS](#copdess)
+-   [Tools to find data](#tools-to-find-data)
+-   [Resource guides for data and sample sharing](#resource-guides-for-data-and-sample-sharing)
 -   [DOE (Department of Energy) resources](#doe-department-of-energy-resources)
 -   [NASA (National Aeronautics and Space Administration) resources](#nasa-national-aeronautics-and-space-administration-resources)
 -   [NOAA (National Oceanic and Atmospheric Administration) resources](#noaa-national-oceanic-and-atmospheric-administration-resources)
 -   [Smithsonian Institution resources](#smithsonian-institution-resources)
 -   [USGS (United States Geological Survey) resources](#usgs-united-states-geological-survey-resources)
 -   [Education-oriented resources](#education-oriented-resources)
-
-[Software/model-oriented resources](#softwaremodel-oriented-resources)
+-   [Software/model-oriented resources](#softwaremodel-oriented-resources)
 
 [Videos](#videos)
 
@@ -46,38 +49,28 @@ has_toc: false
 
 [ESIP Earth Science Resources](https://www.esipfed.org/resources/)
 
+[ESIP Collaboration Areas](https://www.esipfed.org/collaboration-areas/):
+Includes links to multiple collaboration clusters that list relevant resources.
+
 [ESIP Wiki](https://wiki.esipfed.org/Main_Page)
-
-[ESIP Data Study Working Group](https://wiki.esipfed.org/Data_Study_Working_Group)
-
-[References to literature](https://wiki.esipfed.org/References_to_literature,_sent_by_01/10/13_meeting_session_participants)
-
-[Cluster mission statement discussion, drafts](https://wiki.esipfed.org/Cluster_mission_statement)
-
-[ESIP summer 2013 panel discussion](https://wiki.esipfed.org/Summer_2013_panel_discussion)
-
-[Project Open Data, a "collection of code, tools, and case studies – to help agencies adopt the Open Data Policy and unlock the potential of government data"](http://project-open-data.github.io/)
-
-[Project Open Data Implementation Guide](http://project-open-data.github.io/implementation-guide/")
-
-[NSF's "Vision and Strategy for Software for Science, Engineering, and Education: Cyberinfrastructure Framework for the 21st Century"](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf12113-)
-
-[ESIP collaboration Areas](https://www.esipfed.org/collaboration-areas/): Has
-links to multiple committees that list relevant resources.
-
-[ESIP Discovery Cluster](https://wiki.esipfed.org/Discovery_Cluster)
 
 [Discovery Cluster: Linking Datasets to the Applications that Use Them](https://www.esipfed.org/linking-datasets-to-applications/)
 
-[ESIP Marine Data Cluster](https://wiki.esipfed.org/MarineData)
+### FAIR Data
 
-### Managing data
+[EarthCube FAIR resources](https://www.earthcube.org/fair-training-materials)
 
-[Easy Resources for Managing Your Ocean Data](https://www.deepoceanobserving.org/pages/tips-for-managing-your-ocean-data)
+[figshare on FAIR](https://figshare.com/search?q=Fair)
+
+[FAIR: Findable, Accessible, Interoperable, and Reusable](https://www.force11.org/group/fairgroup/fairprinciples)
 
 ### Data Management
 
-Figshare: topic of Data management and data science
+[Article on data management, an overview](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/0012-9623-90.2.205)
+
+[Easy Resources for Managing Marine Data](https://www.esipfed.org/easy-resources-for-managing-marine-data/)
+
+[Easy Resources for Managing Your Ocean Data](https://www.deepoceanobserving.org/pages/tips-for-managing-your-ocean-data)
 
 [Data Management Best Practices](https://www.axiomdatascience.com/best-practices/DataManagementBestPractices.html)
 
@@ -107,14 +100,6 @@ Figshare: topic of Data management and data science
 
 [Video titled "10 Simple Rules for Creating a Data Management Plan"](https://vimeo.com/488086472)
 
-### FAIR Data
-
-[EarthCube FAIR resources](https://www.earthcube.org/fair-training-materials)
-
-[figshare on FAIR](https://figshare.com/search?q=Fair)
-
-[FAIR: Findable, Accessible, Interoperable, and Reusable](https://www.force11.org/group/fairgroup/fairprinciples)
-
 ### Data & Software Citation
 
 [Data Citation Guidelines for Earth Science Data, Version 2](https://esip.figshare.com/articles/online_resource/Data_Citation_Guidelines_for_Earth_Science_Data_Version_2/8441816/1?file=15738041)
@@ -127,23 +112,21 @@ Research Software and Improving Discovery.
 This Digital Presence Checklist from theAGU ShelleyStall libcce helps you
 connect your research to your data, software, & institution.
 
-### Documentation & MetaData
+### Data Documentation & Metadata
 
-[Why is metadata important?](https://www.opendatasoft.com/en/blog/what-is-metadata-and-why-is-it-important-data/)
-
-#### What to document with data
-
-https://managing-qualitative-data.org/modules/2/a/
-
-https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata
+[Principles of Documenting Data](https://managing-qualitative-data.org/modules/2/a/)
 
 [Data documentation: what to include](https://dism.duke.edu/files/2020/05/Tipsheet-archiving_and_sharing_data.pdf)
 
-About metadata https://www.ncei.noaa.gov/resources/metadata#Intro
+[Why is metadata important?](https://www.opendatasoft.com/en/blog/what-is-metadata-and-why-is-it-important-data/)
+
+[Documentation and metadata](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata)
+
+[NCEI metadata: learn, create, maintain and use](https://www.ncei.noaa.gov/resources/metadata#Intro)
 
 [Metadata Best Practices and Data Publishing](https://learning.nceas.ucsb.edu/2023-01-arctic/metadata-best-practices-and-data-publishing.html)
 
-#### Sites regarding adding metadata to data
+### Standards and Guidance for Adding Metadata
 
 DataCite - Offers guidelines for assigning metadata to research datasets,
 focusing on citation and discoverability.
@@ -184,7 +167,7 @@ Schema.org - A collaborative, community-driven initiative to create, maintain,
 and promote schemas for structured data on the internet.
 [schema.org](https://schema.org)
 
-#### Web apps and open-source tools designed to streamline the process of filling in metadata for datasets.
+### Web apps and open-source tools for filling in metadata
 
 Metabase: An open-source tool that allows users to create metadata profiles and
 manage data effectively. It helps structure metadata input without having to
@@ -222,7 +205,7 @@ Biodiversity Information Standards (TDWG): Offers metadata standards and tools
 that facilitate the documentation of biodiversity datasets, including
 easy-to-use templates. [tdwg.org](https://www.tdwg.org)
 
-#### Free web apps and tools that can help extract metadata
+### Web apps and tools to help extract metadata
 
 Sites with information and tools to extract metadata from data files and
 accompanying documents. While not all of these tools may extract metadata
@@ -288,15 +271,13 @@ your data type. [tdwg.org](https://www.tdwg.org)
 
 [Finding and reusing research datasets](https://library.bath.ac.uk/research-data/finding-data/home)
 
-### Data Management
-
-[Easy Resources for Managing Marine Data](https://www.esipfed.org/easy-resources-for-managing-marine-data/)
-
-[Article on data management, an overview](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/0012-9623-90.2.205)
-
 ### Project open data
 
 [https://resources.data.gov](https://resources.data.gov)
+
+[Project Open Data, a "collection of code, tools, and case studies – to help agencies adopt the Open Data Policy and unlock the potential of government data"](http://project-open-data.github.io/)
+
+[Project Open Data Implementation Guide](http://project-open-data.github.io/implementation-guide/")
 
 Data management & governance Playbooks, guidance, templates, and other resources
 to support the implementation of policy, the creation of data governance
@@ -351,6 +332,28 @@ Esip Coalition for Publishing Data in the Earth and Space Sciences (COPDESS)
 
 [COPDESS 2020 Data Fair](https://copdess.org/data-fairs/2020-data-fair-at-ocean-sciences-meeting/)
 
+### Tools to find data
+
+[Index to Marine and Lacustrine Geological Samples (IMLGS)](https://www.ngdc.noaa.gov/mgg/curator/curator.html)
+IMLGS is a tool to help scientists locate geologic material stored in
+repositories around the world
+
+[CyVerse](https://cyverse.org/) CyVerse provides scientists with powerful
+platforms to handle huge datasets and complex analyses, thus enabling
+data-driven discovery. Our extensible platforms provide data storage,
+bioinformatics tools, data visualization, interactive analyses, cloud services,
+APIs, and more.
+
+### Resource guides for data and sample sharing
+
+[American Geophysical Union (AGU), Data & Software for Authors](https://www.agu.org/publish-with-agu/publish/author-resources/data-and-software-for-authors)
+
+[Coalition for Publishing Data in the Earth and Space Sciences (COPDESS)](https://copdess.org/)
+
+[Geological Society of America (GSA), Data Policy for Publications](https://www.geosociety.org/gsa/pubs/datapolicy.aspx)
+
+[Institutional Data Repositories: An Important Option for Complying with Data Sharing Requirements](https://deepblue.lib.umich.edu/handle/2027.42/163716)
+
 ### DOE (Department of Energy) resources
 
 [ESS-DIVE (Environmental System Science Data Infrastructure for a Virtual Ecosystem)](https://ess-dive.lbl.gov/)
@@ -395,7 +398,7 @@ Esip Coalition for Publishing Data in the Earth and Space Sciences (COPDESS)
 
 [SERC (Science Education Resource Center)](https://serc.carleton.edu/)
 
-## Software/model-oriented resources
+### Software/model-oriented resources
 
 [CIG (Computational Infrastructure for Geodynamics)](https://geodynamics.org/)
 

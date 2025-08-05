@@ -18,7 +18,7 @@ answer. This is why having a diversity of volunteers in terms of organizations
 and topics is valuable. This makes a range of knowledge bases available and
 beneficial to users.
 
-## Benefits of volunteering
+## Benefits of Volunteering
 
 1. Some benefits of volunteering at a data help desk are meeting new and
    familiar faces at the event. This is a way for those early in their careers
@@ -35,7 +35,7 @@ beneficial to users.
    students and researchers in your field to learn about the range of data
    needs, and hearing the types of questions researchers are asking right now.
 
-## Different ways to participate
+## Different Ways to Participate
 
 There are various ways for people to volunteer based on their comfort level and
 availability.
@@ -59,14 +59,14 @@ availability.
 You will be expected to staff the desk or monitor platforms for scheduled time
 slots, often 1-2 hours.
 
--   You will be at the booth in the exhibit hall or similar location. This may
+1. You will be at the booth in the exhibit hall or similar location. This may
     involve giving demos of tools or resources, possibly at the main booth or a
     nearby kiosk. Handouts and stickers may be available.
--   You might be monitoring designated online platforms, such as BlueSky (using
+1. You might be monitoring designated online platforms, such as BlueSky (using
     the event hashtag like #DataHelpDesk) and/or a Slack channel, to identify
     and respond to questions. You can respond via your personal or an
     organizational BlueSky account.
--   You will should be with a schedule beforehand.
+1. You will should be with a schedule beforehand.
 
 ## Preparation and Support
 
@@ -85,7 +85,7 @@ non-intimidating, regardless of a volunteer's experience level.
 1. Reminders about staffing time slots and encouragement from organizers are
    part of the support.
 
-## Read the provided guidelines clarifying what to expect when volunteering
+## Guidelines clarifying what to expect when volunteering
 
 <!-- prettier-ignore -->
 1. The guidelines should clarify opportunities and expectations,
@@ -109,7 +109,7 @@ non-intimidating, regardless of a volunteer's experience level.
    individuals to choose roles that align with their availability and comfort
    level.
 
-## Interacting with Users
+## Interacting With Users
 
 You will engage directly with researchers, who may be students, postdocs, early
 career, or established professionals. Many people that come up to a data help

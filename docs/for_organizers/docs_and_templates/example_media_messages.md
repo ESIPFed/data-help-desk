@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Example media messages
-parent: Resources
-nav_order: 4
+parent: Docs & Templates
+nav_order: 3
 has_toc: false
 ---
 

@@ -13,6 +13,8 @@ This page provides an **extended list** of data repositories across disciplines.
 For a concise, one-page handout used at the in-person Data Help Desk, see the curated PDF:  
 [Download the one-pager]({{ site.baseurl }}/assets/docs/ESIP%20Data%20Help%20Desk%20-%20Quick%20Reference%20Guide%20%28Oct2025%29.pdf)
 
+Developed in collaboration with the [ESIP Open Science Cluster](https://www.esipfed.org/collaboration-areas/open-science/)
+
 ## Table of Contents
 
 - [Multidisciplinary Repositories](#multidisciplinary-repositories)

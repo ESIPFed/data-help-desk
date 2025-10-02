@@ -11,7 +11,7 @@ Exploring where to *contribute data*? Check out those marked with (✝)
 
 This page provides an **extended list** of data repositories across disciplines.  
 For a concise, one-page handout used at the in-person Data Help Desk, see the curated PDF:  
-[Download the one-pager](/assets/docs/ESIP%20Data%20Help%20Desk%20-%20Quick%20Reference%20Guide%20%28Oct2025%29.pdf)
+[Download the one-pager]({{ site.baseurl }}/assets/docs/ESIP%20Data%20Help%20Desk%20-%20Quick%20Reference%20Guide%20%28Oct2025%29.pdf)
 
 ## Table of Contents
 

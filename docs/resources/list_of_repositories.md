@@ -31,7 +31,8 @@ For a concise, one-page handout used at the in-person Data Help Desk, see the cu
 
 ## Multidisciplinary Repositories
 - ✝ [DataONE](https://www.dataone.org/) – Cross-repository discovery for Earth & environmental science data.  
-- ✝ [Figshare](https://figshare.com/) – Provider of open research repository infrastructure.  
+- ✝ [Figshare](https://figshare.com/) – Provider of open research repository infrastructure.
+- ✝ [Mendeley Data](https://data.mendeley.com/) – Free and secure cloud-based communal repository.  
 - ✝ [The Open Science Framework (OSF)](https://osf.io/) – Collaboration tool to support researchers throughout their entire project lifecycle.  
 - ✝ [PANGAEA](https://www.pangaea.de/) – Digital data library and a data publisher for earth system science.  
 - [re3data](https://www.re3data.org/) – Registry of research data repositories (searchable index).  
@@ -51,6 +52,7 @@ For a concise, one-page handout used at the in-person Data Help Desk, see the cu
 ---
 
 ## Cryosphere & Polar Data
+- [Antarctic Meteorological Research and Data Center (AMRDC)](https://amrdc.ssec.wisc.edu/) – Archived meteorological data and observations from Antarctic research.  
 - ✝ [National Snow and Ice Data Center (NSIDC)](https://nsidc.org/) – Cryospheric data and related geophysical data.  
 - [UMN Polar Geospatial Center (PGC)](https://www.pgc.umn.edu/) – Polar satellite imagery, digital elevation models, and historical maps.  
 - ✝ [USAP-DC](https://www.usap-dc.org/) – Datasets derived from The NSF Antarctic program.  
@@ -75,6 +77,7 @@ For a concise, one-page handout used at the in-person Data Help Desk, see the cu
 ---
 
 ## Ecological & Terrestrial Observations
+- [CZNet](https://discover.criticalzone.org/) – Environmental data from the Critical Zone Collaborative network.  
 - ✝ [Environmental Data Initiative (EDI)](https://edirepository.org/) – Ecological and environmental data, primarily from the LTER program.  
 - ✝ [ESS-DIVE](https://ess-dive.lbl.gov) – Repository for environmental systems science data from DOE’s Office of Science BER program.  
 - ✝ [HydroShare](https://www.hydroshare.org/) – Collaborative environment for sharing hydrologic data and models.  
@@ -88,7 +91,8 @@ For a concise, one-page handout used at the in-person Data Help Desk, see the cu
 - ✝ [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) – Biodiversity occurrence and observational data aggregator.  
 - [iDigBio](https://portal.idigbio.org/) – Images and metadata for millions of biological specimens.  
 - ✝ [Morphobank](https://morphobank.org/) – Repository with information on anatomy, physiology, and behavior of species.  
-- ✝ [Movebank Data Repository](https://datarepository.movebank.org/) – Animal tracking and animal-borne sensor datasets.  
+- ✝ [Movebank Data Repository](https://datarepository.movebank.org/) – Animal tracking and animal-borne sensor datasets.
+- [NASA Open Science Data Repository (OSDR)](https://www.nasa.gov/osdr/) – Data related to responses of terrestrial life to spaceflight.  
 - ✝ [Ocean Biodiversity Information System (OBIS)](https://obis.org/) – Marine biodiversity occurrence records.  
 
 ---
@@ -110,6 +114,7 @@ For a concise, one-page handout used at the in-person Data Help Desk, see the cu
 ---
 
 ## Indigenous Knowledge & Knowledge Systems
+- [ELOKA](https://eloka.nsidc.org/) – Exchange for Local Observations and Knowledge of the Arctic.  
 - ✝ [Native Land Digital (NLD)](https://native-land.ca/) – Digital maps of Indigenous territories, languages, and treaties.  
 
 ---

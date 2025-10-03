@@ -7,5 +7,3 @@ has_toc: true
 ---
 
 # Resources
-
-add blurb

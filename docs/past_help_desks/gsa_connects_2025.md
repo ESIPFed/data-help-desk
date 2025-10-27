@@ -94,13 +94,14 @@ has_toc: false
 
 Preferred citation:
 
-> Earth Science Information Partners (ESIP); Geological Society of America — Geoinformatics & Data Science Division (GIDS) (2025). *Data Help Desk @ GSA Connects 2025* [Event landing page & materials]. Zenodo. https://doi.org/10.5281/zenodo.17458265
+> Earth Science Information Partners, & Geological Society of America. (2025). Data Help Desk @ GSA Connects 2025. The Geological Society of America Connects 2025 (GSA Connects 2025), San Antonio, Texas, USA. Zenodo. https://doi.org/10.5281/zenodo.17458265
 
 **BibTeX:**
 ```
 @misc{DHD_GSA2025,
+  author       = {Earth Science Information Partners and Geological Society of America},
   title        = {Data Help Desk @ GSA Connects 2025},
-  author       = {Earth Science Information Partners (ESIP) and Geological Society of America — Geoinformatics \& Data Science Division (GIDS)},
+  howpublished = {The Geological Society of America Connects 2025 (GSA Connects 2025), San Antonio, Texas, USA},
   year         = {2025},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.17458265},

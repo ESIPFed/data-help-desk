@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-nav_order: 10
+nav_order: 11
 has_toc: false
 ---
 

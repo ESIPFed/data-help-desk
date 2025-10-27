@@ -21,8 +21,6 @@ Desk events at conferences.
 
 **Meeting Schedule**
 
--   **Second Fridays at 1:00 PM ET** – Core Meetings (for planning and
-    coordination; email to request an invite)
 -   **Fourth Fridays at 1:00 PM ET** – Community Meetings (open to all; access
     via the
     [ESIP Community Calendar](https://www.esipfed.org/community-calendar))
